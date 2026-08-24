@@ -83,6 +83,9 @@ Signal the end clearly.
 - Asking: "Can you review my PR when you get a chance?" — /kən juː rɪˈvjuː maɪ piː ˈɑːr wen juː ɡet ə tʃæns/
 - Approving: "Looks good to me." — /lʊks ɡʊd tə miː/
 - With feedback: "I left a few comments." — /aɪ left ə fjuː ˈkɑːments/
+- Approving after minor notes: "Everything else looks good." — /ˈevriθɪŋ els lʊks ɡʊd/
+
+> "Everything else" is singular → always **looks**, not "look". Clearer than "otherwise" or "the rest" for a non-native reader.
 
 ### 12. Asking project status
 - "Where are we on the August release?" — /wer ɑːr wi ɑːn ði ˈɔːɡəst rɪˈliːs/
