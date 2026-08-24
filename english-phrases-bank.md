@@ -101,6 +101,12 @@ Signal the end clearly.
 ### 15. Steering the session
 - "Let's move on." — /lets muːv ɑːn/
 
+### 16. Asking someone to help fix my English
+- "Could you flag anything that doesn't sound natural?" — /kʊd juː flæɡ ˈeniθɪŋ ðæt ˈdʌzənt saʊnd ˈnætʃrəl/
+- Longer: "I want to get better at speaking by chatting with you like I would with a person. Could you flag anything that doesn't sound natural, like you did above?"
+
+> "doesn't sound natural" beats the idiom "sounds off" — Tier 2, clear to any non-native.
+
 ---
 
 ## Mouth muscle exercises
