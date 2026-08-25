@@ -52,8 +52,11 @@ Signal the end clearly.
 - If it's the connection: "You cut out for a second." — /juː kʌt aʊt fɔːr ə ˈsekənd/
 
 ### 9. Asking for clarification
-- "What do you mean by that?" — /wʌt duː juː miːn baɪ ðæt/
+- Ask a person what THEY meant: "What do you mean by that?" — /wʌt duː juː miːn baɪ ðæt/
 - Or name the thing: "What do you mean by *staging*?"
+- Ask about a term itself (e.g. seen in a doc): "What does 'sign off' mean?" — /wʌt dʌz saɪn ɔːf miːn/
+
+> "does ... mean" = asking the meaning of a word (like a dictionary). "do you mean by" = asking a specific person what THEY meant — needs someone in front of you.
 
 ### 10. Asking about scale
 - "How big is it?" — /haʊ bɪɡ ɪz ɪt/
