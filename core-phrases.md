@@ -82,7 +82,6 @@ Signal the end clearly.
 
 ### 16. Asking someone to help fix my English
 - "Could you tell me anything that doesn't sound natural?" — /kʊd juː tel mi ˈeniθɪŋ ðæt ˈdʌzənt saʊnd ˈnætʃrəl/
-- Longer: "I want to get better at speaking by chatting with you like I would with a person. Could you tell me anything that doesn't sound natural, like you did above?"
 
 > "tell me" beats "flag" here — "flag" (meaning point out) is a bit idiomatic; "tell me" is clearer to any non-native. And "doesn't sound natural" beats the idiom "sounds off".
 
