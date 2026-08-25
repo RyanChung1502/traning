@@ -87,3 +87,9 @@ Signal the end clearly.
 - "Could you take a look?" — /kʊd juː teɪk ə lʊk/
 
 > Warm, friendly way to ask for help. Much softer than "Please check this." (an order).
+
+### 19. Answering "How's it going?" on a rough morning
+- "Not great, to be honest. The drive to work was tiring — the traffic was really heavy."
+- Also: "The roads were really crowded."
+
+> "to be honest" makes it real without sounding heavy. Collocations: **heavy traffic** (xe), **crowded roads** (đường/nơi chốn) — not "crowded traffic".
