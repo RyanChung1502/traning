@@ -1,4 +1,4 @@
-# Vocabulary & resources
+# Vocabulary
 
 ## Vocabulary picked up
 

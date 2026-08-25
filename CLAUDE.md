@@ -38,7 +38,7 @@ lives in the linked files, but these apply every message.
 - [pronunciation-watchlist.md](pronunciation-watchlist.md) — tracked sounds
 - [grammar-notes.md](grammar-notes.md) — recurring grammar rules
 - [mouth-exercises.md](mouth-exercises.md) — articulation drills
-- [vocabulary-and-resources.md](vocabulary-and-resources.md) — vocab + resources
+- [vocabulary.md](vocabulary.md) — vocab + warm-tone tips
 - [my-corrections.md](my-corrections.md) — log of his mistakes → natural version
 
 ## Logging corrections
