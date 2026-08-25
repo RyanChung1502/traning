@@ -12,8 +12,8 @@ Break the silence while people join.
 - Looks tired: "You look tired. Is everything okay?" — /juː lʊk ˈtaɪərd · ɪz ˈevriθɪŋ oʊˈkeɪ/
 
 Answering back on a rough morning:
-- "Not great, to be honest. The drive to work was tiring — the traffic was really heavy."
-- Also: "The roads were really crowded."
+- "Not great, to be honest. The drive to work was tiring — the traffic was heavy."
+- Also: "The roads were crowded."
 
 > "How's" (/z/ buzz) is fixed now — use the natural contraction, no more "How is" workaround.
 > Warm reactions: ask about the situation ("Is everything okay?"), not their "issue" ("Do you have any issue?" sounds cold). Positive → "really" is fine (You look really happy).
@@ -48,7 +48,7 @@ Signal the end clearly.
 - "Let me get back to you on that." — /let mi ɡet bæk tə juː ɑːn ðæt/
 
 ### 8. Didn't catch something
-- "Sorry, can you repeat that?" — /ˈsɑːri · kən juː rɪˈpiːt ðæt/
+- "Sorry, can you say that again?" — /ˈsɑːri · kən juː seɪ ðæt əˈɡen/
 - If it's the connection: "You cut out for a second." — /juː kʌt aʊt fɔːr ə ˈsekənd/
 
 ### 9. Asking for clarification
