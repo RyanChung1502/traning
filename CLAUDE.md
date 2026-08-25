@@ -39,6 +39,13 @@ lives in the linked files, but these apply every message.
 - [grammar-notes.md](grammar-notes.md) — recurring grammar rules
 - [mouth-exercises.md](mouth-exercises.md) — articulation drills
 - [vocabulary-and-resources.md](vocabulary-and-resources.md) — vocab + resources
+- [my-corrections.md](my-corrections.md) — log of his mistakes → natural version
+
+## Logging corrections
+
+When Ryan says to log a correction (or "add that to my corrections"), append the
+`what I said → more natural` pair to the top table of
+[my-corrections.md](my-corrections.md), then commit and push.
 
 ## When Ryan asks to update his phrase bank
 

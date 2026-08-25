@@ -17,3 +17,4 @@ IPA notes: `ˈ` marks the stressed syllable · `·` marks a natural pause · Gen
 | [pronunciation-watchlist.md](pronunciation-watchlist.md) | Tracked words, IPA symbols, daily drill |
 | [grammar-notes.md](grammar-notes.md) | Small grammar rules I keep needing |
 | [vocabulary-and-resources.md](vocabulary-and-resources.md) | Vocabulary picked up, learning resources, still to build |
+| [my-corrections.md](my-corrections.md) | My real mistakes → the natural version, for review |
