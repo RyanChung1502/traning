@@ -98,3 +98,9 @@ Signal the end clearly.
 - "You look tired. Is everything okay?" — /juː lʊk ˈtaɪərd · ɪz ˈevriθɪŋ oʊˈkeɪ/
 
 > Warm and human. Ask about the situation ("Is everything okay?"), not about their "issue" — "Do you have any issue?" sounds cold and technical.
+
+### 21. Reacting to someone who looks happy or full of energy
+- Happy: "You look happy! Did something good happen?" — /juː lʊk ˈhæpi · dɪd ˈsʌmθɪŋ ɡʊd ˈhæpən/
+- Energetic: "You look full of energy! Have you been working out?" — /juː lʊk fʊl əv ˈenərdʒi · hæv juː bɪn ˈwɜːrkɪŋ aʊt/
+
+> Positive → "really" is fine here (You look really happy). Plain works too — no need for really/today unless you want to dial it up. "working out" = tập thể dục.
