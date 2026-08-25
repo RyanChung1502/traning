@@ -93,3 +93,8 @@ Signal the end clearly.
 - Also: "The roads were really crowded."
 
 > "to be honest" makes it real without sounding heavy. Collocations: **heavy traffic** (xe), **crowded roads** (đường/nơi chốn) — not "crowded traffic".
+
+### 20. Checking on someone who looks tired
+- "You look tired. Is everything okay?" — /juː lʊk ˈtaɪərd · ɪz ˈevriθɪŋ oʊˈkeɪ/
+
+> Warm and human. Ask about the situation ("Is everything okay?"), not about their "issue" — "Do you have any issue?" sounds cold and technical.
