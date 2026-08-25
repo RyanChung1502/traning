@@ -75,3 +75,8 @@ Signal the end clearly.
 - Longer: "I want to get better at speaking by chatting with you like I would with a person. Could you flag anything that doesn't sound natural, like you did above?"
 
 > "doesn't sound natural" beats the idiom "sounds off" — Tier 2, clear to any non-native.
+
+### 17. Flagging a bug / something to fix
+- "I think this needs to be fixed." — /aɪ θɪŋk ðɪs niːdz tə bi fɪkst/
+
+> Softer than "This is wrong." "I think..." keeps the tone friendly while still being clear.
