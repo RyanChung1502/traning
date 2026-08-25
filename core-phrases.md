@@ -15,12 +15,14 @@ Break the silence while people join.
 Ask for an update, then move on.
 
 - "How is your story going?" — /haʊ ɪz jɔːr ˈstɔːri ˈɡoʊɪŋ/
-- "Next up, Ryan's story. How is it going?" — /nekst ʌp ˈraɪənz ˈstɔːri · haʊ ɪz ɪt ˈɡoʊɪŋ/
+- "Let's move on to Ryan's story. How is it going?" — /lets muːv ɑːn tə ˈraɪənz ˈstɔːri · haʊ ɪz ɪt ˈɡoʊɪŋ/
 
 ### 3. After someone finishes
 Acknowledge, no dead air.
 
-- "Thanks, Ryan. Next up..." — /θæŋks ˈraɪən · nekst ʌp/
+- "Thanks, Ryan. Let's move on to [name]." — /θæŋks ˈraɪən · lets muːv ɑːn tə/
+
+> Replaced "Next up" — the /kst/ + "up" was hard to say. "Let's move on to..." is easier and reuses "move on" (see #15).
 
 ### 4. Closing the meeting
 Signal the end clearly.
@@ -71,10 +73,10 @@ Signal the end clearly.
 - "Let's move on." — /lets muːv ɑːn/
 
 ### 16. Asking someone to help fix my English
-- "Could you flag anything that doesn't sound natural?" — /kʊd juː flæɡ ˈeniθɪŋ ðæt ˈdʌzənt saʊnd ˈnætʃrəl/
-- Longer: "I want to get better at speaking by chatting with you like I would with a person. Could you flag anything that doesn't sound natural, like you did above?"
+- "Could you tell me anything that doesn't sound natural?" — /kʊd juː tel mi ˈeniθɪŋ ðæt ˈdʌzənt saʊnd ˈnætʃrəl/
+- Longer: "I want to get better at speaking by chatting with you like I would with a person. Could you tell me anything that doesn't sound natural, like you did above?"
 
-> "doesn't sound natural" beats the idiom "sounds off" — Tier 2, clear to any non-native.
+> "tell me" beats "flag" here — "flag" (meaning point out) is a bit idiomatic; "tell me" is clearer to any non-native. And "doesn't sound natural" beats the idiom "sounds off".
 
 ### 17. Flagging a bug / something to fix
 - "I think this needs to be fixed." — /aɪ θɪŋk ðɪs niːdz tə bi fɪkst/

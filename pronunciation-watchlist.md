@@ -11,7 +11,7 @@
 | how's | house | ends with a buzz /z/ — **parked**, use "how is" |
 | your side | outside | use "over there" instead |
 | fun | from | say "sun", swap S for F |
-| next up | next app | "up" like "cup" — **parked** |
+| next up | next app | **replaced** — say "Let's move on to..." instead |
 | going | growing | no R |
 | could | court | rhymes with "wood" — or just drop it |
 | next | neck / met | light /t/ tap ✅ fixed |
