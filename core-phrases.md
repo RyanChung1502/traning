@@ -8,8 +8,11 @@ Break the silence while people join.
 - "How's your morning going?" — /haʊz jɔːr ˈmɔːrnɪŋ ˈɡoʊɪŋ/
 - "Anything fun this weekend?" — /ˈeniθɪŋ fʌn ðɪs ˈwiːkend/
 - "How's the weather over there?" — /haʊz ðə ˈweðər ˈoʊvər ðer/
+- Looks happy: "You look happy! Did something good happen?" — /juː lʊk ˈhæpi · dɪd ˈsʌmθɪŋ ɡʊd ˈhæpən/
+- Looks energetic: "You look full of energy! Have you been working out?" — /juː lʊk fʊl əv ˈenərdʒi · hæv juː bɪn ˈwɜːrkɪŋ aʊt/
 
 > "How's" (/z/ buzz) is fixed now — use the natural contraction, no more "How is" workaround.
+> Positive → "really" is fine (You look really happy). Plain works too. "working out" = tập thể dục — hỏi khi có lý do fitness; nếu chỉ trông vui, "You're in a good mood today!" tự nhiên hơn.
 
 ### 2. Moving through the board
 Ask for an update, then move on.
@@ -98,9 +101,3 @@ Signal the end clearly.
 - "You look tired. Is everything okay?" — /juː lʊk ˈtaɪərd · ɪz ˈevriθɪŋ oʊˈkeɪ/
 
 > Warm and human. Ask about the situation ("Is everything okay?"), not about their "issue" — "Do you have any issue?" sounds cold and technical.
-
-### 21. Reacting to someone who looks happy or full of energy
-- Happy: "You look happy! Did something good happen?" — /juː lʊk ˈhæpi · dɪd ˈsʌmθɪŋ ɡʊd ˈhæpən/
-- Energetic: "You look full of energy! Have you been working out?" — /juː lʊk fʊl əv ˈenərdʒi · hæv juː bɪn ˈwɜːrkɪŋ aʊt/
-
-> Positive → "really" is fine here (You look really happy). Plain works too — no need for really/today unless you want to dial it up. "working out" = tập thể dục.
