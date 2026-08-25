@@ -82,3 +82,8 @@ Signal the end clearly.
 - "I think this needs to be fixed." — /aɪ θɪŋk ðɪs niːdz tə bi fɪkst/
 
 > Softer than "This is wrong." "I think..." keeps the tone friendly while still being clear.
+
+### 18. Asking someone to check something
+- "Could you take a look?" — /kʊd juː teɪk ə lʊk/
+
+> Warm, friendly way to ask for help. Much softer than "Please check this." (an order).
