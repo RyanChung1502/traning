@@ -8,7 +8,7 @@
 | daily | daddy | ✅ fixed |
 | basis | by six | "BAY...sis", no K |
 | it vs eat | eat | short, lazy /ɪ/ ✅ both fixed |
-| how's | house | ends with a buzz /z/ — **parked**, use "how is" |
+| how's | house | /z/ buzz ✅ fixed — use "how's" now |
 | your side | outside | use "over there" instead |
 | fun | from | say "sun", swap S for F |
 | next up | next app | **replaced** — say "Let's move on to..." instead |

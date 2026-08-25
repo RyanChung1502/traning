@@ -5,17 +5,17 @@ IPA notes: `ˈ` stressed syllable · `·` natural pause · General American.
 ### 1. Opening the daily
 Break the silence while people join.
 
-- "How is your morning going?" — /haʊ ɪz jɔːr ˈmɔːrnɪŋ ˈɡoʊɪŋ/
+- "How's your morning going?" — /haʊz jɔːr ˈmɔːrnɪŋ ˈɡoʊɪŋ/
 - "Anything fun this weekend?" — /ˈeniθɪŋ fʌn ðɪs ˈwiːkend/
-- "How is the weather over there?" — /haʊ ɪz ðə ˈweðər ˈoʊvər ðer/
+- "How's the weather over there?" — /haʊz ðə ˈweðər ˈoʊvər ðer/
 
-> Use the full **"How is"**, not "How's". It avoids the /z/ and still sounds natural.
+> "How's" (/z/ buzz) is fixed now — use the natural contraction, no more "How is" workaround.
 
 ### 2. Moving through the board
 Ask for an update, then move on.
 
-- "How is your story going?" — /haʊ ɪz jɔːr ˈstɔːri ˈɡoʊɪŋ/
-- "Let's move on to Ryan's story. How is it going?" — /lets muːv ɑːn tə ˈraɪənz ˈstɔːri · haʊ ɪz ɪt ˈɡoʊɪŋ/
+- "How's your story going?" — /haʊz jɔːr ˈstɔːri ˈɡoʊɪŋ/
+- "Let's move on to Ryan's story. How's it going?" — /lets muːv ɑːn tə ˈraɪənz ˈstɔːri · haʊz ɪt ˈɡoʊɪŋ/
 
 ### 3. After someone finishes
 Acknowledge, no dead air.
@@ -67,7 +67,7 @@ Signal the end clearly.
 - "I get that, but I think we should wait." — /aɪ ɡet ðæt · bʌt aɪ θɪŋk wi ʃʊd weɪt/
 
 ### 14. Opening a one-to-one
-- "How is the team doing?" — /haʊ ɪz ðə tiːm ˈduːɪŋ/
+- "How's the team doing?" — /haʊz ðə tiːm ˈduːɪŋ/
 
 ### 15. Steering the session
 - "Let's move on." — /lets muːv ɑːn/
