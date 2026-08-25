@@ -9,10 +9,15 @@ Break the silence while people join.
 - "Anything fun this weekend?" — /ˈeniθɪŋ fʌn ðɪs ˈwiːkend/
 - "How's the weather over there?" — /haʊz ðə ˈweðər ˈoʊvər ðer/
 - Looks happy: "You look happy! Did something good happen?" — /juː lʊk ˈhæpi · dɪd ˈsʌmθɪŋ ɡʊd ˈhæpən/
-- Looks energetic: "You look full of energy! Have you been working out?" — /juː lʊk fʊl əv ˈenərdʒi · hæv juː bɪn ˈwɜːrkɪŋ aʊt/
+- Looks tired: "You look tired. Is everything okay?" — /juː lʊk ˈtaɪərd · ɪz ˈevriθɪŋ oʊˈkeɪ/
+
+Answering back on a rough morning:
+- "Not great, to be honest. The drive to work was tiring — the traffic was really heavy."
+- Also: "The roads were really crowded."
 
 > "How's" (/z/ buzz) is fixed now — use the natural contraction, no more "How is" workaround.
-> Positive → "really" is fine (You look really happy). Plain works too. "working out" = tập thể dục — hỏi khi có lý do fitness; nếu chỉ trông vui, "You're in a good mood today!" tự nhiên hơn.
+> Warm reactions: ask about the situation ("Is everything okay?"), not their "issue" ("Do you have any issue?" sounds cold). Positive → "really" is fine (You look really happy).
+> Answering: "to be honest" makes it real without sounding heavy. Collocations: **heavy traffic** (xe), **crowded roads** (đường) — not "crowded traffic".
 
 ### 2. Moving through the board
 Ask for an update, then move on.
@@ -90,14 +95,3 @@ Signal the end clearly.
 - "Could you take a look?" — /kʊd juː teɪk ə lʊk/
 
 > Warm, friendly way to ask for help. Much softer than "Please check this." (an order).
-
-### 19. Answering "How's it going?" on a rough morning
-- "Not great, to be honest. The drive to work was tiring — the traffic was really heavy."
-- Also: "The roads were really crowded."
-
-> "to be honest" makes it real without sounding heavy. Collocations: **heavy traffic** (xe), **crowded roads** (đường/nơi chốn) — not "crowded traffic".
-
-### 20. Checking on someone who looks tired
-- "You look tired. Is everything okay?" — /juː lʊk ˈtaɪərd · ɪz ˈevriθɪŋ oʊˈkeɪ/
-
-> Warm and human. Ask about the situation ("Is everything okay?"), not about their "issue" — "Do you have any issue?" sounds cold and technical.
