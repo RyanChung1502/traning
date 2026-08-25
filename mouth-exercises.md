@@ -29,13 +29,3 @@ Hold each sound for **2 seconds**. Ten rounds. Keep this order.
 | oh | /oʊ/ | mid, lips round |
 
 These five are the extreme corner positions. Every other English vowel sits inside that range.
-
-## Exercise 3 — Tongue twisters
-
-Short ones only. Slow first, speed later.
-
-- red lorry, yellow lorry
-- she sells seashells
-- big black bug bit
-- three free throws
-- toy boat, toy boat
