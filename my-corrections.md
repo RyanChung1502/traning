@@ -9,6 +9,7 @@ Newest at the top.
 
 | What I said | More natural |
 |---|---|
+| it doesn't fit me | it doesn't work for me |
 | make your check more correct | make your checks more accurate |
 | show highlight issue | highlight the main issue |
 | is it suitable? | does that work? / is that okay? |
