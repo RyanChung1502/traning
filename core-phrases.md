@@ -65,6 +65,7 @@ Signal the end clearly.
 - "Looks good to me." — /lʊks ɡʊd tə miː/ — approving
 - "I left a few comments." — /aɪ left ə fjuː ˈkɑːments/ — with feedback
 - "Everything else looks good." — /ˈevriθɪŋ els lʊks ɡʊd/ — approving after minor notes
+- "I fixed all the comments — could you take another look?" — /aɪ fɪkst ɔːl ðə ˈkɑːments · kʊd juː teɪk əˈnʌðər lʊk/ — asking for a re-review after fixes
 
 > "Everything else" is singular → always **looks**, not "look". Clearer than "otherwise" or "the rest" for a non-native reader.
 
