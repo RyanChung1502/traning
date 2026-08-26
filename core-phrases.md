@@ -1,6 +1,7 @@
 # Core phrases
 
 IPA notes: `ˈ` stressed syllable · `·` natural pause · General American.
+Format: **"phrase" — /pronunciation/ — when to use it**.
 
 ### 1. Opening the daily
 Break the silence while people join.
@@ -8,12 +9,10 @@ Break the silence while people join.
 - "How's your morning going?" — /haʊz jɔːr ˈmɔːrnɪŋ ˈɡoʊɪŋ/
 - "Anything fun this weekend?" — /ˈeniθɪŋ fʌn ðɪs ˈwiːkend/
 - "How's the weather over there?" — /haʊz ðə ˈweðər ˈoʊvər ðer/
-- Looks happy: "You look happy! Did something good happen?" — /juː lʊk ˈhæpi · dɪd ˈsʌmθɪŋ ɡʊd ˈhæpən/
-- Looks tired: "You look tired. Is everything okay?" — /juː lʊk ˈtaɪərd · ɪz ˈevriθɪŋ oʊˈkeɪ/
-
-Answering back on a rough morning:
-- "Not great, to be honest. The drive to work was tiring — the traffic was heavy."
-- Also: "The roads were crowded."
+- "You look happy! Did something good happen?" — /juː lʊk ˈhæpi · dɪd ˈsʌmθɪŋ ɡʊd ˈhæpən/ — when they look happy
+- "You look tired. Is everything okay?" — /juː lʊk ˈtaɪərd · ɪz ˈevriθɪŋ oʊˈkeɪ/ — when they look tired
+- "Not great, to be honest. The drive to work was tiring — the traffic was heavy." — answering on a rough morning
+- "The roads were crowded." — another option
 
 > "How's" (/z/ buzz) is fixed now — use the natural contraction, no more "How is" workaround.
 > Warm reactions: ask about the situation ("Is everything okay?"), not their "issue" ("Do you have any issue?" sounds cold). Positive → "really" is fine (You look really happy).
@@ -49,12 +48,12 @@ Signal the end clearly.
 
 ### 8. Didn't catch something
 - "Sorry, can you say that again?" — /ˈsɑːri · kən juː seɪ ðæt əˈɡen/
-- If it's the connection: "Sorry, I couldn't hear you for a second." — /ˈsɑːri · aɪ ˈkʊdənt hɪr juː fɔːr ə ˈsekənd/
+- "Sorry, I couldn't hear you for a second." — /ˈsɑːri · aɪ ˈkʊdənt hɪr juː fɔːr ə ˈsekənd/ — if it's the connection
 
 ### 9. Asking for clarification
-- Ask a person what THEY meant: "What do you mean by that?" — /wʌt duː juː miːn baɪ ðæt/
-- Or name the thing: "What do you mean by *staging*?"
-- Ask about a term itself (e.g. seen in a doc): "What does 'sign off' mean?" — /wʌt dʌz saɪn ɔːf miːn/
+- "What do you mean by that?" — /wʌt duː juː miːn baɪ ðæt/ — ask a person what they meant
+- "What do you mean by *staging*?" — name the specific thing
+- "What does 'sign off' mean?" — /wʌt dʌz saɪn ɔːf miːn/ — ask about a term itself (e.g. seen in a doc)
 
 > "does ... mean" = asking the meaning of a word (like a dictionary). "do you mean by" = asking a specific person what THEY meant — needs someone in front of you.
 
@@ -62,10 +61,10 @@ Signal the end clearly.
 - "How big is it?" — /haʊ bɪɡ ɪz ɪt/
 
 ### 11. PR reviews
-- Asking: "Can you review my PR when you get a chance?" — /kən juː rɪˈvjuː maɪ piː ˈɑːr wen juː ɡet ə tʃæns/
-- Approving: "Looks good to me." — /lʊks ɡʊd tə miː/
-- With feedback: "I left a few comments." — /aɪ left ə fjuː ˈkɑːments/
-- Approving after minor notes: "Everything else looks good." — /ˈevriθɪŋ els lʊks ɡʊd/
+- "Can you review my PR when you get a chance?" — /kən juː rɪˈvjuː maɪ piː ˈɑːr wen juː ɡet ə tʃæns/ — asking
+- "Looks good to me." — /lʊks ɡʊd tə miː/ — approving
+- "I left a few comments." — /aɪ left ə fjuː ˈkɑːments/ — with feedback
+- "Everything else looks good." — /ˈevriθɪŋ els lʊks ɡʊd/ — approving after minor notes
 
 > "Everything else" is singular → always **looks**, not "look". Clearer than "otherwise" or "the rest" for a non-native reader.
 
