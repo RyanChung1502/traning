@@ -49,7 +49,7 @@ Signal the end clearly.
 
 ### 8. Didn't catch something
 - "Sorry, can you say that again?" — /ˈsɑːri · kən juː seɪ ðæt əˈɡen/
-- If it's the connection: "You cut out for a second." — /juː kʌt aʊt fɔːr ə ˈsekənd/
+- If it's the connection: "Sorry, I couldn't hear you for a second." — /ˈsɑːri · aɪ ˈkʊdənt hɪr juː fɔːr ə ˈsekənd/
 
 ### 9. Asking for clarification
 - Ask a person what THEY meant: "What do you mean by that?" — /wʌt duː juː miːn baɪ ðæt/
