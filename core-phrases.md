@@ -52,7 +52,6 @@ Signal the end clearly.
 
 ### 9. Asking for clarification
 - "What do you mean by that?" — /wʌt duː juː miːn baɪ ðæt/ — ask a person what they meant
-- "What do you mean by *staging*?" — name the specific thing
 - "What does 'sign off' mean?" — /wʌt dʌz saɪn ɔːf miːn/ — ask about a term itself (e.g. seen in a doc)
 
 > "does ... mean" = asking the meaning of a word (like a dictionary). "do you mean by" = asking a specific person what THEY meant — needs someone in front of you.
