@@ -27,7 +27,6 @@ Move through the board, steer, and close.
 
 - "How's your story going?" — /haʊz jɔːr ˈstɔːri ˈɡoʊɪŋ/ — asking for an update
 - "Thanks, Ryan. Let's move on to Luke's story. How's it going?" — /θæŋks ˈraɪən · lets muːv ɑːn tə luːks ˈstɔːri · haʊz ɪt ˈɡoʊɪŋ/ — thank the last person, then move to the next
-- "Let's move on." — /lets muːv ɑːn/ — steering the session
 - "Alright, that's all the stories for this daily meeting." — /ɔːlˈraɪt ðæts ɔːl ðə ˈstɔːriz fɔːr ðɪs ˈdeɪli ˈmiːtɪŋ/ — closing
 - "Thanks everyone — have a good day." — /θæŋks ˈevriwʌn · hæv ə ɡʊd deɪ/ — closing
 
