@@ -107,3 +107,8 @@ Signal the end clearly.
 - "Could you let the team know once the demo is done? Then we can start merging our PRs into dev." — asking the lead to announce when it's clear to proceed
 
 > "let the team know" is warmer and clearer than "announce".
+
+### 21. Asking how something went (e.g. a demo)
+- "How did the demo go? Any feedback we should know about?" — asking about the result of something you missed or weren't part of
+
+> "How did it go?" is the natural way to ask about a past event.
