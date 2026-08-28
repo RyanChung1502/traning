@@ -54,11 +54,12 @@ Move through the board, steer, and close.
 - "I fixed all the comments — could you take another look?" — /aɪ fɪkst ɔːl ðə ˈkɑːments · kʊd juː teɪk əˈnʌðər lʊk/ — asking for a re-review after fixes
 - "I think this needs to be fixed." — /aɪ θɪŋk ðɪs niːdz tə bi fɪkst/ — flagging a bug
 - "Could you take a look?" — /kʊd juː teɪk ə lʊk/ — asking someone to check something
-- "This PR is pretty small. I think we should combine PR1 and PR2 — how many files would that change?" — suggesting a merge and asking the size
+- "This PR is pretty small. What if we combine PR1 and PR2 — how many files would that change?" — suggesting a merge and asking the size
 
 > "Everything else" is singular → always **looks**, not "look". Clearer than "otherwise" or "the rest".
 > "I think..." keeps a bug report friendly (softer than "This is wrong."). "Could you take a look?" is much warmer than "Please check this." (an order).
 > "how many files" — files are countable. "how much" is only for uncountable things.
+> "What if we...?" = "sẽ thế nào nếu..." — floats an idea, confident but still open. Stronger than "I think", softer than "we should".
 
 ### 6. Project & team coordination
 - "Where are we on the August release?" — /wer ɑːr wi ɑːn ði ˈɔːɡəst rɪˈliːs/ — asking project status
