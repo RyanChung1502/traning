@@ -97,3 +97,8 @@ Signal the end clearly.
 - "Could you take a look?" — /kʊd juː teɪk ə lʊk/
 
 > Warm, friendly way to ask for help. Much softer than "Please check this." (an order).
+
+### 19. Telling the team you'll be late
+- "There's a company photoshoot at the office, so I'll be a bit late to the daily. Go ahead without me." — telling the team you'll join late
+
+> "Go ahead without me" = start without waiting for me. Warm and clear.
