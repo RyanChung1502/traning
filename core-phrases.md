@@ -19,47 +19,43 @@ Break the silence while people join.
 > Answering: "to be honest" makes it real without sounding heavy. Collocations: **heavy traffic** (xe), **crowded roads** (đường) — not "crowded traffic".
 
 ### 2. Moving through the board
-Ask for an update, then move on.
+Ask for an update, acknowledge, then move on.
 
 - "How's your story going?" — /haʊz jɔːr ˈstɔːri ˈɡoʊɪŋ/
 - "Let's move on to Ryan's story. How's it going?" — /lets muːv ɑːn tə ˈraɪənz ˈstɔːri · haʊz ɪt ˈɡoʊɪŋ/
+- "Thanks, Ryan. Let's move on to [name]." — /θæŋks ˈraɪən · lets muːv ɑːn tə/ — after someone finishes
 
-### 3. After someone finishes
-Acknowledge, no dead air.
+> Replaced "Next up" — the /kst/ + "up" was hard to say. "Let's move on to..." is easier and reuses "move on" (see #14).
 
-- "Thanks, Ryan. Let's move on to [name]." — /θæŋks ˈraɪən · lets muːv ɑːn tə/
-
-> Replaced "Next up" — the /kst/ + "up" was hard to say. "Let's move on to..." is easier and reuses "move on" (see #15).
-
-### 4. Closing the meeting
+### 3. Closing the meeting
 Signal the end clearly.
 
 - "Alright, that's all the stories for this daily meeting." — /ɔːlˈraɪt ðæts ɔːl ðə ˈstɔːriz fɔːr ðɪs ˈdeɪli ˈmiːtɪŋ/
 - "Thanks everyone — have a good day." — /θæŋks ˈevriwʌn · hæv ə ɡʊd deɪ/
 
-### 5. Finishing my own update
+### 4. Finishing my own update
 - "That's it from me." — /ðæts ɪt frʌm miː/
 
-### 6. No questions
+### 5. No questions
 - "Nothing from me." — /ˈnʌθɪŋ frʌm miː/
 
-### 7. Need thinking time
+### 6. Need thinking time
 - "Let me get back to you on that." — /let mi ɡet bæk tə juː ɑːn ðæt/
 
-### 8. Didn't catch something
+### 7. Didn't catch something
 - "Sorry, can you say that again?" — /ˈsɑːri · kən juː seɪ ðæt əˈɡen/
 - "Sorry, I couldn't hear you for a second." — /ˈsɑːri · aɪ ˈkʊdənt hɪr juː fɔːr ə ˈsekənd/ — if it's the connection
 
-### 9. Asking for clarification
+### 8. Asking for clarification
 - "What do you mean by that?" — /wʌt duː juː miːn baɪ ðæt/ — ask a person what they meant
 - "What does 'sign off' mean?" — /wʌt dʌz saɪn ɔːf miːn/ — ask about a term itself (e.g. seen in a doc)
 
 > "does ... mean" = asking the meaning of a word (like a dictionary). "do you mean by" = asking a specific person what THEY meant — needs someone in front of you.
 
-### 10. Asking about scale
+### 9. Asking about scale
 - "How big is it?" — /haʊ bɪɡ ɪz ɪt/
 
-### 11. PR reviews
+### 10. PR reviews
 - "Can you review my PR when you get a chance?" — /kən juː rɪˈvjuː maɪ piː ˈɑːr wen juː ɡet ə tʃæns/ — asking
 - "Looks good to me." — /lʊks ɡʊd tə miː/ — approving
 - "I left a few comments." — /aɪ left ə fjuː ˈkɑːments/ — with feedback
@@ -68,51 +64,51 @@ Signal the end clearly.
 
 > "Everything else" is singular → always **looks**, not "look". Clearer than "otherwise" or "the rest" for a non-native reader.
 
-### 12. Asking project status
+### 11. Asking project status
 - "Where are we on the August release?" — /wer ɑːr wi ɑːn ði ˈɔːɡəst rɪˈliːs/
 
 > Always name the release. "Milestone" alone is too vague.
 
-### 13. Disagreeing politely
+### 12. Disagreeing politely
 - "I get that, but I think we should wait." — /aɪ ɡet ðæt · bʌt aɪ θɪŋk wi ʃʊd weɪt/
 
-### 14. Opening a one-to-one
+### 13. Opening a one-to-one
 - "How's the team doing?" — /haʊz ðə tiːm ˈduːɪŋ/
 
-### 15. Steering the session
+### 14. Steering the session
 - "Let's move on." — /lets muːv ɑːn/
 
-### 16. Asking someone to help fix my English
+### 15. Asking someone to help fix my English
 - "Could you tell me anything that doesn't sound natural?" — /kʊd juː tel mi ˈeniθɪŋ ðæt ˈdʌzənt saʊnd ˈnætʃrəl/
 
 > "tell me" beats "flag" here — "flag" (meaning point out) is a bit idiomatic; "tell me" is clearer to any non-native. And "doesn't sound natural" beats the idiom "sounds off".
 
-### 17. Flagging a bug / something to fix
+### 16. Flagging a bug / something to fix
 - "I think this needs to be fixed." — /aɪ θɪŋk ðɪs niːdz tə bi fɪkst/
 
 > Softer than "This is wrong." "I think..." keeps the tone friendly while still being clear.
 
-### 18. Asking someone to check something
+### 17. Asking someone to check something
 - "Could you take a look?" — /kʊd juː teɪk ə lʊk/
 
 > Warm, friendly way to ask for help. Much softer than "Please check this." (an order).
 
-### 19. Telling the team you'll be late
+### 18. Telling the team you'll be late
 - "There's a company photoshoot at the office, so I'll be a bit late to the daily. Go ahead without me." — telling the team you'll join late
 
 > "Go ahead without me" = start without waiting for me. Warm and clear.
 
-### 20. Asking the lead to signal the team
+### 19. Asking the lead to signal the team
 - "Could you let the team know once the demo is done? Then we can start merging our PRs into dev." — asking the lead to announce when it's clear to proceed
 
 > "let the team know" is warmer and clearer than "announce".
 
-### 21. Asking how something went (e.g. a demo)
+### 20. Asking how something went (e.g. a demo)
 - "How did the demo go? Any feedback we should know about?" — asking about the result of something you missed or weren't part of
 
 > "How did it go?" is the natural way to ask about a past event.
 
-### 22. Suggesting to combine PRs
+### 21. Suggesting to combine PRs
 - "This PR is pretty small. I think we should combine PR1 and PR2 — how many files would that change?" — suggesting a merge and asking the size
 
 > "how many files" — files are countable. "how much" is only for uncountable things.
