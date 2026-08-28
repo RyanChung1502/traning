@@ -111,3 +111,8 @@ Signal the end clearly.
 - "How did the demo go? Any feedback we should know about?" — asking about the result of something you missed or weren't part of
 
 > "How did it go?" is the natural way to ask about a past event.
+
+### 22. Suggesting to combine PRs
+- "This PR is pretty small. I think we should combine PR1 and PR2 — how many files would that change?" — suggesting a merge and asking the size
+
+> "how many files" — files are countable. "how much" is only for uncountable things.
