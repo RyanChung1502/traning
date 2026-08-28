@@ -15,6 +15,8 @@ Greetings, reactions, and light catch-ups.
 - "The roads were crowded." — another option
 - "How's the team doing?" — /haʊz ðə tiːm ˈduːɪŋ/ — opening a one-to-one
 - "How did the demo go? Any feedback we should know about?" — asking how something went that you missed
+- "Glad it works for you." — /ɡlæd ɪt wɜːrks fɔːr juː/ — replying when your help/suggestion worked
+- "Glad I could help." — /ɡlæd aɪ kʊd help/ — "vui vì giúp được bạn"
 
 > "How's" (/z/ buzz) is fixed now — use the natural contraction, no more "How is" workaround.
 > Warm reactions: ask about the situation ("Is everything okay?"), not their "issue" ("Do you have any issue?" sounds cold). Positive → "really" is fine (You look really happy).
