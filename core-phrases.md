@@ -102,3 +102,8 @@ Signal the end clearly.
 - "There's a company photoshoot at the office, so I'll be a bit late to the daily. Go ahead without me." — telling the team you'll join late
 
 > "Go ahead without me" = start without waiting for me. Warm and clear.
+
+### 20. Asking the lead to signal the team
+- "Could you let the team know once the demo is done? Then we can start merging our PRs into dev." — asking the lead to announce when it's clear to proceed
+
+> "let the team know" is warmer and clearer than "announce".
