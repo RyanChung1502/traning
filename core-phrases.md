@@ -11,8 +11,8 @@ Greetings, reactions, and light catch-ups.
 - "How's the weather over there?" — /haʊz ðə ˈweðər ˈoʊvər ðer/
 - "You look happy! Did something good happen?" — /juː lʊk ˈhæpi · dɪd ˈsʌmθɪŋ ɡʊd ˈhæpən/ — when they look happy
 - "You look tired. Is everything okay?" — /juː lʊk ˈtaɪərd · ɪz ˈevriθɪŋ oʊˈkeɪ/ — when they look tired
-- "Not great, to be honest. The drive to work was tiring — the traffic was heavy." — answering on a rough morning
-- "The roads were crowded." — another option
+- "Not great, to be honest. The drive to work was tiring — the traffic was heavy (/light)." — answering on a rough morning
+- "The roads were crowded (/clear)." — another option
 - "How's the team doing?" — /haʊz ðə tiːm ˈduːɪŋ/ — opening a one-to-one
 - "How did the demo go? Any feedback we should know about?" — asking how something went that you missed
 - "Glad it works for you." — /ɡlæd ɪt wɜːrks fɔːr juː/ — replying when your help/suggestion worked
