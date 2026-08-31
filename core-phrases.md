@@ -70,6 +70,7 @@ Move through the board, steer, and close.
 
 > Always name the release. "Milestone" alone is too vague.
 > "Go ahead without me" = start without waiting for me. "let the team know" is warmer than "announce".
+> "if **you're** okay to go ahead" (not "it's okay") — sign-off asks the *person's* approval, so point at them, not the task.
 
 ### 7. Improving my English
 - "Could you tell me anything that doesn't sound natural?" — /kʊd juː tel mi ˈeniθɪŋ ðæt ˈdʌzənt saʊnd ˈnætʃrəl/
