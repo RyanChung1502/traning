@@ -9,6 +9,7 @@ Newest at the top.
 
 | What I said | More natural |
 |---|---|
+| I still use it like usual but the usage went up abnormally | I'm using it the same as always, but my usage suddenly went way up |
 | it doesn't fit me | it doesn't work for me |
 | make your check more correct | make your checks more accurate |
 | show highlight issue | highlight the main issue |
