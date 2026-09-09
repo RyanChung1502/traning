@@ -50,6 +50,7 @@ Move through the board, steer, and close.
 - "Can you review my PR when you get a chance?" — /kən juː rɪˈvjuː maɪ piː ˈɑːr wen juː ɡet ə tʃæns/ — asking for a review
 - "Looks good to me." — /lʊks ɡʊd tə miː/ — approving
 - "I left a few comments." — /aɪ left ə fjuː ˈkɑːments/ — with feedback
+- "Have a look when you get a chance." — /hæv ə lʊk wen juː ɡet ə tʃæns/ — pairs after leaving comments; no rush, just check it sometime
 - "Everything else looks good." — /ˈevriθɪŋ els lʊks ɡʊd/ — approving after minor notes
 - "I fixed all the comments — could you take another look?" — /aɪ fɪkst ɔːl ðə ˈkɑːments · kʊd juː teɪk əˈnʌðər lʊk/ — asking for a re-review after fixes
 - "I think this needs to be fixed." — /aɪ θɪŋk ðɪs niːdz tə bi fɪkst/ — flagging a bug
