@@ -25,6 +25,7 @@
 | polluted | /pəˈluːtɪd/ | bloated | **parked** |
 | Opus 8 | /ˈoʊpəs eɪt/ | open eye | "OH-puss ATE" — hard /p/, then say "ate" |
 | Claude | /klɔːd/ | claw | ends /d/ — "clawd", land the D |
+| test | /test/ | task | vowel is /e/ like "bed", and end /st/ — "tesst", not "task" |
 
 **Core diagnosis:** I know the sounds. My mouth moves on before the ending lands. It's a speed problem, not a knowledge problem. **Slowing down about 10% fixes most of it.** Accuracy collapses the moment I speed up — so lock accuracy first, speed later.
 
