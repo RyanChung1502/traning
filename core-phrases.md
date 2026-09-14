@@ -71,6 +71,7 @@ Move through the board, steer, and close.
 - "I proposed design v4 in the ticket comment. Could you review it and let me know if you're okay to go ahead?" — asking the lead to approve/sign off on your proposal
 - "You haven't replied to Dung about the demo. We're worried something might be wrong. Is everything okay?" — flagging to the lead that the team is worried about an unanswered question
 - "Here's the ticket we mentioned in the meeting about the deployment slots: [link]" — sharing a ticket you talked about in a meeting
+- "I'm back in Da Nang. Thanks for the warm welcome and all the help — really enjoyed working with you all. Let's keep in touch!" — saying goodbye in a group chat after an onsite/rotation ends
 
 > Always name the release. "Milestone" alone is too vague.
 > "Go ahead without me" = start without waiting for me. "let the team know" is warmer than "announce".
