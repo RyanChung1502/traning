@@ -1,25 +1,18 @@
 # Pronunciation watchlist
 
+> Sounds I've already mastered live in [old-pronunciation-watchlist.md](../old/old-pronunciation-watchlist.md).
+
 | Word | Pronunciation | Comes out as | Fix |
 |---|---|---|---|
 | beach | /biːtʃ/ | beat | add /tʃ/ — "bee...ch" |
-| boring | /ˈbɔːrɪŋ/ | pouring | "BOR...ring" ✅ fixed |
-| sprint | /sprɪnt/ | spread / spring | finish the /nt/ ✅ fixed |
-| daily | /ˈdeɪli/ | daddy | ✅ fixed |
 | basis | /ˈbeɪsɪs/ | by six | "BAY...sis", no K |
-| it vs eat | /ɪt/ vs /iːt/ | eat | short, lazy /ɪ/ ✅ both fixed |
-| how's | /haʊz/ | house | /z/ buzz ✅ fixed — use "how's" now |
 | your side | /jɔːr saɪd/ | outside | use "over there" instead |
 | fun | /fʌn/ | from | say "sun", swap S for F |
 | next up | /nekst ʌp/ | next app | **replaced** — say "Let's move on to..." instead |
 | going | /ˈɡoʊɪŋ/ | growing | no R |
 | could | /kʊd/ | court | rhymes with "wood" — or just drop it |
-| next | /nekst/ | neck / met | light /t/ tap ✅ fixed |
-| world | /wɜːrld/ | word | say "were" + L ✅ fixed |
 | watch | /wɑːtʃ/ | what | needs the /tʃ/ |
 | baked | /beɪkt/ | bake | ends /t/ — "baykt" |
-| system | /ˈsɪstəm/ | — | ✅ fixed |
-| respond | /rɪˈspɑːnd/ | respot | ends /d/, stress on "POND" ✅ fixed |
 | thanks | /θæŋks/ | hence / tenth | TH onset — **parked** |
 | should | /ʃʊd/ | soot / source | **parked** |
 | polluted | /pəˈluːtɪd/ | bloated | **parked** |

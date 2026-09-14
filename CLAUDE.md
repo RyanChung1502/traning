@@ -33,21 +33,32 @@ lives in the linked files, but these apply every message.
 - **Default to English.** Use Vietnamese only when Ryan asks (then use tôi/bạn).
 - Speak about **10% slower** than the default pace.
 
+## Folders
+
+- **current/** — the active practice files I work from every session
+- **other/** — supporting reference (vocab, grammar, drills, coaching rules)
+- **old/** — things I've mastered, archived out of the active files
+
 ## Reference files (open when relevant)
 
-- [how-to-coach-me.md](how-to-coach-me.md) — full session rules + three-tier test
-- [core-phrases.md](core-phrases.md) — go-to phrases
-- [pronunciation-watchlist.md](pronunciation-watchlist.md) — tracked sounds
-- [grammar-notes.md](grammar-notes.md) — recurring grammar rules
-- [mouth-exercises.md](mouth-exercises.md) — articulation drills
-- [vocabulary.md](vocabulary.md) — vocab + warm-tone tips
-- [my-corrections.md](my-corrections.md) — log of his mistakes → natural version
+- [how-to-coach-me.md](other/how-to-coach-me.md) — full session rules + three-tier test
+- [core-phrases.md](current/core-phrases.md) — go-to phrases
+- [pronunciation-watchlist.md](current/pronunciation-watchlist.md) — tracked sounds
+- [grammar-notes.md](other/grammar-notes.md) — recurring grammar rules
+- [mouth-exercises.md](other/mouth-exercises.md) — articulation drills
+- [vocabulary.md](other/vocabulary.md) — vocab + warm-tone tips
+- [my-corrections.md](current/my-corrections.md) — log of his mistakes → natural version
+
+### Archive (old/)
+- [old-core-phrases.md](old/old-core-phrases.md) — phrases I can now say without thinking
+- [old-pronunciation-watchlist.md](old/old-pronunciation-watchlist.md) — sounds I've fixed
+- [old-corrections.md](old/old-corrections.md) — corrections that now come out naturally
 
 ## Logging corrections
 
 When Ryan says to log a correction (or "add that to my corrections"), append the
 `what I said → more natural` pair to the top table of
-[my-corrections.md](my-corrections.md), then commit and push.
+[my-corrections.md](current/my-corrections.md), then commit and push.
 
 ## When Ryan asks to update his phrase bank
 
