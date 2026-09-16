@@ -4,18 +4,16 @@
 
 | Word | Pronunciation | Comes out as | Fix |
 |---|---|---|---|
-| beach | /biːtʃ/ | beat | add /tʃ/ — "bee...ch" |
-| basis | /ˈbeɪsɪs/ | by six | "BAY...sis", no K |
 | your side | /jɔːr saɪd/ | outside | use "over there" instead |
 | fun | /fʌn/ | from | say "sun", swap S for F |
 | next up | /nekst ʌp/ | next app | **replaced** — say "Let's move on to..." instead |
 | going | /ˈɡoʊɪŋ/ | growing | no R |
-| could | /kʊd/ | court | rhymes with "wood" — or just drop it |
-| watch | /wɑːtʃ/ | what | needs the /tʃ/ |
-| baked | /beɪkt/ | bake | ends /t/ — "baykt" |
 | thanks | /θæŋks/ | hence / tenth | TH onset — **parked** |
-| should | /ʃʊd/ | soot / source | **parked** |
-| polluted | /pəˈluːtɪd/ | bloated | **parked** |
+| bug | /bʌɡ/ | book | /ʌ/ like "cut" + hard /ɡ/ — "buhg", not "book" |
+| each | /iːtʃ/ | eight | long /iː/ + /tʃ/ ending — "ee...ch", no /t/ |
+| story | /ˈstɔːri/ | sorry | keep the /t/ — "STOR-ee", not "SOR-ee" |
+| both | /boʊθ/ | bow | land the TH ending — "boh-th" |
+| pull request | /pʊl rɪˈkwest/ | full request | P not F — lips together, no puff (hand test) |
 | Opus 8 | /ˈoʊpəs eɪt/ | open eye | "OH-puss ATE" — hard /p/, then say "ate" |
 | Claude | /klɔːd/ | claw | ends /d/ — "clawd", land the D |
 | test | /test/ | task | vowel is /e/ like "bed", and end /st/ — "tesst", not "task" |

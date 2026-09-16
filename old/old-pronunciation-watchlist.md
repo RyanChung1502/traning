@@ -15,3 +15,10 @@ keep them locked in.
 | world | /wɜːrld/ | word | say "were" + L |
 | system | /ˈsɪstəm/ | — | — |
 | respond | /rɪˈspɑːnd/ | respot | ends /d/, stress on "POND" |
+| beach | /biːtʃ/ | beat | added /tʃ/ — "bee...ch" |
+| basis | /ˈbeɪsɪs/ | by six | "BAY...sis", no K |
+| could | /kʊd/ | court | rhymes with "wood" |
+| watch | /wɑːtʃ/ | what | landed the /tʃ/ |
+| baked | /beɪkt/ | bake | ends /t/ — "baykt" |
+| should | /ʃʊd/ | soot / source | rhymes with "wood" |
+| polluted | /pəˈluːtɪd/ | bloated | "puh-LOO-tid", stress on "LOO" |
