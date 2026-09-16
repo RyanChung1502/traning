@@ -5,3 +5,8 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 
 | Phrase | When to use it |
 |---|---|
+| "I think this needs to be fixed." | flagging a bug |
+| "Could you take a look?" | asking someone to check something |
+| "I left a few comments." | with feedback |
+| "Looks good to me." | approving |
+| "How big is it?" | asking about scale |

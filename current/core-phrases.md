@@ -43,19 +43,14 @@ Move through the board, steer, and close.
 - "Sorry, I couldn't hear you for a second." — /ˈsɑːri · aɪ ˈkʊdənt hɪr juː fɔːr ə ˈsekənd/ — if it's the connection
 - "What do you mean by that?" — /wʌt duː juː miːn baɪ ðæt/ — ask a person what they meant
 - "What does 'sign off' mean?" — /wʌt dʌz saɪn ɔːf miːn/ — ask about a term itself (e.g. seen in a doc)
-- "How big is it?" — /haʊ bɪɡ ɪz ɪt/ — asking about scale
 
 > "does ... mean" = asking the meaning of a word (like a dictionary). "do you mean by" = asking a specific person what THEY meant — needs someone in front of you.
 
 ### 5. Code reviews & PRs
 - "Can you review my PR when you get a chance?" — /kən juː rɪˈvjuː maɪ piː ˈɑːr wen juː ɡet ə tʃæns/ — asking for a review
-- "Looks good to me." — /lʊks ɡʊd tə miː/ — approving
-- "I left a few comments." — /aɪ left ə fjuː ˈkɑːments/ — with feedback
 - "Have a look when you get a chance." — /hæv ə lʊk wen juː ɡet ə tʃæns/ — pairs after leaving comments; no rush, just check it sometime
 - "Everything else looks good." — /ˈevriθɪŋ els lʊks ɡʊd/ — approving after minor notes
 - "I fixed all the comments — could you take another look?" — /aɪ fɪkst ɔːl ðə ˈkɑːments · kʊd juː teɪk əˈnʌðər lʊk/ — asking for a re-review after fixes
-- "I think this needs to be fixed." — /aɪ θɪŋk ðɪs niːdz tə bi fɪkst/ — flagging a bug
-- "Could you take a look?" — /kʊd juː teɪk ə lʊk/ — asking someone to check something
 - "This PR is pretty small. What if we combine PR1 and PR2 — how many files would that change?" — suggesting a merge and asking the size
 
 > "Everything else" is singular → always **looks**, not "look". Clearer than "otherwise" or "the rest".
