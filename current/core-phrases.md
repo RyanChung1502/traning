@@ -37,6 +37,7 @@ Move through the board, steer, and close.
 - "That's it from me." — /ðæts ɪt frʌm miː/ — finishing my update
 - "Nothing from me." — /ˈnʌθɪŋ frʌm miː/ — no questions
 - "Let me get back to you on that." — /let mi ɡet bæk tə juː ɑːn ðæt/ — need thinking time
+- "Does that make sense?" — /dʌz ðæt meɪk sens/ — checking they follow after you explain something
 
 ### 4. When I don't catch or understand
 - "Sorry, can you say that again?" — /ˈsɑːri · kən juː seɪ ðæt əˈɡen/
