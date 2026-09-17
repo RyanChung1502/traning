@@ -74,5 +74,6 @@ Move through the board, steer, and close.
 
 ### 7. Improving my English
 - "Could you tell me anything that doesn't sound natural?" — /kʊd juː tel mi ˈeniθɪŋ ðæt ˈdʌzənt saʊnd ˈnætʃrəl/
+- "Can you fix the grammar on this?" — /kən juː fɪks ðə ˈɡræmər ɑːn ðɪs/ — asking someone to correct your grammar
 
 > "tell me" beats "flag" here — "flag" (meaning point out) is a bit idiomatic; "tell me" is clearer to any non-native. And "doesn't sound natural" beats the idiom "sounds off".
