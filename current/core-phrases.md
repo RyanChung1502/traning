@@ -17,6 +17,8 @@ Greetings, reactions, and light catch-ups.
 - "How did the demo go? Any feedback we should know about?" — asking how something went that you missed
 - "Glad it works for you." — /ɡlæd ɪt wɜːrks fɔːr juː/ — replying when your help/suggestion worked
 - "Sorry to hear that. Hope you feel better soon — take care of yourself and get some rest." — /ˈsɑːri tə hɪr ðæt · hoʊp juː fiːl ˈbetər suːn · teɪk ker əv jɔːrˈself ənd ɡet sʌm rest/ — when a classmate/teammate is sick or off unwell
+- "Are you feeling better?" — /ɑːr juː ˈfiːlɪŋ ˈbetər/ — asking a teammate who was off sick
+- "I'm feeling much better now. Thanks for asking." — /aɪm ˈfiːlɪŋ mʌtʃ ˈbetər naʊ · θæŋks fɔːr ˈæskɪŋ/ — replying when you're back from sick leave
 
 > "How's" (/z/ buzz) is fixed now — use the natural contraction, no more "How is" workaround.
 > Warm reactions: ask about the situation ("Is everything okay?"), not their "issue" ("Do you have any issue?" sounds cold). Positive → "really" is fine (You look really happy).
