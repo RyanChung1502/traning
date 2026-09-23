@@ -20,6 +20,8 @@ Greetings, reactions, and light catch-ups.
 - "Are you feeling better?" — /ɑːr juː ˈfiːlɪŋ ˈbetər/ — asking a teammate who was off sick
 - "I'm feeling much better now. Thanks for asking." — /aɪm ˈfiːlɪŋ mʌtʃ ˈbetər naʊ · θæŋks fɔːr ˈæskɪŋ/ — replying when you're back from sick leave
 - "Hey, how did the badminton tournament go? Did your team win?" — /heɪ · haʊ dɪd ðə ˈbædmɪntən ˈtʊrnəmənt ɡoʊ · dɪd jɔːr tiːm wɪn/ — asking a teammate how an event went (with a follow-up to keep it going)
+- "Hi, sorry I missed class on Monday. I was off sick and didn't get a chance to let you know." — /haɪ · ˈsɑːri aɪ mɪst klæs ɑːn ˈmʌndeɪ · aɪ wʌz ɔːf sɪk ənd ˈdɪdənt ɡet ə tʃæns tə let juː noʊ/ — apologising for an unexcused absence
+- "I'm still not fully better today, but I came in anyway because I really missed you and everyone." — /aɪm stɪl nɑːt ˈfʊli ˈbetər təˈdeɪ · bʌt aɪ keɪm ɪn ˈeniweɪ bɪˈkɔːz aɪ ˈrɪli mɪst juː ənd ˈevriwʌn/ — showing up despite still being unwell
 
 > "How's" (/z/ buzz) is fixed now — use the natural contraction, no more "How is" workaround.
 > Warm reactions: ask about the situation ("Is everything okay?"), not their "issue" ("Do you have any issue?" sounds cold). Positive → "really" is fine (You look really happy).
