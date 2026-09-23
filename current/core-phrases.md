@@ -74,6 +74,7 @@ Move through the board, steer, and close.
 - "You haven't replied to Dung about the demo. We're worried something might be wrong. Is everything okay?" — flagging to the lead that the team is worried about an unanswered question
 - "Here's the ticket we mentioned in the meeting about the deployment slots: [link]" — sharing a ticket you talked about in a meeting
 - "I'm back in Da Nang. Thanks for the warm welcome and all the help — really enjoyed working with you all. Let's keep in touch!" — saying goodbye in a group chat after an onsite/rotation ends
+- "I'll really miss our daily lunches from when I was onsite in Hanoi — let's do it again whenever I'm back, or you make it down to Da Nang!" — a warm, personal note when a teammate leaves
 - "The API and MCP slots are empty, so that's expected. Is it safe to test now by turning the flag on?" — confirming a setup looks right, then asking if it's okay to start testing
 
 > Always name the release. "Milestone" alone is too vague.
