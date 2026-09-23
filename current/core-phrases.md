@@ -57,6 +57,7 @@ Move through the board, steer, and close.
 - "Have a look when you get a chance." — /hæv ə lʊk wen juː ɡet ə tʃæns/ — pairs after leaving comments; no rush, just check it sometime
 - "Everything else looks good." — /ˈevriθɪŋ els lʊks ɡʊd/ — approving after minor notes
 - "I fixed all the comments — could you take another look?" — /aɪ fɪkst ɔːl ðə ˈkɑːments · kʊd juː teɪk əˈnʌðər lʊk/ — asking for a re-review after fixes
+- "I've fixed your comments and created a user story to track the out-of-scope bugs for later." — /aɪv fɪkst jɔːr ˈkɑːments ənd kriˈeɪtɪd ə ˈjuːzər ˈstɔːri tə træk ði ˌaʊt əv skoʊp bʌɡz fɔːr ˈleɪtər/ — re-review request when you deferred some bugs to a new user story
 - "This PR is pretty small. What if we combine PR1 and PR2 — how many files would that change?" — suggesting a merge and asking the size
 
 > "Everything else" is singular → always **looks**, not "look". Clearer than "otherwise" or "the rest".
