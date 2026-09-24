@@ -18,3 +18,4 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | "Could you let the team know once the demo is done? Then we can start merging our PRs into dev." | asking the lead to signal when it's clear to proceed |
 | "Here's the ticket we mentioned in the meeting about the deployment slots: [link]" | sharing a ticket you talked about in a meeting |
 | "Could you tell me anything that doesn't sound natural?" | asking for feedback on your English |
+| "How did the demo go? Any feedback we should know about?" | asking how something went that you missed |

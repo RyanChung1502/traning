@@ -14,7 +14,6 @@ Greetings, reactions, and light catch-ups.
 - "Not great, to be honest. The drive to work was tiring (/easy) — the traffic was heavy (/light)." — answering on a rough morning
 - "The roads were crowded (/clear)." — another option
 - "How's the team doing?" — /haʊz ðə tiːm ˈduːɪŋ/ — opening a one-to-one
-- "How did the demo go? Any feedback we should know about?" — asking how something went that you missed
 - "Glad it works for you." — /ɡlæd ɪt wɜːrks fɔːr juː/ — replying when your help/suggestion worked
 - "Sorry to hear that. Hope you feel better soon — take care of yourself and get some rest." — /ˈsɑːri tə hɪr ðæt · hoʊp juː fiːl ˈbetər suːn · teɪk ker əv jɔːrˈself ənd ɡet sʌm rest/ — when a classmate/teammate is sick or off unwell
 - "Are you feeling better?" — /ɑːr juː ˈfiːlɪŋ ˈbetər/ — asking a teammate who was off sick
