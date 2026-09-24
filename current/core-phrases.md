@@ -45,7 +45,6 @@ Move through the board, steer, and close.
 - "Does that make sense?" — /dʌz ðæt meɪk sens/ — checking they follow after you explain something
 
 ### 4. When I don't catch or understand
-- "Sorry, can you say that again?" — /ˈsɑːri · kən juː seɪ ðæt əˈɡen/
 - "Sorry, I couldn't hear you for a second." — /ˈsɑːri · aɪ ˈkʊdənt hɪr juː fɔːr ə ˈsekənd/ — if it's the connection
 - "What do you mean by that?" — /wʌt duː juː miːn baɪ ðæt/ — ask a person what they meant
 - "What does 'sign off' mean?" — /wʌt dʌz saɪn ɔːf miːn/ — ask about a term itself (e.g. seen in a doc)
@@ -53,10 +52,7 @@ Move through the board, steer, and close.
 > "does ... mean" = asking the meaning of a word (like a dictionary). "do you mean by" = asking a specific person what THEY meant — needs someone in front of you.
 
 ### 5. Code reviews & PRs
-- "Can you review my PR when you get a chance?" — /kən juː rɪˈvjuː maɪ piː ˈɑːr wen juː ɡet ə tʃæns/ — asking for a review
-- "Have a look when you get a chance." — /hæv ə lʊk wen juː ɡet ə tʃæns/ — pairs after leaving comments; no rush, just check it sometime
 - "Everything else looks good." — /ˈevriθɪŋ els lʊks ɡʊd/ — approving after minor notes
-- "I fixed all the comments — could you take another look?" — /aɪ fɪkst ɔːl ðə ˈkɑːments · kʊd juː teɪk əˈnʌðər lʊk/ — asking for a re-review after fixes
 - "I've fixed your comments and created a user story to track the out-of-scope bugs for later." — /aɪv fɪkst jɔːr ˈkɑːments ənd kriˈeɪtɪd ə ˈjuːzər ˈstɔːri tə træk ði ˌaʊt əv skoʊp bʌɡz fɔːr ˈleɪtər/ — re-review request when you deferred some bugs to a new user story
 - "This PR is pretty small. What if we combine PR1 and PR2 — how many files would that change?" — suggesting a merge and asking the size
 
@@ -67,12 +63,9 @@ Move through the board, steer, and close.
 
 ### 6. Project & team coordination
 - "Where are we on the August release?" — /wer ɑːr wi ɑːn ði ˈɔːɡəst rɪˈliːs/ — asking project status
-- "I get that, but I think we should wait." — /aɪ ɡet ðæt · bʌt aɪ θɪŋk wi ʃʊd weɪt/ — disagreeing politely
 - "There's a company photoshoot at the office, so I'll be a bit late to the daily. Go ahead without me." — telling the team you'll join late
-- "Could you let the team know once the demo is done? Then we can start merging our PRs into dev." — asking the lead to signal when it's clear to proceed
 - "I proposed design v4 in the ticket comment. Could you review it and let me know if you're okay to go ahead?" — asking the lead to approve/sign off on your proposal
 - "You haven't replied to Dung about the demo. We're worried something might be wrong. Is everything okay?" — flagging to the lead that the team is worried about an unanswered question
-- "Here's the ticket we mentioned in the meeting about the deployment slots: [link]" — sharing a ticket you talked about in a meeting
 - "I'm back in Da Nang. Thanks for the warm welcome and all the help — really enjoyed working with you all. Let's keep in touch!" — saying goodbye in a group chat after an onsite/rotation ends
 - "It's been great working with you! Wishing you all the best in what's next. Let's keep in touch — take care!" — replying to a teammate's farewell
 - "Sad to see you go! Thanks for all the help and the good times. All the best, and stay in touch!" — a warmer reply to a teammate's farewell
@@ -84,7 +77,6 @@ Move through the board, steer, and close.
 > "if **you're** okay to go ahead" (not "it's okay") — sign-off asks the *person's* approval, so point at them, not the task.
 
 ### 7. Improving my English
-- "Could you tell me anything that doesn't sound natural?" — /kʊd juː tel mi ˈeniθɪŋ ðæt ˈdʌzənt saʊnd ˈnætʃrəl/
 - "Can you fix the grammar on this?" — /kən juː fɪks ðə ˈɡræmər ɑːn ðɪs/ — asking someone to correct your grammar
 
 > "tell me" beats "flag" here — "flag" (meaning point out) is a bit idiomatic; "tell me" is clearer to any non-native. And "doesn't sound natural" beats the idiom "sounds off".
