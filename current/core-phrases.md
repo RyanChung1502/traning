@@ -6,9 +6,6 @@ Format: **"phrase" — /pronunciation/ — when to use it**.
 ### 1. Small talk & checking in
 Greetings, reactions, and light catch-ups.
 
-- "How's your morning going?" — /haʊz jɔːr ˈmɔːrnɪŋ ˈɡoʊɪŋ/
-- "Anything fun this weekend?" — /ˈeniθɪŋ fʌn ðɪs ˈwiːkend/
-- "How's the weather over there?" — /haʊz ðə ˈweðər ˈoʊvər ðer/
 - "You look happy! Did something good happen?" — /juː lʊk ˈhæpi · dɪd ˈsʌmθɪŋ ɡʊd ˈhæpən/ — when they look happy
 - "You look tired. Is everything okay?" — /juː lʊk ˈtaɪərd · ɪz ˈevriθɪŋ oʊˈkeɪ/ — when they look tired
 - "Not great, to be honest. The drive to work was tiring (/easy) — the traffic was heavy (/light)." — answering on a rough morning
@@ -30,7 +27,6 @@ Greetings, reactions, and light catch-ups.
 ### 2. Running the daily
 Move through the board, steer, and close.
 
-- "How's your story going?" — /haʊz jɔːr ˈstɔːri ˈɡoʊɪŋ/ — asking for an update
 - "Thanks, Ryan. Let's move on to Luke's story. How's it going?" — /θæŋks ˈraɪən · lets muːv ɑːn tə luːks ˈstɔːri · haʊz ɪt ˈɡoʊɪŋ/ — thank the last person, then move to the next
 - "Alright, that's all the stories for this daily meeting." — /ɔːlˈraɪt ðæts ɔːl ðə ˈstɔːriz fɔːr ðɪs ˈdeɪli ˈmiːtɪŋ/ — closing
 - "Thanks everyone — have a good day." — /θæŋks ˈevriwʌn · hæv ə ɡʊd deɪ/ — closing
@@ -61,7 +57,6 @@ Move through the board, steer, and close.
 > "What if we...?" = "sẽ thế nào nếu..." — floats an idea, confident but still open. Stronger than "I think", softer than "we should".
 
 ### 6. Project & team coordination
-- "Where are we on the August release?" — /wer ɑːr wi ɑːn ði ˈɔːɡəst rɪˈliːs/ — asking project status
 - "There's a company photoshoot at the office, so I'll be a bit late to the daily. Go ahead without me." — telling the team you'll join late
 - "I proposed design v4 in the ticket comment. Could you review it and let me know if you're okay to go ahead?" — asking the lead to approve/sign off on your proposal
 - "You haven't replied to Dung about the demo. We're worried something might be wrong. Is everything okay?" — flagging to the lead that the team is worried about an unanswered question
