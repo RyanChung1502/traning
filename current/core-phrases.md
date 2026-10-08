@@ -19,6 +19,8 @@ Greetings, reactions, and light catch-ups.
 - "Hi, sorry I missed class on Monday. I was off sick and didn't get a chance to let you know." — /haɪ · ˈsɑːri aɪ mɪst klæs ɑːn ˈmʌndeɪ · aɪ wʌz ɔːf sɪk ənd ˈdɪdənt ɡet ə tʃæns tə let juː noʊ/ — apologising for an unexcused absence
 - "I'm still not fully better today, but I came in anyway because I really missed you and everyone." — /aɪm stɪl nɑːt ˈfʊli ˈbetər təˈdeɪ · bʌt aɪ keɪm ɪn ˈeniweɪ bɪˈkɔːz aɪ ˈrɪli mɪst juː ənd ˈevriwʌn/ — showing up despite still being unwell
 - "Where do you live? Which street do you live on? Which ward and city do you live in?" — /wer duː juː lɪv · wɪtʃ striːt duː juː lɪv ɑːn · wɪtʃ wɔːrd ənd ˈsɪti duː juː lɪv ɪn/ — asking where someone lives (VN: ward = phường, commune = xã; NZ: use "suburb")
+- "How do you order from Shopee if you don't remember your own address?" — /haʊ duː juː ˈɔːrdər frʌm ˈʃɑːpiː ɪf juː doʊnt rɪˈmembər jɔːr oʊn ˈædres/ — friendly teasing (say it with a smile)
+- "How long does it take you to get from home to the office? How far is your home from the office?" — /haʊ lɔːŋ dʌz ɪt teɪk juː tə ɡet frʌm hoʊm tə ði ˈɑːfɪs · haʊ fɑːr ɪz jɔːr hoʊm frʌm ði ˈɑːfɪs/ — asking about someone's commute (time + distance)
 
 > "How's" (/z/ buzz) is fixed now — use the natural contraction, no more "How is" workaround.
 > Warm reactions: ask about the situation ("Is everything okay?"), not their "issue" ("Do you have any issue?" sounds cold). Positive → "really" is fine (You look really happy).
