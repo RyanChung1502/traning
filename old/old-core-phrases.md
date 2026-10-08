@@ -33,3 +33,5 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | "The roads were crowded (/clear)." | another option for a rough morning |
 | "How's the team doing?" | opening a one-to-one |
 | "Everything else looks good." | approving after minor notes |
+| "Can you fix the grammar on this?" | asking someone to correct your grammar |
+| "The API and MCP slots are empty, so that's expected. Is it safe to test now by turning the flag on?" | confirming a setup looks right, then asking if it's okay to start testing |

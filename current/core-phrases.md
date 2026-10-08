@@ -45,6 +45,3 @@ Move through the board, steer, and close.
 - "Sad to see you go! Thanks for all the help and the good times. All the best, and stay in touch!" — a warmer reply to a teammate's farewell
 - "I'll really miss our daily lunches from when I was onsite in Hanoi — let's do it again whenever I'm back, or you make it down to Da Nang!" — a warm, personal note when a teammate leaves
 - "The API and MCP slots are empty, so that's expected. Is it safe to test now by turning the flag on?" — confirming a setup looks right, then asking if it's okay to start testing
-
-### 7. Improving my English
-- "Can you fix the grammar on this?" — /kən juː fɪks ðə ˈɡræmər ɑːn ðɪs/ — asking someone to correct your grammar
