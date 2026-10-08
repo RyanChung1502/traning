@@ -23,8 +23,6 @@ Move through the board, steer, and close.
 - "Thanks, Ryan. Let's move on to Luke's story. How's it going?" — /θæŋks ˈraɪən · lets muːv ɑːn tə luːks ˈstɔːri · haʊz ɪt ˈɡoʊɪŋ/ — thank the last person, then move to the next
 - "Alright, that's all the stories for this daily meeting." — /ɔːlˈraɪt ðæts ɔːl ðə ˈstɔːriz fɔːr ðɪs ˈdeɪli ˈmiːtɪŋ/ — closing
 
-> Replaced "Next up" — the /kst/ + "up" was hard to say. "Let's move on to..." is easier.
-
 ### 3. My own update
 - "Let me get back to you on that." — /let mi ɡet bæk tə juː ɑːn ðæt/ — need thinking time
 - "Does that make sense?" — /dʌz ðæt meɪk sens/ — checking they follow after you explain something
@@ -34,16 +32,9 @@ Move through the board, steer, and close.
 - "What do you mean by that?" — /wʌt duː juː miːn baɪ ðæt/ — ask a person what they meant
 - "What does 'sign off' mean?" — /wʌt dʌz saɪn ɔːf miːn/ — ask about a term itself (e.g. seen in a doc)
 
-> "does ... mean" = asking the meaning of a word (like a dictionary). "do you mean by" = asking a specific person what THEY meant — needs someone in front of you.
-
 ### 5. Code reviews & PRs
 - "I've fixed your comments and created a user story to track the out-of-scope bugs for later." — /aɪv fɪkst jɔːr ˈkɑːments ənd kriˈeɪtɪd ə ˈjuːzər ˈstɔːri tə træk ði ˌaʊt əv skoʊp bʌɡz fɔːr ˈleɪtər/ — re-review request when you deferred some bugs to a new user story
 - "This PR is pretty small. What if we combine PR1 and PR2 — how many files would that change?" — suggesting a merge and asking the size
-
-> "Everything else" is singular → always **looks**, not "look". Clearer than "otherwise" or "the rest".
-> "I think..." keeps a bug report friendly (softer than "This is wrong."). "Could you take a look?" is much warmer than "Please check this." (an order).
-> "how many files" — files are countable. "how much" is only for uncountable things.
-> "What if we...?" = "sẽ thế nào nếu..." — floats an idea, confident but still open. Stronger than "I think", softer than "we should".
 
 ### 6. Project & team coordination
 - "There's a company photoshoot at the office, so I'll be a bit late to the daily. Go ahead without me." — telling the team you'll join late
@@ -55,11 +46,5 @@ Move through the board, steer, and close.
 - "I'll really miss our daily lunches from when I was onsite in Hanoi — let's do it again whenever I'm back, or you make it down to Da Nang!" — a warm, personal note when a teammate leaves
 - "The API and MCP slots are empty, so that's expected. Is it safe to test now by turning the flag on?" — confirming a setup looks right, then asking if it's okay to start testing
 
-> Always name the release. "Milestone" alone is too vague.
-> "Go ahead without me" = start without waiting for me. "let the team know" is warmer than "announce".
-> "if **you're** okay to go ahead" (not "it's okay") — sign-off asks the *person's* approval, so point at them, not the task.
-
 ### 7. Improving my English
 - "Can you fix the grammar on this?" — /kən juː fɪks ðə ˈɡræmər ɑːn ðɪs/ — asking someone to correct your grammar
-
-> "tell me" beats "flag" here — "flag" (meaning point out) is a bit idiomatic; "tell me" is clearer to any non-native. And "doesn't sound natural" beats the idiom "sounds off".
