@@ -6,11 +6,6 @@ Format: **"phrase" — /pronunciation/ — when to use it**.
 ### 1. Small talk & checking in
 Greetings, reactions, and light catch-ups.
 
-- "You look happy! Did something good happen?" — /juː lʊk ˈhæpi · dɪd ˈsʌmθɪŋ ɡʊd ˈhæpən/ — when they look happy
-- "You look tired. Is everything okay?" — /juː lʊk ˈtaɪərd · ɪz ˈevriθɪŋ oʊˈkeɪ/ — when they look tired
-- "Not great, to be honest. The drive to work was tiring (/easy) — the traffic was heavy (/light)." — answering on a rough morning
-- "The roads were crowded (/clear)." — another option
-- "How's the team doing?" — /haʊz ðə tiːm ˈduːɪŋ/ — opening a one-to-one
 - "Glad it works for you." — /ɡlæd ɪt wɜːrks fɔːr juː/ — replying when your help/suggestion worked
 - "Sorry to hear that. Hope you feel better soon — take care of yourself and get some rest." — /ˈsɑːri tə hɪr ðæt · hoʊp juː fiːl ˈbetər suːn · teɪk ker əv jɔːrˈself ənd ɡet sʌm rest/ — when a classmate/teammate is sick or off unwell
 - "Are you feeling better?" — /ɑːr juː ˈfiːlɪŋ ˈbetər/ — asking a teammate who was off sick
@@ -32,13 +27,10 @@ Move through the board, steer, and close.
 
 - "Thanks, Ryan. Let's move on to Luke's story. How's it going?" — /θæŋks ˈraɪən · lets muːv ɑːn tə luːks ˈstɔːri · haʊz ɪt ˈɡoʊɪŋ/ — thank the last person, then move to the next
 - "Alright, that's all the stories for this daily meeting." — /ɔːlˈraɪt ðæts ɔːl ðə ˈstɔːriz fɔːr ðɪs ˈdeɪli ˈmiːtɪŋ/ — closing
-- "Thanks everyone — have a good day." — /θæŋks ˈevriwʌn · hæv ə ɡʊd deɪ/ — closing
 
 > Replaced "Next up" — the /kst/ + "up" was hard to say. "Let's move on to..." is easier.
 
 ### 3. My own update
-- "That's it from me." — /ðæts ɪt frʌm miː/ — finishing my update
-- "Nothing from me." — /ˈnʌθɪŋ frʌm miː/ — no questions
 - "Let me get back to you on that." — /let mi ɡet bæk tə juː ɑːn ðæt/ — need thinking time
 - "Does that make sense?" — /dʌz ðæt meɪk sens/ — checking they follow after you explain something
 
@@ -50,7 +42,6 @@ Move through the board, steer, and close.
 > "does ... mean" = asking the meaning of a word (like a dictionary). "do you mean by" = asking a specific person what THEY meant — needs someone in front of you.
 
 ### 5. Code reviews & PRs
-- "Everything else looks good." — /ˈevriθɪŋ els lʊks ɡʊd/ — approving after minor notes
 - "I've fixed your comments and created a user story to track the out-of-scope bugs for later." — /aɪv fɪkst jɔːr ˈkɑːments ənd kriˈeɪtɪd ə ˈjuːzər ˈstɔːri tə træk ði ˌaʊt əv skoʊp bʌɡz fɔːr ˈleɪtər/ — re-review request when you deferred some bugs to a new user story
 - "This PR is pretty small. What if we combine PR1 and PR2 — how many files would that change?" — suggesting a merge and asking the size
 

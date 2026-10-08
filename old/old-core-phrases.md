@@ -24,3 +24,12 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | "How's the weather over there?" | small talk with someone in another place |
 | "How's your story going?" | asking for an update |
 | "Where are we on the August release?" | asking project status |
+| "Thanks everyone — have a good day." | closing the daily |
+| "That's it from me." | finishing my update |
+| "Nothing from me." | no questions |
+| "You look happy! Did something good happen?" | when they look happy |
+| "You look tired. Is everything okay?" | when they look tired |
+| "Not great, to be honest. The drive to work was tiring (/easy) — the traffic was heavy (/light)." | answering on a rough morning |
+| "The roads were crowded (/clear)." | another option for a rough morning |
+| "How's the team doing?" | opening a one-to-one |
+| "Everything else looks good." | approving after minor notes |
