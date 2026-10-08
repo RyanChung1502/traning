@@ -17,11 +17,6 @@ Greetings, reactions, and light catch-ups.
 - "How do you order from Shopee if you don't remember your own address?" — /haʊ duː juː ˈɔːrdər frʌm ˈʃɑːpiː ɪf juː doʊnt rɪˈmembər jɔːr oʊn ˈædres/ — friendly teasing (say it with a smile)
 - "How long does it take you to get from home to the office? How far is your home from the office?" — /haʊ lɔːŋ dʌz ɪt teɪk juː tə ɡet frʌm hoʊm tə ði ˈɑːfɪs · haʊ fɑːr ɪz jɔːr hoʊm frʌm ði ˈɑːfɪs/ — asking about someone's commute (time + distance)
 
-> "How's" (/z/ buzz) is fixed now — use the natural contraction, no more "How is" workaround.
-> Warm reactions: ask about the situation ("Is everything okay?"), not their "issue" ("Do you have any issue?" sounds cold). Positive → "really" is fine (You look really happy).
-> Answering: "to be honest" makes it real without sounding heavy. Collocations: **heavy traffic** (xe), **crowded roads** (đường) — not "crowded traffic".
-> "How did it go?" is the natural way to ask about a past event.
-
 ### 2. Running the daily
 Move through the board, steer, and close.
 
