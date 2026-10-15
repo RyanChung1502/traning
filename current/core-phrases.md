@@ -16,12 +16,13 @@ Greetings, reactions, and light catch-ups.
 - "Where do you live? Which street do you live on? Which ward and city do you live in?" — /wer duː juː lɪv · wɪtʃ striːt duː juː lɪv ɑːn · wɪtʃ wɔːrd ənd ˈsɪti duː juː lɪv ɪn/ — asking where someone lives (VN: ward = phường, commune = xã; NZ: use "suburb")
 - "How do you order from Shopee if you don't remember your own address?" — /haʊ duː juː ˈɔːrdər frʌm ˈʃɑːpiː ɪf juː doʊnt rɪˈmembər jɔːr oʊn ˈædres/ — friendly teasing (say it with a smile)
 - "How long does it take you to get from home to the office? How far is your home from the office?" — /haʊ lɔːŋ dʌz ɪt teɪk juː tə ɡet frʌm hoʊm tə ði ˈɑːfɪs · haʊ fɑːr ɪz jɔːr hoʊm frʌm ði ˈɑːfɪs/ — asking about someone's commute (time + distance)
+- "How was your flight here?" — /haʊ wʌz jɔːr flaɪt hɪr/ — greeting a visitor who flew in (e.g. a senior client guest)
+- "Was the traffic okay on the way from the airport?" — /wʌz ðə ˈtræfɪk oʊˈkeɪ ɑːn ðə weɪ frʌm ði ˈerpɔːrt/ — follow-up with a visitor
+- "What do you think of the traffic in Vietnam?" — /wʌt duː juː θɪŋk əv ðə ˈtræfɪk ɪn ˌviːetˈnɑːm/ — light topic with a visitor new to Vietnam
 
 ### 2. Running the daily
 Move through the board, steer, and close.
 
-- "Thanks, Ryan. Let's move on to Luke's story. How's it going?" — /θæŋks ˈraɪən · lets muːv ɑːn tə luːks ˈstɔːri · haʊz ɪt ˈɡoʊɪŋ/ — thank the last person, then move to the next
-- "Alright, that's all the stories for this daily meeting." — /ɔːlˈraɪt ðæts ɔːl ðə ˈstɔːriz fɔːr ðɪs ˈdeɪli ˈmiːtɪŋ/ — closing
 
 ### 3. My own update
 - "Let me get back to you on that." — /let mi ɡet bæk tə juː ɑːn ðæt/ — need thinking time

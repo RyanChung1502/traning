@@ -35,3 +35,5 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | "Everything else looks good." | approving after minor notes |
 | "Can you fix the grammar on this?" | asking someone to correct your grammar |
 | "The API and MCP slots are empty, so that's expected. Is it safe to test now by turning the flag on?" | confirming a setup looks right, then asking if it's okay to start testing |
+| "Thanks, Ryan. Let's move on to Luke's story. How's it going?" | thank the last person, then move to the next |
+| "Alright, that's all the stories for this daily meeting." | closing the daily |
