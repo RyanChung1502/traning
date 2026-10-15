@@ -43,3 +43,7 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | "Sorry, I couldn't hear you for a second." | if it's the connection |
 | "What do you mean by that?" | ask a person what they meant |
 | "What does 'sign off' mean?" | ask about a term itself (e.g. seen in a doc) |
+| "Glad it works for you." | replying when your help/suggestion worked |
+| "Sorry to hear that. Hope you feel better soon — take care of yourself and get some rest." | when a classmate/teammate is sick or off unwell |
+| "Are you feeling better?" | asking a teammate who was off sick |
+| "I'm feeling much better now. Thanks for asking." | replying when you're back from sick leave |
