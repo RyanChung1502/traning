@@ -29,18 +29,12 @@ Move through the board, steer, and close.
 - "Does that make sense?" — /dʌz ðæt meɪk sens/ — checking they follow after you explain something
 
 ### 4. When I don't catch or understand
-- "Sorry, I couldn't hear you for a second." — /ˈsɑːri · aɪ ˈkʊdənt hɪr juː fɔːr ə ˈsekənd/ — if it's the connection
-- "What do you mean by that?" — /wʌt duː juː miːn baɪ ðæt/ — ask a person what they meant
-- "What does 'sign off' mean?" — /wʌt dʌz saɪn ɔːf miːn/ — ask about a term itself (e.g. seen in a doc)
 
 ### 5. Code reviews & PRs
 - "I've fixed your comments and created a user story to track the out-of-scope bugs for later." — /aɪv fɪkst jɔːr ˈkɑːments ənd kriˈeɪtɪd ə ˈjuːzər ˈstɔːri tə træk ði ˌaʊt əv skoʊp bʌɡz fɔːr ˈleɪtər/ — re-review request when you deferred some bugs to a new user story
 - "This PR is pretty small. What if we combine PR1 and PR2 — how many files would that change?" — suggesting a merge and asking the size
 
 ### 6. Project & team coordination
-- "There's a company photoshoot at the office, so I'll be a bit late to the daily. Go ahead without me." — telling the team you'll join late
-- "I proposed design v4 in the ticket comment. Could you review it and let me know if you're okay to go ahead?" — asking the lead to approve/sign off on your proposal
-- "You haven't replied to Dung about the demo. We're worried something might be wrong. Is everything okay?" — flagging to the lead that the team is worried about an unanswered question
 - "I'm back in Da Nang. Thanks for the warm welcome and all the help — really enjoyed working with you all. Let's keep in touch!" — saying goodbye in a group chat after an onsite/rotation ends
 - "It's been great working with you! Wishing you all the best in what's next. Let's keep in touch — take care!" — replying to a teammate's farewell
 - "Sad to see you go! Thanks for all the help and the good times. All the best, and stay in touch!" — a warmer reply to a teammate's farewell

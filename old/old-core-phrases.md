@@ -37,3 +37,9 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | "The API and MCP slots are empty, so that's expected. Is it safe to test now by turning the flag on?" | confirming a setup looks right, then asking if it's okay to start testing |
 | "Thanks, Ryan. Let's move on to Luke's story. How's it going?" | thank the last person, then move to the next |
 | "Alright, that's all the stories for this daily meeting." | closing the daily |
+| "There's a company photoshoot at the office, so I'll be a bit late to the daily. Go ahead without me." | telling the team you'll join late |
+| "I proposed design v4 in the ticket comment. Could you review it and let me know if you're okay to go ahead?" | asking the lead to approve/sign off on your proposal |
+| "You haven't replied to Dung about the demo. We're worried something might be wrong. Is everything okay?" | flagging to the lead that the team is worried about an unanswered question |
+| "Sorry, I couldn't hear you for a second." | if it's the connection |
+| "What do you mean by that?" | ask a person what they meant |
+| "What does 'sign off' mean?" | ask about a term itself (e.g. seen in a doc) |
