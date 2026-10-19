@@ -33,6 +33,7 @@ Move through the board, steer, and close.
 - "It's been great working with you! Wishing you all the best in what's next. Let's keep in touch — take care!" — replying to a teammate's farewell
 - "Sad to see you go! Thanks for all the help and the good times. All the best, and stay in touch!" — a warmer reply to a teammate's farewell
 - "I'll really miss our daily lunches from when I was onsite in Hanoi — let's do it again whenever I'm back, or you make it down to Da Nang!" — a warm, personal note when a teammate leaves
+- "Who made sync-skills?" — /huː meɪd sɪŋk skɪlz/ — asking who built a tool, script, or doc (swap in the name)
 
 ### 7. Hosting a visitor
 Welcoming a guest (e.g. a senior client) and taking them out.
