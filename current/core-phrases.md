@@ -12,6 +12,7 @@ Greetings, reactions, and light catch-ups.
 - "Where do you live? Which street do you live on? Which ward and city do you live in?" — /wer duː juː lɪv · wɪtʃ striːt duː juː lɪv ɑːn · wɪtʃ wɔːrd ənd ˈsɪti duː juː lɪv ɪn/ — asking where someone lives (VN: ward = phường, commune = xã; NZ: use "suburb")
 - "How do you order from Shopee if you don't remember your own address?" — /haʊ duː juː ˈɔːrdər frʌm ˈʃɑːpiː ɪf juː doʊnt rɪˈmembər jɔːr oʊn ˈædres/ — friendly teasing (say it with a smile)
 - "How long does it take you to get from home to the office? How far is your home from the office?" — /haʊ lɔːŋ dʌz ɪt teɪk juː tə ɡet frʌm hoʊm tə ði ˈɑːfɪs · haʊ fɑːr ɪz jɔːr hoʊm frʌm ði ˈɑːfɪs/ — asking about someone's commute (time + distance)
+- "Our final exam is coming up. Do you know who will be testing us?" — /ˈaʊər ˈfaɪnəl ɪɡˈzæm ɪz ˈkʌmɪŋ ʌp · duː juː noʊ huː wɪl biː ˈtestɪŋ ʌs/ — asking the teacher who will run the final exam
 
 ### 2. Running the daily
 Move through the board, steer, and close.
