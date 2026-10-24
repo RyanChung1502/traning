@@ -43,3 +43,4 @@ Welcoming a guest (e.g. a senior client) and taking them out.
 - "What do you think of the traffic in Vietnam?" — /wʌt duː juː θɪŋk əv ðə ˈtræfɪk ɪn ˌviːetˈnɑːm/ — light topic with a visitor new to Vietnam
 - "I would love to take you out for some local food. Is there any food you cannot eat?" — /aɪ wʊd lʌv tə teɪk juː aʊt fɔːr sʌm ˈloʊkəl fuːd · ɪz ðer ˈeni fuːd juː ˈkænɑːt iːt/ — inviting them out, then checking what they can eat (say both together)
 - "I heard CEOs are always busy, meeting people and travelling all the time. Do you really spend more nights in hotels than at home?" — /aɪ hɜːrd ˌsiː iː ˈoʊz ɑːr ˈɔːlweɪz ˈbɪzi · ˈmiːtɪŋ ˈpiːpəl ənd ˈtrævəlɪŋ ɔːl ðə taɪm · duː juː ˈrɪli spend mɔːr naɪts ɪn hoʊˈtelz ðən æt hoʊm/ — friendly curiosity with a senior guest (say it with a smile)
+- "What do you like to do when you are not working?" — /wʌt duː juː laɪk tə duː wen juː ɑːr nɑːt ˈwɜːrkɪŋ/ — light topic about life outside work
