@@ -47,3 +47,10 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | "Sorry to hear that. Hope you feel better soon — take care of yourself and get some rest." | when a classmate/teammate is sick or off unwell |
 | "Are you feeling better?" | asking a teammate who was off sick |
 | "I'm feeling much better now. Thanks for asking." | replying when you're back from sick leave |
+| "Hey, how did the badminton tournament go? Did your team win?" | asking a teammate how an event went (with a follow-up to keep it going) |
+| "Hi, sorry I missed class on Monday. I was off sick and didn't get a chance to let you know." | apologising for an unexcused absence |
+| "I'm still not fully better today, but I came in anyway because I really missed you and everyone." | showing up despite still being unwell |
+| "Let me get back to you on that." | need thinking time |
+| "Does that make sense?" | checking they follow after you explain something |
+| "I've fixed your comments and created a user story to track the out-of-scope bugs for later." | re-review request when you deferred some bugs to a new user story |
+| "This PR is pretty small. What if we combine PR1 and PR2 — how many files would that change?" | suggesting a merge and asking the size |
