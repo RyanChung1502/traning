@@ -31,6 +31,7 @@ Move through the board, steer, and close.
 - "Who made sync-skills?" — /huː meɪd sɪŋk skɪlz/ — asking who built a tool, script, or doc (swap in the name)
 - "Could I ask for your honest feedback on my English? Also, is the team's English clear enough for you in meetings, or is there anything we should improve?" — /kʊd aɪ æsk fɔːr jɔːr ˈɒnɪst ˈfiːdbæk ɒn maɪ ˈɪŋɡlɪʃ/ — asking a lead for feedback on my English and the team's (ask about yourself first)
 - Them: "You are on the right track." → Me: "Thanks! I am glad to hear I am on the right track." — /ɡlæd tə hɪər aɪ æm ɒn ðə raɪt træk/ — replying when someone says my work is going in the right direction
+- "Could you talk to the team in the next meeting about why clear English communication is important? I think it will have more impact if it comes from you." — /ˈɪmpækt/ — asking a lead to raise a topic with the team (giving the reason keeps it from sounding like a complaint)
 
 ### 7. Hosting a visitor
 Welcoming a guest (e.g. a senior client) and taking them out.
