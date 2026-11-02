@@ -13,6 +13,7 @@ Greetings, reactions, and light catch-ups.
 - "Did you enjoy playing badminton with us last time? Did you win any games?" — /dɪd juː ɪnˈdʒɔɪ ˈpleɪɪŋ ˈbædmɪntən wɪð ʌs læst taɪm · dɪd juː wɪn ˈeni ɡeɪmz/ — asking the teacher (or anyone) how their first game with you went; say the second part with a smile
 - "Did you enjoy the team lunch last time? Did you see what we are really like outside the classroom?" — /dɪd juː ɪnˈdʒɔɪ ðə tiːm lʌntʃ læst taɪm · dɪd juː siː wʌt wiː ɑːr ˈrɪli laɪk ˌaʊtˈsaɪd ðə ˈklæsruːm/ — asking the teacher about a class lunch at the next lesson (playful)
 - "Sometimes I notice I am speaking English with Vietnamese grammar. Do you hear that a lot?" — /ˈɡræmər/ — light, self-aware opener about my English (keep it about me, not the team)
+- "Right now I am working toward a solution architect or project manager role, because I think coding alone is becoming less valuable, while communication and seeing the big picture are becoming more important." — /təˈwɔːrd · ˈɑːrkɪtekt/ — when someone asks about my career path (say the roles in full, not SA/PM)
 
 ### 2. Running the daily
 Move through the board, steer, and close.
