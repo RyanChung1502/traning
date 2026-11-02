@@ -14,6 +14,7 @@ Greetings, reactions, and light catch-ups.
 - "Did you enjoy the team lunch last time? Did you see what we are really like outside the classroom?" — /dɪd juː ɪnˈdʒɔɪ ðə tiːm lʌntʃ læst taɪm · dɪd juː siː wʌt wiː ɑːr ˈrɪli laɪk ˌaʊtˈsaɪd ðə ˈklæsruːm/ — asking the teacher about a class lunch at the next lesson (playful)
 - "Sometimes I notice I am speaking English with Vietnamese grammar. Do you hear that a lot?" — /ˈɡræmər/ — light, self-aware opener about my English (keep it about me, not the team)
 - "Right now I am working toward a solution architect or project manager role, because I think coding alone is becoming less valuable, while communication and seeing the big picture are becoming more important." — /təˈwɔːrd · ˈɑːrkɪtekt/ — when someone asks about my career path (say the roles in full, not SA/PM)
+- "After a couple of months of working with AI, I realized that English is very important these days, especially spoken English." — /ˈkʌpəl · ɪˈspeʃəli/ — why I am working on my English ("a couple of" = 1–2, not "many")
 
 ### 2. Running the daily
 Move through the board, steer, and close.
