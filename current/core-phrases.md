@@ -30,6 +30,7 @@ Move through the board, steer, and close.
 - "I'll really miss our daily lunches from when I was onsite in Hanoi — let's do it again whenever I'm back, or you make it down to Da Nang!" — a warm, personal note when a teammate leaves
 - "Who made sync-skills?" — /huː meɪd sɪŋk skɪlz/ — asking who built a tool, script, or doc (swap in the name)
 - "Could I ask for your honest feedback on my English? Also, is the team's English clear enough for you in meetings, or is there anything we should improve?" — /kʊd aɪ æsk fɔːr jɔːr ˈɒnɪst ˈfiːdbæk ɒn maɪ ˈɪŋɡlɪʃ/ — asking a lead for feedback on my English and the team's (ask about yourself first)
+- Them: "You are on the right track." → Me: "Thanks! I am glad to hear I am on the right track." — /ɡlæd tə hɪər aɪ æm ɒn ðə raɪt træk/ — replying when someone says my work is going in the right direction
 
 ### 7. Hosting a visitor
 Welcoming a guest (e.g. a senior client) and taking them out.
