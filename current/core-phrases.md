@@ -12,6 +12,7 @@ Greetings, reactions, and light catch-ups.
 - "Our final exam is coming up. Do you know who will be testing us?" — /ˈaʊər ˈfaɪnəl ɪɡˈzæm ɪz ˈkʌmɪŋ ʌp · duː juː noʊ huː wɪl biː ˈtestɪŋ ʌs/ — asking the teacher who will run the final exam
 - "Did you enjoy playing badminton with us last time? Did you win any games?" — /dɪd juː ɪnˈdʒɔɪ ˈpleɪɪŋ ˈbædmɪntən wɪð ʌs læst taɪm · dɪd juː wɪn ˈeni ɡeɪmz/ — asking the teacher (or anyone) how their first game with you went; say the second part with a smile
 - "Did you enjoy the team lunch last time? Did you see what we are really like outside the classroom?" — /dɪd juː ɪnˈdʒɔɪ ðə tiːm lʌntʃ læst taɪm · dɪd juː siː wʌt wiː ɑːr ˈrɪli laɪk ˌaʊtˈsaɪd ðə ˈklæsruːm/ — asking the teacher about a class lunch at the next lesson (playful)
+- "Sometimes I notice I am speaking English with Vietnamese grammar. Do you hear that a lot?" — /ˈɡræmər/ — light, self-aware opener about my English (keep it about me, not the team)
 
 ### 2. Running the daily
 Move through the board, steer, and close.
