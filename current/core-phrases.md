@@ -2,9 +2,6 @@
 
 ### 1. Small talk & checking in
 
-- "Where do you live? Which street do you live on? Which ward and city do you live in?"
-- "How do you order from Shopee if you don't remember your own address?"
-- "How long does it take you to get from home to the office? How far is your home from the office?"
 - "Our final exam is coming up. Do you know who will be testing us?"
 - "Did you enjoy playing badminton with us last time? Did you win any games?"
 - "Did you enjoy the team lunch last time? Did you see what we are really like outside the classroom?"
@@ -21,11 +18,6 @@
 ### 5. Code reviews & PRs
 
 ### 6. Project & team coordination
-- "I'm back in Da Nang. Thanks for the warm welcome and all the help — really enjoyed working with you all. Let's keep in touch!"
-- "It's been great working with you! Wishing you all the best in what's next. Let's keep in touch — take care!"
-- "Sad to see you go! Thanks for all the help and the good times. All the best, and stay in touch!"
-- "I'll really miss our daily lunches from when I was onsite in Hanoi — let's do it again whenever I'm back, or you make it down to Da Nang!"
-- "Who made sync-skills?"
 - "Could I ask for your honest feedback on my English? Also, is the team's English clear enough for you in meetings, or is there anything we should improve?"
 - Them: "You are on the right track." → Me: "Thanks! I am glad to hear I am on the right track."
 - "Could you talk to the team in the next meeting about why clear English communication is important? I think it will have more impact if it comes from you."

@@ -54,3 +54,11 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | "Does that make sense?" | checking they follow after you explain something |
 | "I've fixed your comments and created a user story to track the out-of-scope bugs for later." | re-review request when you deferred some bugs to a new user story |
 | "This PR is pretty small. What if we combine PR1 and PR2 — how many files would that change?" | suggesting a merge and asking the size |
+| "I'm back in Da Nang. Thanks for the warm welcome and all the help — really enjoyed working with you all. Let's keep in touch!" | saying goodbye in a group chat after an onsite trip ends |
+| "It's been great working with you! Wishing you all the best in what's next. Let's keep in touch — take care!" | replying to a teammate's farewell |
+| "Sad to see you go! Thanks for all the help and the good times. All the best, and stay in touch!" | a warmer reply to a teammate's farewell |
+| "I'll really miss our daily lunches from when I was onsite in Hanoi — let's do it again whenever I'm back, or you make it down to Da Nang!" | a warm, personal note when a teammate leaves |
+| "Who made sync-skills?" | asking who built a tool, script, or doc |
+| "Where do you live? Which street do you live on? Which ward and city do you live in?" | asking where someone lives |
+| "How do you order from Shopee if you don't remember your own address?" | friendly teasing |
+| "How long does it take you to get from home to the office? How far is your home from the office?" | asking about someone's commute |
