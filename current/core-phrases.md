@@ -6,7 +6,7 @@
 - "Did you enjoy playing badminton with us last time? Did you win any games?"
 - "Did you enjoy the team lunch last time? Did you see what we are really like outside the classroom?"
 - "Sometimes I notice I am speaking English with Vietnamese grammar. Do you hear that a lot?"
-- "Right now I am working toward a solution architect or project manager role, because I think coding alone is becoming less valuable, while communication and seeing the big picture are becoming more important."
+- "Right now I am working toward a solution architect or project manager role, because I think coding alone is becoming less valuable, while communication and seeing the big picture matter more."
 - "After a couple of months of working with AI, I realized that English is very important these days, especially spoken English."
 
 ### 2. Running the daily
@@ -36,6 +36,6 @@
 - "What do you like to do when you are not working?"
 - "Where are you staying? How are you getting to the office? Did you rent a motorbike to try the Da Nang traffic? I guess you already have plans for every evening, right? Partying all night on the tourist street, like An Thuong?"
 - Guest: "Is there anything you would like me to bring from New Zealand?" → Me: "Chocolate is my favorite, so I would love to try some from NZ."
-- Guest: "Have you been to Ho Chi Minh City?" (or "Saigon") → Me: "Yes, I worked there for a while, and I have been back a few times for work. It is too crowded and polluted for me, so I still prefer living in Da Nang."
+- Guest: "Have you been to Ho Chi Minh City?" (or "Saigon") → Me: "Yes, I worked there for a while, and I have been back a few times since. It is too crowded and polluted for me, so I still prefer living in Da Nang."
 - "Have you tried the local beer here? How is it different from beer in New Zealand?"
 - "For me, local places are more fun than the big tourist places. Would you like me to show you some?"

@@ -36,7 +36,7 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | "Can you fix the grammar on this?" | asking someone to correct your grammar |
 | "The API and MCP slots are empty, so that's expected. Is it safe to test now by turning the flag on?" | confirming a setup looks right, then asking if it's okay to start testing |
 | "Thanks, Ryan. Let's move on to Luke's story. How's it going?" | thank the last person, then move to the next |
-| "Alright, that's all the stories for this daily meeting." | closing the daily |
+| "Alright, that's all the stories for today." | closing the daily |
 | "There's a company photoshoot at the office, so I'll be a bit late to the daily. Go ahead without me." | telling the team you'll join late |
 | "I proposed design v4 in the ticket comment. Could you review it and let me know if you're okay to go ahead?" | asking the lead to approve/sign off on your proposal |
 | "You haven't replied to Dung about the demo. We're worried something might be wrong. Is everything okay?" | flagging to the lead that the team is worried about an unanswered question |
@@ -49,7 +49,7 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | "I'm feeling much better now. Thanks for asking." | replying when you're back from sick leave |
 | "Hey, how did the badminton tournament go? Did your team win?" | asking a teammate how an event went (with a follow-up to keep it going) |
 | "Hi, sorry I missed class on Monday. I was off sick and didn't get a chance to let you know." | apologising for an unexcused absence |
-| "I'm still not fully better today, but I came in anyway because I really missed you and everyone." | showing up despite still being unwell |
+| "I'm still not fully better today, but I came in anyway because I really missed everyone." | showing up despite still being unwell |
 | "Let me get back to you on that." | need thinking time |
 | "Does that make sense?" | checking they follow after you explain something |
 | "I've fixed your comments and created a user story to track the out-of-scope bugs for later." | re-review request when you deferred some bugs to a new user story |
