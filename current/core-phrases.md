@@ -33,6 +33,8 @@
 
 ### 7. Hosting a visitor
 
+- "When are you arriving in Da Nang, and when are you planning to come to the office?"
+- "I guess your evenings will be busy with our managers, but do you have a free evening? I would love to take you out for some local food and drinks."
 - "How was your flight here?"
 - "Was the traffic okay on the way from the airport?"
 - "What do you think of the traffic in Vietnam?"
