@@ -38,4 +38,4 @@
 - Guest: "Is there anything you would like me to bring from New Zealand?" → Me: "Chocolate is my favorite, so I would love to try some from NZ."
 - Guest: "Have you been to Ho Chi Minh City?" (or "Saigon") → Me: "Yes, I worked there for a while, and I have been back a few times since. It is too crowded and polluted for me, so I still prefer living in Da Nang."
 - "Have you tried the local beer here? How is it different from beer in New Zealand?"
-- "For me, local places are more fun than the big tourist places. Would you like me to show you some?"
+- "For me, local places are more fun than the big tourist ones. Would you like me to show you some?"
