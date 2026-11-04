@@ -39,6 +39,7 @@
 - "Was the traffic okay on the way from the airport?"
 - "What do you think of the traffic in Vietnam?"
 - "I would love to take you out for some local food. Is there any food you cannot eat?"
+- "This sauce is made from fermented shrimp, and it has a very strong smell. Would you like to try a little, or would you prefer fish sauce?"
 - "I heard CEOs are always busy, meeting people and travelling all the time. Do you really spend more nights in hotels than at home?" → Follow-up: "Have you ever met anyone famous on your trips?"
 - "What do you like to do when you are not working?"
 - "Where are you staying? How are you getting to the office? Did you rent a motorbike to try the Da Nang traffic? I guess you already have plans for every evening, right? Partying all night on the tourist street, like An Thuong?"
