@@ -39,6 +39,7 @@ li .play{flex:none;width:40px;height:40px;padding:0;border-radius:50%;font-size:
 <button id="stop">■ Stop</button>
 <label for="rate">Speed <select id="rate"><option value="0.75">Slow</option><option value="0.9" selected>A bit slower</option><option value="1">Normal</option></select></label>
 <label for="gap">Pause <select id="gap"><option value="2000">2 sec</option><option value="4000" selected>4 sec</option><option value="6000">6 sec</option><option value="10000">10 sec</option></select></label>
+<label for="inner">Inside a phrase <select id="inner"><option value="500">0.5 sec</option><option value="1500" selected>1.5 sec</option><option value="3000">3 sec</option></select></label>
 <label for="voice">Voice <select id="voice"></select></label>
 </div>
 <div id="list"><p class="note">Loading phrases…</p></div>
@@ -58,6 +59,10 @@ function parse(md){
   });
   return sections.filter(s=>s.items.length);
 }
+// Split one phrase into sentences so each can be spoken with a pause after it
+function splitSentences(t){
+  return (t.match(/[^.?!]+[.?!]+|[^.?!]+$/g)||[t]).map(s=>s.trim()).filter(Boolean);
+}
 const list=document.getElementById('list');const rows=[];
 function render(sections){
   list.innerHTML='';
@@ -73,7 +78,7 @@ function render(sections){
         const d=document.createElement('div');d.textContent=p.text;t.appendChild(d);
       });
       li.append(b,t);ol.appendChild(li);
-      const idx=rows.length;rows.push({li,text:parts.map(p=>p.text).join(' ... ')});
+      const idx=rows.length;rows.push({li,segs:parts.flatMap(p=>splitSentences(p.text))});
       b.onclick=()=>playFrom(idx,false);
     });
     list.appendChild(ol);
@@ -96,14 +101,24 @@ let token=0;
 function mark(i){rows.forEach((r,j)=>r.li.classList.toggle('on',j===i));if(i>=0)rows[i].li.scrollIntoView({block:'nearest',behavior:'smooth'})}
 function playFrom(i,cont){
   if(!synth)return;synth.cancel();const my=++token;
-  const go=k=>{
-    if(my!==token||k>=rows.length){mark(-1);return}
-    mark(k);
-    const u=new SpeechSynthesisUtterance(rows[k].text);
+  const ms=id=>parseInt(document.getElementById(id).value,10);
+  const say=(k,s)=>{
+    if(my!==token)return;
+    const segs=rows[k].segs;
+    const u=new SpeechSynthesisUtterance(segs[s]);
     u.rate=parseFloat(document.getElementById('rate').value);u.lang='en-US';
     const v=voices[vSel.value];if(v)u.voice=v;
-    u.onend=()=>{if(my!==token)return;if(cont)setTimeout(()=>go(k+1),parseInt(document.getElementById('gap').value,10));else mark(-1)};
+    u.onend=()=>{
+      if(my!==token)return;
+      if(s+1<segs.length)setTimeout(()=>say(k,s+1),ms('inner'));
+      else if(cont)setTimeout(()=>go(k+1),ms('gap'));
+      else mark(-1);
+    };
     synth.speak(u);
+  };
+  const go=k=>{
+    if(my!==token||k>=rows.length){mark(-1);return}
+    mark(k);say(k,0);
   };
   go(i);
 }
