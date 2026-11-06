@@ -43,6 +43,7 @@ lives in the linked files, but these apply every message.
 
 - [how-to-coach-me.md](other/how-to-coach-me.md) — full session rules + three-tier test
 - [core-phrases.md](current/core-phrases.md) — go-to phrases
+- [exam-cheatsheet.md](current/exam-cheatsheet.md) — English class exam cheatsheet (Ryan adds to it over time)
 - [pronunciation-watchlist.md](current/pronunciation-watchlist.md) — tracked sounds
 - [grammar-notes.md](other/grammar-notes.md) — recurring grammar rules
 - [mouth-exercises.md](other/mouth-exercises.md) — articulation drills
