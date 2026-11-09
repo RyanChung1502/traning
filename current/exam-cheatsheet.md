@@ -58,3 +58,47 @@ The biggest problem for their staff is that they're jumping between lots of diff
 With Valo, they can add what they spent, get it approved, and Valo takes it out of the person's budget right away. So they always know what's been spent and what's left.
 There's also a simple approval step with the rules already built in, so they save a lot of time and make fewer mistakes, because Valo does the checking for them.
 And yeah, that's it. Any questions?
+
+### Delivering Bad News (S30)
+I'm afraid I cannot join the badminton tournament next week. The reason is I have to go onsite to Hanoi for work. This will affect our team, because we will not be able to play as a full team. However, I can help find someone to take my place, and I will cheer for you online.
+
+### Yes/No Agreements (S34)
+- I am tired after the trip. So am I.
+- I like local beer. So do I.
+- Dung likes football, and so does Luke.
+- I did not enjoy the traffic. Neither did I.
+- I have been to Hanoi. So have I.
+- Louis will not come today, and neither will the CEO.
+- I cannot join the 1-1 review, and neither can Dung.
+
+### Fancy Up Your Vocabulary (S38)
+- big → major / significant / substantial
+- small → minor / insignificant
+- change → modification / adjustment
+- new → latest / up-to-date
+- old → previous / outdated
+- fix → resolve / address
+- important → critical / essential / crucial
+- bad → poor / problematic
+- OK → acceptable / viable
+
+### Explain Consequences (S39)
+Zero conditional (rules, procedures, system behavior)
+- If I am late for work, my boss gets upset with me.
+
+1st conditional (choices, decisions, risks)
+- If I study English hard, I will have more chances to get promoted in the age of agentic AI.
+
+### Give and Receive Negative Feedback (S40)
+Giving feedback
+- "Hey Dung, do you have a minute?" (private)
+- "Last Saturday, you arrived 30 minutes late, and it was the same the week before." (specific)
+- "Because of that, we had to wait, and we lost our time on the field." (behavior + impact)
+- "You are one of our best players, so we really want you there from the start." (balanced)
+- "Is something making it hard to get there on time?" (2-way)
+
+Receiving feedback
+- Dung listens without interrupting. (listen)
+- "Sorry, was it every week, or just the last two?" (clarify)
+- "Thanks for telling me." (thank)
+- "I will leave home earlier from now on." (commit)
