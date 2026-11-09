@@ -30,6 +30,7 @@
 - "When are you arriving in Da Nang, and when are you planning to come to the office?"
 - "I guess your evenings will be busy with our managers, but do you have a free evening? I would love to take you out for some local food and drinks."
 - "Great! Let's finalise on Monday. You have a local guide this time, so get ready for things no big tour can offer!"
+- "No problem! So it will be just our team tonight, and we will plan another evening with you."
 - "How was your flight here?"
 - "I heard your flight was delayed. I hope you are not too tired! Are you still planning to come to the office today, or would you like to rest first?"
 - Guest: "I will be in the office in another 45 mins - 1 hour, just catching up on some work." → Me: "No problem, take your time. See you soon!"
