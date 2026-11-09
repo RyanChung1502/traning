@@ -9,6 +9,7 @@
 - "It is not common in Vietnam, so I will only use it with foreigners."
 - "Right now I am working toward a solution architect or project manager role, because I think coding alone is becoming less valuable, while communication and seeing the big picture matter more."
 - "After a couple of months of working with AI, I realized that English is very important these days, especially spoken English."
+- "Don't worry too much about the future. Just stay healthy and happy, and you will be ready to face any challenge. And good food and drinks always help!"
 
 ### 2. Running the daily
 
