@@ -23,6 +23,7 @@
 - Them: "You are on the right track." → Me: "Thanks! I am glad to hear that."
 - "Could you talk to the team in the next meeting about why clear English communication is important? I think it will have more impact if it comes from you."
 - "It will take time for the team to adapt to the new way of working, like doing less manual code review and focusing more on design and solution review."
+- "We might be busy with the client this afternoon, so it is safer to move it. I will check our schedule with them and let you know a new time soon."
 
 ### 7. Hosting a visitor
 
