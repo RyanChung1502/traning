@@ -29,6 +29,7 @@
 - "I guess your evenings will be busy with our managers, but do you have a free evening? I would love to take you out for some local food and drinks."
 - "Great! Let's finalise on Monday. You have a local guide this time, so get ready for things no big tour can offer!"
 - "How was your flight here?"
+- "I heard your flight was delayed. I hope you are not too tired! Are you still planning to come to the office today, or would you like to rest first?"
 - "Was the traffic okay on the way from the airport?"
 - "What do you think of the traffic in Vietnam?"
 - "I would love to take you out for some local food. Is there any food you cannot eat?"
