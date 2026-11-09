@@ -6,6 +6,7 @@
 - "Did you enjoy playing badminton with us last time? Did you win any games?"
 - "Did you enjoy the team lunch last time? Did you see what we are really like outside the classroom?"
 - "Sometimes I notice I am speaking English with Vietnamese grammar. Do you hear that a lot?"
+- "It is not common in Vietnam, so I will only use it with foreigners."
 - "Right now I am working toward a solution architect or project manager role, because I think coding alone is becoming less valuable, while communication and seeing the big picture matter more."
 - "After a couple of months of working with AI, I realized that English is very important these days, especially spoken English."
 
