@@ -102,3 +102,37 @@ Receiving feedback
 - "Sorry, was it every week, or just the last two?" (clarify)
 - "Thanks for telling me." (thank)
 - "I will leave home earlier from now on." (commit)
+
+### Give a Progress Update (S41)
+We have confirmed Thursday evening for local food and drinks. We are currently choosing the restaurant. We are waiting for everyone to vote on what to eat and drink, so we cannot book the restaurant until then.
+
+### Schedules and Deadlines (S42)
+Useful time expressions
+- first thing tomorrow
+- before lunch
+- within the hour / within 3 business days
+- by the end of the day / by the end of next week
+- the day after tomorrow
+- this time next week
+- the Monday after next
+
+Phrasal verbs
+- push back – move to a later time or date
+- bring forward – move to an earlier time or date
+- call off – cancel completely
+- put off – decide to do something later
+- catch up on – do work you didn't have time for earlier
+- run over – last longer than planned
+- fall behind – be slower than the plan
+
+### Dig Into Requirements (S44)
+- What will happen if we all drink too much on Thursday, including you, and nobody can work on Friday?
+- In New Zealand, what happens if someone drinks too much at a team dinner and cannot work the next day?
+
+### Handle Complaints (S45)
+- Apologize: "I am so sorry about this."
+- Acknowledge: "I understand how frustrating this is, especially when you have many expenses to submit."
+- Reassure: "We will fix this as soon as possible."
+- Take ownership: "I will investigate this issue personally."
+- Dig for details: "Does it crash every time you submit, or only sometimes? What exactly happens on the screen?"
+- Suggest a fix (try + -ing): "In the meantime, have you tried logging out and logging in again?"
