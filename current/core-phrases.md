@@ -47,6 +47,7 @@
 - "This sauce is made from fermented shrimp, and it has a very strong smell. Would you like to try a little, or would you prefer fish sauce?"
 - "I heard CEOs are always busy, meeting people and travelling all the time. Do you really spend more nights in hotels than at home?" → Follow-up: "Have you ever met anyone famous on your trips?"
 - "What do you like to do when you're not working?"
+- "What do you usually do at lunchtime?" → Me: "In Vietnam, we usually get a one-hour lunch break, and some companies even give an hour and a half." → Follow-up: "So what time do people usually finish work in New Zealand?"
 - "Where are you staying? How are you getting to the office? Did you rent a motorbike to try the Da Nang traffic? I guess you already have plans for every evening, right? Partying all night on the tourist street, like An Thuong?"
 - Guest: "Is there anything you'd like me to bring from New Zealand?" → Me: "Chocolate is my favorite, so I'd love to try some from NZ."
 - Guest: "Have you been to Ho Chi Minh City?" (or "Saigon") → Me: "Yes, I worked there for a while, and I've been back a few times since. It's too crowded and polluted for me, so I still prefer living in Da Nang."
