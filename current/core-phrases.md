@@ -25,6 +25,7 @@
 - "Could you talk to the team in the next meeting about why clear English communication is important? I think it will have more impact if it comes from you."
 - "It will take time for the team to adapt to the new way of working, like doing less manual code review and focusing more on design and solution review."
 - "We might be busy with the client this afternoon, so it's safer to move it. I'll check our schedule with them and let you know a new time soon."
+- "I'm ready for my 1-1 review today or tomorrow. It only takes a few minutes, so feel free to message me any time :)" → Them: "Can you do 1pm?" → Me: "Yes, it works for me. See you at 1pm!"
 
 ### 7. Hosting a visitor
 
