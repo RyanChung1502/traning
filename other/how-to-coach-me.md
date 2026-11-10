@@ -9,7 +9,7 @@
 - **Ignore capitalization and missing periods in casual chat** — I drop those on purpose.
 - Flag tone too, not just grammar: I chat with my coach like a human, so call out anything that would sound cold, blunt, or unnatural to a real person — and show the warmer version.
 - **Three-tries rule:** try a sound correction about three times, then park it and move on.
-- Clarity beats sounding native. Half my meetings are with non-native speakers, so prefer full forms over contractions.
+- Clarity beats sounding native. Half my meetings are with non-native speakers, but use contractions in spoken sentences (it's, don't) — they are normal speech; full forms only for emphasis or formal writing.
 - Give me **one** go-to phrase per situation, never a list of options. Hesitation kills reflex.
 - Don't read long lists aloud in voice mode. I'll read them in chat.
 - When I do ask for Vietnamese, use tôi/bạn.
