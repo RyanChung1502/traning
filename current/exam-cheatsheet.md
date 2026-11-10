@@ -21,11 +21,11 @@
 - I understand what you're saying, but...
 
 ### Talk About Priorities and Trade-offs (S18)
-- run the risk of: If we release on Friday, we run the risk of breaking the app over the weekend.
-- One advantage / disadvantage: One advantage of street food is that it is cheap and local. One disadvantage is that it can be too spicy for the client.
-- The main trade-off is...: The main trade-off is cost versus convenience: an electric car is cheaper to run, but it takes longer to charge than filling up a petrol car.
-- If we do this, ... will...: If we book a fancy restaurant, the client will not see the real local food.
-- If we don't..., we will...: If we don't book the restaurant today, we will not get a table for Thursday.
+- If we release on Friday, we run the risk of breaking the app over the weekend.
+- One advantage of street food is that it is cheap and local. One disadvantage is that it can be too spicy for the client.
+- The main trade-off is cost versus convenience: an electric car is cheaper to run, but it takes longer to charge than filling up a petrol car.
+- If we book a fancy restaurant, the client will not see the real local food.
+- If we don't book the restaurant today, we will not get a table for Thursday.
 
 ### Check Understanding (S09)
 - Does that make sense?
