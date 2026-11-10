@@ -5,6 +5,12 @@ Read these aloud now and then — they're my own real mistakes, so they stick be
 
 Newest at the top.
 
+## 2026-11
+
+| What I said | More natural |
+|---|---|
+| chat should use the same to reduce the typing time? | Should I use them in chat too, to save typing time? |
+
 ## 2026-08
 
 | What I said | More natural |
