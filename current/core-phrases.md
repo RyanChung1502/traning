@@ -15,6 +15,7 @@
 ### 2. Running the daily
 
 ### 3. My own update
+- "I'm currently doing some manual Azure configuration. Once it's done, working with Azure in Codespaces will be much smoother."
 
 ### 4. When I don't catch or understand
 
