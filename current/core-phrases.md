@@ -37,6 +37,7 @@
 - "No problem! So it'll be just our team tonight, and we'll plan another evening with you."
 - "Are you going back to the hotel first, or straight to the restaurant tonight?" → Me: "I'll go straight to the restaurant after work."
 - "Let's eat a big lunch today, so we can skip dinner and save room for more beer at the party tonight!"
+- "How many people are coming to the party tonight?"
 - "You look younger in person than on camera!"
 - "You look just like your photos!"
 - "How was your flight here?"
