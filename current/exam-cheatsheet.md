@@ -95,7 +95,7 @@ Giving feedback
 - "Last Saturday, you arrived 30 minutes late, and it was the same the week before." (specific)
 - "Because of that, we had to wait, and we lost our time on the field." (behavior + impact)
 - "You are one of our best players, so we really want you there from the start." (balanced)
-- "Is something making it hard to get there on time?" (2-way)
+- "Is anything making it hard to get there on time?" (2-way)
 
 Receiving feedback
 - Dung listens without interrupting. (listen)
