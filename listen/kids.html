@@ -28,6 +28,10 @@ li .play{flex:none;width:40px;height:40px;padding:0;border-radius:50%;font-size:
 .txt{min-width:0;display:flex;flex-direction:column;gap:4px}
 .who{font-size:.75rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:600}
 .note{color:var(--muted);font-size:.9rem;margin-top:24px}
+.abc{display:grid;grid-template-columns:repeat(auto-fill,minmax(64px,1fr));gap:8px}
+.abc button{font-family:var(--display);font-size:1.6rem;padding:10px 0;line-height:1.2}
+.abc button.on{background:var(--hi);border-color:var(--accent)}
+.abc small{display:block;font-family:var(--body);font-size:.75rem;color:var(--muted)}
 </style>
 </head>
 <body>
@@ -43,6 +47,8 @@ li .play{flex:none;width:40px;height:40px;padding:0;border-radius:50%;font-size:
 <label for="voice">Giọng <select id="voice"></select></label>
 </div>
 <div id="list"><p class="note">Đang tải…</p></div>
+<h2>Bảng chữ cái</h2>
+<div class="abc" id="abc"></div>
 <p class="note" id="msg">Đọc file current/kids-vietnamese-phrases.md mới nhất, bằng giọng tiếng Việt có sẵn trên máy.</p>
 </div>
 <script>
@@ -133,6 +139,28 @@ function playFrom(i,cont){
 }
 document.getElementById('all').onclick=()=>playFrom(0,true);
 document.getElementById('stop').onclick=()=>{token++;synth&&synth.cancel();mark(-1)};
+
+// Vietnamese alphabet: each letter is a button that says its sound the way kids learn it
+const ABC=[['a','a'],['ă','á'],['â','ớ'],['b','bờ'],['c','cờ'],['d','dờ'],['đ','đờ'],['e','e'],['ê','ê'],
+  ['g','gờ'],['h','hờ'],['i','i'],['k','ca'],['l','lờ'],['m','mờ'],['n','nờ'],['o','o'],['ô','ô'],['ơ','ơ'],
+  ['p','pờ'],['q','quờ'],['r','rờ'],['s','sờ'],['t','tờ'],['u','u'],['ư','ư'],['v','vờ'],['x','xờ'],['y','i dài']];
+const abc=document.getElementById('abc');
+ABC.forEach(([letter,sound])=>{
+  const b=document.createElement('button');
+  b.innerHTML=letter.toUpperCase()+' '+letter+'<small>'+sound+'</small>';
+  b.setAttribute('aria-label','Đọc chữ '+letter);
+  b.onclick=()=>{
+    if(!synth||!voices.length)return;
+    token++;synth.cancel();mark(-1);
+    abc.querySelectorAll('button').forEach(x=>x.classList.toggle('on',x===b));
+    const u=new SpeechSynthesisUtterance(sound);
+    u.rate=parseFloat(document.getElementById('rate').value);u.lang='vi-VN';
+    const v=voices[vSel.value];if(v)u.voice=v;
+    u.onend=()=>b.classList.remove('on');
+    synth.speak(u);
+  };
+  abc.appendChild(b);
+});
 </script>
 </body>
 </html>
