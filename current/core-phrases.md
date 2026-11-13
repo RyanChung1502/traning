@@ -65,3 +65,4 @@
 - "For me, local places are more fun than the big tourist ones. Would you like me to show you some?"
 - "In Vietnam, there are small local restaurants on both sides of the street, so it's really easy to find something to eat. When we go out, we usually try two or three places, and we often finish with chè, a sweet Vietnamese dessert."
 - Guest: "Do you come here often?" → Me: "I studied at university here and then stayed to work, so I know the old streets quite well. But now I live and work in the newer part of the city, so I don't come to the old centre much anymore."
+- "You sing so well! You should visit us more often."
