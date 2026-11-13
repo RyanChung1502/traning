@@ -92,18 +92,24 @@ fetch('../current/kids-vietnamese-phrases.md',{cache:'no-store'})
 const synth=window.speechSynthesis;const vSel=document.getElementById('voice');let voices=[];
 function loadVoices(){
   if(!synth)return;
-  voices=synth.getVoices().filter(v=>/^vi/i.test(v.lang));vSel.innerHTML='';
+  // Vietnamese voices only: lang can be "vi-VN" or "vi_VN"; some engines only name them
+  voices=synth.getVoices().filter(v=>/^vi([-_]|$)/i.test(v.lang)||/vietnam|tiếng việt|linh/i.test(v.name));
+  vSel.innerHTML='';
   voices.forEach((v,i)=>{const o=document.createElement('option');o.value=i;o.textContent=v.name+' ('+v.lang+')';vSel.appendChild(o)});
-  const pref=voices.findIndex(v=>/vi/i.test(v.lang));if(pref>=0)vSel.value=pref;
-  document.getElementById('msg').textContent=voices.length
+  // Prefer an on-device voice (sounds more natural and works offline on iPhone)
+  const pref=voices.findIndex(v=>v.localService);if(pref>=0)vSel.value=pref;
+  document.getElementById('all').disabled=!voices.length;
+  document.getElementById('msg').innerHTML=voices.length
     ?'Đọc file current/kids-vietnamese-phrases.md mới nhất, bằng giọng tiếng Việt có sẵn trên máy.'
-    :'Máy chưa có giọng tiếng Việt. Vào Cài đặt > Ngôn ngữ > Đọc văn bản (Text-to-speech) để tải giọng tiếng Việt.';
+    :'<strong>Máy chưa có giọng tiếng Việt</strong>, nên trang không đọc để tránh giọng nước ngoài.<br>'
+     +'iPhone: Cài đặt › Trợ năng › Nội dung được đọc › Giọng nói › Tiếng Việt › tải giọng <em>Linh</em>, rồi mở trang bằng Safari.<br>'
+     +'Android: Cài đặt › Quản lý chung › Ngôn ngữ › Chuyển văn bản thành giọng nói › Google › Cài đặt dữ liệu giọng nói › Tiếng Việt, rồi mở trang bằng Chrome.';
 }
 if(synth){loadVoices();synth.onvoiceschanged=loadVoices}else{document.getElementById('msg').textContent='Trình duyệt này không hỗ trợ đọc.'}
 let token=0;
 function mark(i){rows.forEach((r,j)=>r.li.classList.toggle('on',j===i));if(i>=0)rows[i].li.scrollIntoView({block:'nearest',behavior:'smooth'})}
 function playFrom(i,cont){
-  if(!synth)return;synth.cancel();const my=++token;
+  if(!synth||!voices.length)return;synth.cancel();const my=++token;
   const ms=id=>parseInt(document.getElementById(id).value,10);
   const say=(k,s)=>{
     if(my!==token)return;
