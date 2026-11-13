@@ -67,3 +67,5 @@
 - "In Vietnam, there are small local restaurants on both sides of the street, so it's really easy to find something to eat. When we go out, we usually try two or three places, and we often finish with chè, a sweet Vietnamese dessert."
 - Guest: "Do you come here often?" → Me: "I studied at university here and then stayed to work, so I know the old streets quite well. But now I live and work in the newer part of the city, so I don't come to the old centre much anymore."
 - "You sing so well! You should visit us more often."
+- "I take a different road each time, so you can see different parts of the city. Were you surprised to see so many big container trucks going through the city centre? That's because Tien Sa Port is on the other side of the city."
+- "In the past, only fishermen lived here, and there was no bridge, so people crossed the river in round basket boats. Now it has developed so much, it's hard to believe."
