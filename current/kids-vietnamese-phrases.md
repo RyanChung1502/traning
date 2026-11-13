@@ -18,5 +18,16 @@ Những câu ngắn, dễ nhớ để dạy con nói hằng ngày. Tập mỗi l
 ### 4. Hỏi đáp
 - "Đi ra ngoài phải đeo gì?"
 - "Phải đeo dép."
+- "Đi đái ở đâu?"
+- "Đái vào bồn cầu."
+- "Có vẽ lên tường không?"
+- "Không vẽ lên tường."
+- "Có đánh em không?"
+- "Không đánh em."
+- "Có chơi với em không?"
+- "Có chơi với em."
+- "Trước khi đi ngủ, phải làm gì?"
+- "Đánh răng."
+- "Đi đái."
 
 > Dạy con nhìn vào mắt người lớn khi nói.

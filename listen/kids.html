@@ -82,13 +82,12 @@ function render(sections){
   sections.forEach(s=>{
     const h=document.createElement('h2');h.textContent=s.title;list.appendChild(h);
     const ol=document.createElement('ol');
-    // A line ending in "?" is a question; the line right after it is its answer
-    let prevQ=false;
+    // A line ending in "?" is a question; the lines after it are its answers, until the next question
+    let afterQ=false;
     s.items.forEach(parts=>{
       const li=document.createElement('li');
       const isQ=parts.length===1&&parts[0].text.trim().endsWith('?');
-      if(isQ)li.classList.add('q');else if(prevQ)li.classList.add('a');
-      prevQ=isQ;
+      if(isQ){li.classList.add('q');afterQ=true}else if(afterQ)li.classList.add('a');
       const b=document.createElement('button');b.className='play';b.textContent='▶';b.setAttribute('aria-label','Play');
       const t=document.createElement('div');t.className='txt';
       parts.forEach(p=>{
