@@ -15,6 +15,7 @@
 - "I try to get my work done at the office, because when I get home, my kids won't let me touch my laptop. They just want me to play with them all the time!"
 - "You should see Mr T's house. It's beautiful, and the home office looks really professional!"
 - "When I drink a lot, my wife drives me home. Driving after drinking is dangerous, and the fines in Vietnam are really high."
+- "I drive a small VinFast electric car. I bought it recently, after the taxes and fees for electric cars went down, and the government also gives some support. Charging is about three to four times cheaper than petrol in Vietnam. It's fast too: thirty minutes of charging gives me about a hundred kilometres, and a full charge takes about an hour and lasts almost two hundred kilometres."
 
 ### 2. Running the daily
 
