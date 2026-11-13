@@ -8,8 +8,13 @@
 <style>
 /* Layout: single reading column, sticky player bar, one row per phrase */
 :root{--bg:#f6f7f4;--fg:#1d2420;--muted:#5f6b64;--card:#ffffff;--line:#dfe3dd;--accent:#1f7a5c;--accent-ink:#ffffff;--hi:#e3f2ea;
+--q:#c2502e;--q-bg:#fbeee9;--a:#2e7d32;--a-bg:#e8f5e9;
 --display:"Fraunces",Georgia,serif;--body:"Source Sans 3",system-ui,sans-serif}
-@media (prefers-color-scheme:dark){:root{--bg:#141916;--fg:#e8ece9;--muted:#9aa69f;--card:#1c231f;--line:#2c3530;--accent:#5cc49c;--accent-ink:#0f1512;--hi:#21362c;color-scheme:dark}}
+@media (prefers-color-scheme:dark){:root{--bg:#141916;--fg:#e8ece9;--muted:#9aa69f;--card:#1c231f;--line:#2c3530;--accent:#5cc49c;--accent-ink:#0f1512;--hi:#21362c;--q:#f08a6c;--q-bg:#3a2520;--a:#7fcf86;--a-bg:#1f3322;color-scheme:dark}}
+li.q:not(.on){background:var(--q-bg);border-color:var(--q)}
+li.q .txt{color:var(--q);font-weight:600}
+li.a:not(.on){background:var(--a-bg);border-color:var(--a)}
+li.a .txt{color:var(--a);font-weight:600}
 body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--body);font-size:17px;line-height:1.5}
 .wrap{max-width:680px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 48px}
 h1{font-family:var(--display);font-weight:600;font-size:1.8rem;margin:0 0 4px;text-wrap:balance}
@@ -75,8 +80,13 @@ function render(sections){
   sections.forEach(s=>{
     const h=document.createElement('h2');h.textContent=s.title;list.appendChild(h);
     const ol=document.createElement('ol');
+    // A line ending in "?" is a question; the line right after it is its answer
+    let prevQ=false;
     s.items.forEach(parts=>{
       const li=document.createElement('li');
+      const isQ=parts.length===1&&parts[0].text.trim().endsWith('?');
+      if(isQ)li.classList.add('q');else if(prevQ)li.classList.add('a');
+      prevQ=isQ;
       const b=document.createElement('button');b.className='play';b.textContent='▶';b.setAttribute('aria-label','Play');
       const t=document.createElement('div');t.className='txt';
       parts.forEach(p=>{
