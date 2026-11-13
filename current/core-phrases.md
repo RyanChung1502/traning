@@ -14,6 +14,7 @@
 - "I live on the other side of the city, in the old part, so I have to go through the city centre. It's really crowded there. This side is newer, with wider roads and fewer people."
 - "I try to get my work done at the office, because when I get home, my kids won't let me touch my laptop. They just want me to play with them all the time!"
 - "You should see Mr T's house. It's beautiful, and the home office looks really professional!"
+- "When I drink a lot, my wife drives me home. Driving after drinking is dangerous, and the fines in Vietnam are really high."
 
 ### 2. Running the daily
 
