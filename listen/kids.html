@@ -54,6 +54,8 @@ li .play{flex:none;width:40px;height:40px;padding:0;border-radius:50%;font-size:
 <div id="list"><p class="note">Đang tải…</p></div>
 <h2>Bảng chữ cái</h2>
 <div class="abc" id="abc"></div>
+<h2>Bảng số</h2>
+<div class="abc" id="nums"></div>
 <p class="note" id="msg">Đọc file current/kids-vietnamese-phrases.md mới nhất, bằng giọng tiếng Việt có sẵn trên máy.</p>
 </div>
 <script>
@@ -154,23 +156,30 @@ document.getElementById('stop').onclick=()=>{token++;synth&&synth.cancel();mark(
 const ABC=[['a','a'],['ă','á'],['â','ớ'],['b','bờ'],['c','cờ'],['d','dờ'],['đ','đờ'],['e','e'],['ê','ê'],
   ['g','gờ'],['h','hờ'],['i','i'],['k','ca'],['l','lờ'],['m','mờ'],['n','nờ'],['o','o'],['ô','ô'],['ơ','ơ'],
   ['p','pờ'],['q','quờ'],['r','rờ'],['s','sờ'],['t','tờ'],['u','u'],['ư','ư'],['v','vờ'],['x','xờ'],['y','i dài']];
-const abc=document.getElementById('abc');
-ABC.forEach(([letter,sound])=>{
-  const b=document.createElement('button');
-  b.innerHTML=letter.toUpperCase()+'<small>'+sound+'</small>';
-  b.setAttribute('aria-label','Đọc chữ '+letter);
-  b.onclick=()=>{
-    if(!synth||!voices.length)return;
-    token++;synth.cancel();mark(-1);
-    abc.querySelectorAll('button').forEach(x=>x.classList.toggle('on',x===b));
-    const u=new SpeechSynthesisUtterance(sound);
-    u.rate=parseFloat(document.getElementById('rate').value);u.lang='vi-VN';
-    const v=voices[vSel.value];if(v)u.voice=v;
-    u.onend=()=>b.classList.remove('on');
-    synth.speak(u);
-  };
-  abc.appendChild(b);
-});
+// Numbers 1-10, read the same way
+const NUMS=[['1','một'],['2','hai'],['3','ba'],['4','bốn'],['5','năm'],['6','sáu'],['7','bảy'],['8','tám'],['9','chín'],['10','mười']];
+// Fill a grid with one button per item; tapping says the item's sound
+function makeGrid(id,items){
+  const grid=document.getElementById(id);
+  items.forEach(([label,sound])=>{
+    const b=document.createElement('button');
+    b.innerHTML=label+'<small>'+sound+'</small>';
+    b.setAttribute('aria-label','Đọc '+sound);
+    b.onclick=()=>{
+      if(!synth||!voices.length)return;
+      token++;synth.cancel();mark(-1);
+      document.querySelectorAll('.abc button').forEach(x=>x.classList.toggle('on',x===b));
+      const u=new SpeechSynthesisUtterance(sound);
+      u.rate=parseFloat(document.getElementById('rate').value);u.lang='vi-VN';
+      const v=voices[vSel.value];if(v)u.voice=v;
+      u.onend=()=>b.classList.remove('on');
+      synth.speak(u);
+    };
+    grid.appendChild(b);
+  });
+}
+makeGrid('abc',ABC.map(([letter,sound])=>[letter.toUpperCase(),sound]));
+makeGrid('nums',NUMS);
 </script>
 </body>
 </html>
