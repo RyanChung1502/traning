@@ -62,3 +62,10 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | "Where do you live? Which street do you live on? Which ward and city do you live in?" | asking where someone lives |
 | "How do you order from Shopee if you don't remember your own address?" | friendly teasing |
 | "How long does it take you to get from home to the office? How far is your home from the office?" | asking about someone's commute |
+| "Our final exam is coming up. Do you know who will be testing us?" | asking the teacher who will run the final exam |
+| "Did you enjoy playing badminton with us last time? Did you win any games?" | asking how someone's first game with you went |
+| "Did you enjoy the team lunch last time? Did you see what we're really like outside the classroom?" | asking the teacher about a class lunch (playful) |
+| "Sometimes I notice I'm speaking English with Vietnamese grammar. Do you hear that a lot?" | light, self-aware opener about my English |
+| "It's not common in Vietnam, so I'll only use it with foreigners." | explaining a custom you only use with foreigners |
+| Them: "You're on the right track." → Me: "Thanks! I'm glad to hear that." | replying when someone says your work is going the right way |
+| "What do you think of the traffic in Vietnam?" | light topic with a visitor new to Vietnam |

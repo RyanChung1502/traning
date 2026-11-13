@@ -2,11 +2,6 @@
 
 ### 1. Small talk & checking in
 
-- "Our final exam is coming up. Do you know who will be testing us?"
-- "Did you enjoy playing badminton with us last time? Did you win any games?"
-- "Did you enjoy the team lunch last time? Did you see what we're really like outside the classroom?"
-- "Sometimes I notice I'm speaking English with Vietnamese grammar. Do you hear that a lot?"
-- "It's not common in Vietnam, so I'll only use it with foreigners."
 - "Right now I'm working toward a solution architect or project manager role, because I think coding alone is becoming less valuable, while communication and seeing the big picture matter more."
 - "After a couple of months of working with AI, I realized that English is very important these days, especially spoken English."
 - "Don't worry too much about the future. Just stay healthy and happy, and you'll be ready to face any challenge. And good food and drinks always help!"
@@ -29,7 +24,6 @@
 
 ### 6. Project & team coordination
 - "Could I ask for your honest feedback on my English? Also, is the team's English clear enough for you in meetings, or is there anything we should improve?"
-- Them: "You're on the right track." → Me: "Thanks! I'm glad to hear that."
 - "Could you talk to the team in the next meeting about why clear English communication is important? I think it will have more impact if it comes from you."
 - "It will take time for the team to adapt to the new way of working, like doing less manual code review and focusing more on design and solution review."
 - "We might be busy with the client this afternoon, so it's safer to move it. I'll check our schedule with them and let you know a new time soon."
@@ -53,7 +47,6 @@
 - "We've booked a meeting room for you for the whole week, so you can use it any time without worrying about someone else taking it."
 - "During lunch, you can take a nap in your chair, have a coffee at the café on the ground floor, or go up to the rooftop on the 6th floor to relax, whatever you prefer."
 - "Was the traffic okay on the way from the airport?"
-- "What do you think of the traffic in Vietnam?"
 - "I'd love to take you out for some local food. Is there any food you can't eat?"
 - "This sauce is made from fermented shrimp, and it has a very strong smell. Would you like to try a little, or would you prefer fish sauce?"
 - "I heard CEOs are always busy, meeting people and travelling all the time. Do you really spend more nights in hotels than at home?" → Follow-up: "Have you ever met anyone famous on your trips?"
