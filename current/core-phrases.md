@@ -62,3 +62,4 @@
 - Guest: "Have you been to Ho Chi Minh City?" (or "Saigon") → Me: "Yes, I worked there for a while, and I've been back a few times since. It's too crowded and polluted for me, so I still prefer living in Da Nang."
 - "Have you tried the local beer here? How is it different from beer in New Zealand?"
 - "For me, local places are more fun than the big tourist ones. Would you like me to show you some?"
+- "In Vietnam, there are small local restaurants on both sides of the street, so it's really easy to find something to eat. When we go out, we usually try two or three places, and we often finish with chè, a sweet Vietnamese dessert."
