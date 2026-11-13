@@ -157,7 +157,7 @@ const ABC=[['a','a'],['ă','á'],['â','ớ'],['b','bờ'],['c','cờ'],['d','d�
 const abc=document.getElementById('abc');
 ABC.forEach(([letter,sound])=>{
   const b=document.createElement('button');
-  b.innerHTML=letter.toUpperCase()+' '+letter+'<small>'+sound+'</small>';
+  b.innerHTML=letter.toUpperCase()+'<small>'+sound+'</small>';
   b.setAttribute('aria-label','Đọc chữ '+letter);
   b.onclick=()=>{
     if(!synth||!voices.length)return;
