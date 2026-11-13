@@ -47,6 +47,7 @@ li .play{flex:none;width:40px;height:40px;padding:0;border-radius:50%;font-size:
 <div class="bar">
 <button class="primary" id="all">▶ Nghe tất cả</button>
 <button id="stop">■ Dừng</button>
+<button id="reload" title="Tải lại trang với nội dung mới nhất">↻ Tải lại</button>
 <label for="rate">Tốc độ <select id="rate"><option value="0.6">Rất chậm</option><option value="0.75" selected>Chậm</option><option value="0.9">Hơi chậm</option><option value="1">Bình thường</option></select></label>
 <label for="gap">Nghỉ giữa câu <select id="gap"><option value="2000">2 giây</option><option value="4000" selected>4 giây</option><option value="6000">6 giây</option><option value="10000">10 giây</option></select></label>
 <label for="inner">Trong một câu <select id="inner"><option value="500">0.5 giây</option><option value="1500" selected>1.5 giây</option><option value="3000">3 giây</option></select></label>
@@ -151,6 +152,8 @@ function playFrom(i,cont){
 }
 document.getElementById('all').onclick=()=>playFrom(0,true);
 document.getElementById('stop').onclick=()=>{token++;synth&&synth.cancel();mark(-1)};
+// Reload with a fresh URL so the phone browser skips its cached copy of the page
+document.getElementById('reload').onclick=()=>{location.replace(location.pathname+'?v='+Date.now())};
 
 // Vietnamese alphabet: each letter is a button that says its sound the way kids learn it
 // Optional 3rd value is what the voice reads, when a lone accented vowel gets spelled out ("a sắc")
