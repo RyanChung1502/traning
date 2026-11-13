@@ -61,7 +61,7 @@
 - "Where are you staying? How are you getting to the office? Did you rent a motorbike to try the Da Nang traffic? I guess you already have plans for every evening, right? Partying all night on the tourist street, like An Thuong?"
 - Guest: "Is there anything you'd like me to bring from New Zealand?" → Me: "Chocolate is my favorite, so I'd love to try some from NZ."
 - Guest: "Have you been to Ho Chi Minh City?" (or "Saigon") → Me: "Yes, I worked there for a while, and I've been back a few times since. It's too crowded and polluted for me, so I still prefer living in Da Nang."
-- "Have you tried the local beer here? How does it taste different from New Zealand beer?"
+- "Have you tried the local beer here? How does it taste different from New Zealand beer?" → Or: "How is it different from beer in New Zealand?"
 - "For me, local places are more fun than the big tourist ones. Would you like me to show you some?"
 - "In Vietnam, there are small local restaurants on both sides of the street, so it's really easy to find something to eat. When we go out, we usually try two or three places, and we often finish with chè, a sweet Vietnamese dessert."
 - Guest: "Do you come here often?" → Me: "I studied at university here and then stayed to work, so I know the old streets quite well. But now I live and work in the newer part of the city, so I don't come to the old centre much anymore."
