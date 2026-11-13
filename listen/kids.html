@@ -153,7 +153,8 @@ document.getElementById('all').onclick=()=>playFrom(0,true);
 document.getElementById('stop').onclick=()=>{token++;synth&&synth.cancel();mark(-1)};
 
 // Vietnamese alphabet: each letter is a button that says its sound the way kids learn it
-const ABC=[['a','a'],['ă','á'],['â','ớ'],['b','bờ'],['c','cờ'],['d','dờ'],['đ','đờ'],['e','e'],['ê','ê'],
+// Optional 3rd value is what the voice reads, when a lone accented vowel gets spelled out ("a sắc")
+const ABC=[['a','a'],['ă','á','á!'],['â','ớ','ớ!'],['b','bờ'],['c','cờ'],['d','dờ'],['đ','đờ'],['e','e'],['ê','ê'],
   ['g','gờ'],['h','hờ'],['i','i'],['k','ca'],['l','lờ'],['m','mờ'],['n','nờ'],['o','o'],['ô','ô'],['ơ','ơ'],
   ['p','pờ'],['q','quờ'],['r','rờ'],['s','sờ'],['t','tờ'],['u','u'],['ư','ư'],['v','vờ'],['x','xờ'],['y','i dài']];
 // Numbers 1-10, read the same way
@@ -161,7 +162,7 @@ const NUMS=[['1','một'],['2','hai'],['3','ba'],['4','bốn'],['5','năm'],['6'
 // Fill a grid with one button per item; tapping says the item's sound
 function makeGrid(id,items){
   const grid=document.getElementById(id);
-  items.forEach(([label,sound])=>{
+  items.forEach(([label,sound,speak])=>{
     const b=document.createElement('button');
     b.innerHTML=label+'<small>'+sound+'</small>';
     b.setAttribute('aria-label','Đọc '+sound);
@@ -169,7 +170,7 @@ function makeGrid(id,items){
       if(!synth||!voices.length)return;
       token++;synth.cancel();mark(-1);
       document.querySelectorAll('.abc button').forEach(x=>x.classList.toggle('on',x===b));
-      const u=new SpeechSynthesisUtterance(sound);
+      const u=new SpeechSynthesisUtterance(speak||sound);
       u.rate=parseFloat(document.getElementById('rate').value);u.lang='vi-VN';
       const v=voices[vSel.value];if(v)u.voice=v;
       u.onend=()=>b.classList.remove('on');
@@ -178,7 +179,7 @@ function makeGrid(id,items){
     grid.appendChild(b);
   });
 }
-makeGrid('abc',ABC.map(([letter,sound])=>[letter.toUpperCase(),sound]));
+makeGrid('abc',ABC.map(([letter,sound,speak])=>[letter.toUpperCase(),sound,speak]));
 makeGrid('nums',NUMS);
 </script>
 </body>
