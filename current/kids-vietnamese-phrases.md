@@ -16,6 +16,7 @@ Những câu ngắn, dễ nhớ để dạy con nói hằng ngày. Tập mỗi l
 - "Cho con uống sữa." — xin sữa
 
 ### 4. Hỏi đáp
-- Hỏi: "Đi ra ngoài phải mang gì?" → Đáp: "Đi ra ngoài phải mang dép."
+- "Đi ra ngoài phải mang gì?"
+- "Đi ra ngoài phải mang dép."
 
 > Dạy con nhìn vào mắt người lớn khi nói.
