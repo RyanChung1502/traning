@@ -38,6 +38,9 @@ li .play{flex:none;width:40px;height:40px;padding:0;border-radius:50%;font-size:
 .abc button{font-family:var(--display);font-size:1.6rem;padding:10px 0;line-height:1.2}
 .abc button.on{background:var(--hi);border-color:var(--accent)}
 .abc small{display:block;font-family:var(--body);font-size:.75rem;color:var(--muted)}
+.abc[hidden]{display:none}
+.group{font-family:var(--body);font-size:.95rem;margin:14px 0 8px;color:var(--muted);font-weight:600}
+.more{margin-top:12px}
 </style>
 </head>
 <body>
@@ -55,7 +58,12 @@ li .play{flex:none;width:40px;height:40px;padding:0;border-radius:50%;font-size:
 </div>
 <div id="list"><p class="note">Đang tải…</p></div>
 <h2>Bảng chữ cái</h2>
-<div class="abc" id="abc"></div>
+<p class="group">Nhóm 1</p>
+<div class="abc" id="abc1"></div>
+<button class="more" id="more2" aria-expanded="false">+ Hiện nhóm 2</button>
+<div id="g2" hidden><p class="group">Nhóm 2</p><div class="abc" id="abc2"></div></div>
+<button class="more" id="more3" aria-expanded="false">+ Hiện nhóm 3</button>
+<div id="g3" hidden><p class="group">Nhóm 3</p><div class="abc" id="abc3"></div></div>
 <h2>Bảng số</h2>
 <div class="abc" id="nums"></div>
 <p class="note" id="msg">Đọc file current/kids-vietnamese-phrases.md mới nhất, bằng giọng tiếng Việt có sẵn trên máy.</p>
@@ -182,7 +190,18 @@ function makeGrid(id,items){
     grid.appendChild(b);
   });
 }
-makeGrid('abc',ABC.map(([letter,sound,speak])=>[letter.toUpperCase(),sound,speak]));
+// Letters split into 3 learning groups; only group 1 shows until the parent opens the next one
+const GROUPS=[['a','b','c','d','e','i','m','n','o','u'],['đ','g','h','k','l','p','q','r','s','t'],['ă','â','ê','ô','ơ','ư','v','x','y']];
+const byLetter=Object.fromEntries(ABC.map(x=>[x[0],x]));
+GROUPS.forEach((g,i)=>makeGrid('abc'+(i+1),g.map(l=>{const [letter,sound,speak]=byLetter[l];return [letter.toUpperCase(),sound,speak]})));
+[2,3].forEach(n=>{
+  const btn=document.getElementById('more'+n),box=document.getElementById('g'+n);
+  btn.onclick=()=>{
+    box.hidden=!box.hidden;
+    btn.setAttribute('aria-expanded',String(!box.hidden));
+    btn.textContent=(box.hidden?'+ Hiện':'− Ẩn')+' nhóm '+n;
+  };
+});
 makeGrid('nums',NUMS);
 </script>
 </body>
