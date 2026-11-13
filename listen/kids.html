@@ -40,6 +40,7 @@ li .play{flex:none;width:40px;height:40px;padding:0;border-radius:50%;font-size:
 <label for="rate">Tốc độ <select id="rate"><option value="0.6">Rất chậm</option><option value="0.75" selected>Chậm</option><option value="0.9">Hơi chậm</option><option value="1">Bình thường</option></select></label>
 <label for="gap">Nghỉ giữa câu <select id="gap"><option value="2000">2 giây</option><option value="4000" selected>4 giây</option><option value="6000">6 giây</option><option value="10000">10 giây</option></select></label>
 <label for="inner">Trong một câu <select id="inner"><option value="500">0.5 giây</option><option value="1500" selected>1.5 giây</option><option value="3000">3 giây</option></select></label>
+<label for="answer">Chờ bé trả lời <select id="answer"><option value="3000">3 giây</option><option value="5000" selected>5 giây</option><option value="8000">8 giây</option><option value="12000">12 giây</option></select></label>
 <label for="voice">Giọng <select id="voice"></select></label>
 </div>
 <div id="list"><p class="note">Đang tải…</p></div>
@@ -52,7 +53,7 @@ function parse(md){
   md.split('\n').forEach(l=>{
     if(l.startsWith('### ')){cur={title:l.replace(/^### \d+\.\s*/,''),items:[]};sections.push(cur)}
     else if(l.startsWith('- ')&&cur){
-      const parts=[];const re=/(?:(Them|Guest|Me|Follow-up):\s*)?"([^"]+)"/g;let m;
+      const parts=[];const re=/(?:(Them|Guest|Me|Follow-up|Hỏi|Đáp):\s*)?"([^"]+)"/g;let m;
       while((m=re.exec(l))){parts.push({who:m[1]||(parts.length?'Follow-up':'Me'),text:m[2]})}
       if(parts.length)cur.items.push(parts);
     }
@@ -78,7 +79,8 @@ function render(sections){
         const d=document.createElement('div');d.textContent=p.text;t.appendChild(d);
       });
       li.append(b,t);ol.appendChild(li);
-      const idx=rows.length;rows.push({li,segs:parts.flatMap(p=>splitSentences(p.text))});
+      // An "Đáp" (answer) part waits longer before it plays, so the child can answer first
+      const idx=rows.length;rows.push({li,segs:parts.flatMap(p=>splitSentences(p.text).map((text,i)=>({text,answer:p.who==='Đáp'&&i===0})))});
       b.onclick=()=>playFrom(idx,false);
     });
     list.appendChild(ol);
@@ -114,12 +116,12 @@ function playFrom(i,cont){
   const say=(k,s)=>{
     if(my!==token)return;
     const segs=rows[k].segs;
-    const u=new SpeechSynthesisUtterance(segs[s]);
+    const u=new SpeechSynthesisUtterance(segs[s].text);
     u.rate=parseFloat(document.getElementById('rate').value);u.lang='vi-VN';
     const v=voices[vSel.value];if(v)u.voice=v;
     u.onend=()=>{
       if(my!==token)return;
-      if(s+1<segs.length)setTimeout(()=>say(k,s+1),ms('inner'));
+      if(s+1<segs.length)setTimeout(()=>say(k,s+1),ms(segs[s+1].answer?'answer':'inner'));
       else if(cont)setTimeout(()=>go(k+1),ms('gap'));
       else mark(-1);
     };
