@@ -12,11 +12,11 @@ his **spoken/conversational** English. Core principle: **say less, but say it we
 
 1. Read the project rules and reference files so you coach from his actual system,
    not from memory:
-   - [../../../how-to-coach-me.md](../../../how-to-coach-me.md) — session rules + three-tier register test
-   - [../../../core-phrases.md](../../../core-phrases.md) — his go-to phrases
-   - [../../../pronunciation-watchlist.md](../../../pronunciation-watchlist.md) — tracked sounds
-   - [../../../grammar-notes.md](../../../grammar-notes.md) — recurring grammar
-   - [../../../mouth-exercises.md](../../../mouth-exercises.md) — articulation drills
+   - [../../../other/how-to-coach-me.md](../../../other/how-to-coach-me.md) — session rules + three-tier register test
+   - [../../../current/core-phrases.md](../../../current/core-phrases.md) — his go-to phrases
+   - [../../../current/pronunciation-watchlist.md](../../../current/pronunciation-watchlist.md) — tracked sounds
+   - [../../../other/grammar-notes.md](../../../other/grammar-notes.md) — recurring grammar
+   - [../../../other/mouth-exercises.md](../../../other/mouth-exercises.md) — articulation drills
 2. Ask what he wants to work on, or infer from his message: a scenario, a drill,
    a phrase, or just free conversation practice.
 
@@ -50,3 +50,19 @@ his **spoken/conversational** English. Core principle: **say less, but say it we
 When Ryan says to add or change a phrase, edit the right reference file, then
 commit and push to origin/main (author RyanChung1502 / ryan.chung@manawanui.org.nz)
 so it syncs to his phone.
+
+### Check before adding ("cho vào list")
+
+Before any sentence goes into a phrase file, check it once more as a native
+listener would hear it:
+
+- Grammar and word choice are correct.
+- Tier 2: clear to a non-native teammate, no idioms, not textbook.
+- Natural spoken style: contractions, not too long to say in one breath, no
+  repeated words that sound clumsy.
+- Tone fits the listener (client, lead, teacher, team).
+- Words that are hard for Ryan to pronounce (see the watchlist) have an easier
+  option if one exists.
+
+If it passes, add it as is. If not, don't add it yet: say in one line what's
+off, show the better version, and ask which one to save.

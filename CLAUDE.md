@@ -63,5 +63,10 @@ When Ryan says to log a correction (or "add that to my corrections"), append the
 
 ## When Ryan asks to update his phrase bank
 
-Edit the relevant file above, then commit and push to GitHub (origin/main) so it
+Before adding, check the sentence is natural (grammar, Tier 2, spoken style with
+contractions, tone, easy to pronounce). If something is off, don't add it yet:
+point it out in one line, show the better version, and ask which to save. Full
+checklist in the english-coach skill.
+
+Then edit the relevant file above, commit and push to GitHub (origin/main) so it
 syncs to his phone. Author as RyanChung1502 / ryan.chung@manawanui.org.nz.
