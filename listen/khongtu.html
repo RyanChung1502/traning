@@ -51,6 +51,7 @@ li .play{flex:none;width:40px;height:40px;padding:0;border-radius:50%;font-size:
 <p class="sub">Bấm ▶ để nghe từng câu, hoặc nghe tất cả theo thứ tự.</p>
 <div class="bar">
 <button class="primary" id="all">▶ Nghe tất cả</button>
+<button id="restart" hidden>⏮ Từ đầu</button>
 <button id="stop">■ Dừng</button>
 <button id="reload" title="Tải lại trang với nội dung mới nhất">↻ Tải lại</button>
 <label for="rate">Tốc độ <select id="rate"><option value="0.6">Rất chậm</option><option value="0.75" selected>Chậm</option><option value="0.9">Hơi chậm</option><option value="1">Bình thường</option></select></label>
@@ -111,7 +112,7 @@ function render(sections){
 }
 fetch('../current/kids-khong-tu.md',{cache:'no-store'})
   .then(r=>{if(!r.ok)throw new Error(r.status);return r.text()})
-  .then(md=>render(parse(md)))
+  .then(md=>{render(parse(md));setResume(resumeAt)})
   .catch(()=>{list.innerHTML='<p class="note">Không tải được danh sách. Kiểm tra mạng rồi tải lại trang.</p>'});
 
 const synth=window.speechSynthesis;const vSel=document.getElementById('voice');let voices=[];
@@ -132,6 +133,15 @@ function loadVoices(){
 }
 if(synth){loadVoices();synth.onvoiceschanged=loadVoices}else{document.getElementById('msg').textContent='Trình duyệt này không hỗ trợ đọc.'}
 let token=0;
+// Remember where "play all" stopped, so it can continue from there (kept per page on this phone)
+const RESUME_KEY='resume:'+location.pathname;
+let resumeAt=0;try{resumeAt=parseInt(localStorage.getItem(RESUME_KEY)||'0',10)||0}catch(e){}
+function setResume(k){
+  resumeAt=k;try{localStorage.setItem(RESUME_KEY,String(k))}catch(e){}
+  const more=k>0&&k<rows.length;
+  document.getElementById('all').textContent=more?'▶ Nghe tiếp ('+(k+1)+'/'+rows.length+')':'▶ Nghe tất cả';
+  document.getElementById('restart').hidden=!more;
+}
 function mark(i){rows.forEach((r,j)=>r.li.classList.toggle('on',j===i));if(i>=0)rows[i].li.scrollIntoView({block:'nearest',behavior:'smooth'})}
 function playFrom(i,cont){
   if(!synth||!voices.length)return;synth.cancel();const my=++token;
@@ -151,14 +161,17 @@ function playFrom(i,cont){
     synth.speak(u);
   };
   const go=k=>{
-    if(my!==token||k>=rows.length){mark(-1);return}
+    if(my!==token)return;
+    if(k>=rows.length){mark(-1);if(cont)setResume(0);return}
     if(cont&&rows[k].ol.hidden){go(k+1);return}  // "play all" skips closed parts
+    if(cont)setResume(k);
     mark(k);say(k,0);
   };
   go(i);
 }
-document.getElementById('all').onclick=()=>playFrom(0,true);
-document.getElementById('stop').onclick=()=>{token++;synth&&synth.cancel();mark(-1)};
+document.getElementById('all').onclick=()=>playFrom(resumeAt<rows.length?resumeAt:0,true);
+document.getElementById('restart').onclick=()=>{setResume(0);playFrom(0,true)};
+document.getElementById('stop').onclick=()=>{token++;synth&&synth.cancel()};  // keep the highlight so you see where it stopped
 // Reload with a fresh URL so the phone browser skips its cached copy of the page
 document.getElementById('reload').onclick=()=>{location.replace(location.pathname+'?v='+Date.now())};
 

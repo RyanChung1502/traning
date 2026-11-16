@@ -36,6 +36,7 @@ li .play{flex:none;width:40px;height:40px;padding:0;border-radius:50%;font-size:
 <p class="sub">Tap a phrase to hear it, or play them all in order.</p>
 <div class="bar">
 <button class="primary" id="all">▶ Play all</button>
+<button id="restart" hidden>⏮ Start over</button>
 <button id="stop">■ Stop</button>
 <button id="reload" title="Reload with the latest content">↻ Reload</button>
 <label for="rate">Speed <select id="rate"><option value="0.75" selected>Slow</option><option value="0.9">A bit slower</option><option value="1">Normal</option></select></label>
@@ -91,7 +92,7 @@ function render(sections){
 }
 fetch('../current/exam-cheatsheet.md',{cache:'no-store'})
   .then(r=>{if(!r.ok)throw new Error(r.status);return r.text()})
-  .then(md=>render(parse(md)))
+  .then(md=>{render(parse(md));setResume(resumeAt)})
   .catch(()=>{list.innerHTML='<p class="note">Could not load the phrase list. Check your connection and reload.</p>'});
 
 const synth=window.speechSynthesis;const vSel=document.getElementById('voice');let voices=[];
@@ -103,6 +104,15 @@ function loadVoices(){
 }
 if(synth){loadVoices();synth.onvoiceschanged=loadVoices}else{document.getElementById('msg').textContent='Speech is not available in this browser.'}
 let token=0;
+// Remember where "play all" stopped, so it can continue from there (kept per page on this phone)
+const RESUME_KEY='resume:'+location.pathname;
+let resumeAt=0;try{resumeAt=parseInt(localStorage.getItem(RESUME_KEY)||'0',10)||0}catch(e){}
+function setResume(k){
+  resumeAt=k;try{localStorage.setItem(RESUME_KEY,String(k))}catch(e){}
+  const more=k>0&&k<rows.length;
+  document.getElementById('all').textContent=more?'▶ Continue ('+(k+1)+'/'+rows.length+')':'▶ Play all';
+  document.getElementById('restart').hidden=!more;
+}
 function mark(i){rows.forEach((r,j)=>r.li.classList.toggle('on',j===i));if(i>=0)rows[i].li.scrollIntoView({block:'nearest',behavior:'smooth'})}
 function playFrom(i,cont){
   if(!synth)return;synth.cancel();const my=++token;
@@ -122,13 +132,16 @@ function playFrom(i,cont){
     synth.speak(u);
   };
   const go=k=>{
-    if(my!==token||k>=rows.length){mark(-1);return}
+    if(my!==token)return;
+    if(k>=rows.length){mark(-1);if(cont)setResume(0);return}
+    if(cont)setResume(k);
     mark(k);say(k,0);
   };
   go(i);
 }
-document.getElementById('all').onclick=()=>playFrom(0,true);
-document.getElementById('stop').onclick=()=>{token++;synth&&synth.cancel();mark(-1)};
+document.getElementById('all').onclick=()=>playFrom(resumeAt<rows.length?resumeAt:0,true);
+document.getElementById('restart').onclick=()=>{setResume(0);playFrom(0,true)};
+document.getElementById('stop').onclick=()=>{token++;synth&&synth.cancel()};  // keep the highlight so you see where it stopped
 // Reload with a fresh URL so the phone browser skips its cached copy of the page
 document.getElementById('reload').onclick=()=>{location.replace(location.pathname+'?v='+Date.now())};
 </script>
