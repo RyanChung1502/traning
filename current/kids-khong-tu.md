@@ -151,3 +151,60 @@ Bài thơ dân gian, thường được gọi là "Lời dạy của Đức Kh�
 - "Lắm ước mong lận đận"
 - "Hay vội vàng hối hận"
 - "Quá cẩn thận lỗi thời"
+
+### 17. Hiểu người, khiêm tốn
+- "Biết được người là sáng"
+- "Hiểu được bạn là khôn"
+- "Khiêm tốn là tự tôn"
+- "Kiêu căng là tự sát"
+- "Hứa trước thì khó đạt"
+- "Hèn nhát thì khó thành"
+- "Thù hận bởi lợi danh"
+- "Tranh giành vì chức vị"
+- "Giàu sang hay đố kị"
+- "Tài trí sinh ghét ghen"
+
+### 18. Tham và tình nghĩa
+- "Tham giàu thì cuồng điên"
+- "Tham quyền thì độc ác"
+- "Vì tiền thì dễ bạc"
+- "Vì tình nghĩa bền lâu"
+- "Người hiểu nói trọn câu"
+- "Người dốt tâu phách lối"
+
+### 19. Quyền lợi và lời nói
+- "Có quyền thì hám lợi"
+- "Có tội thường xum xoe"
+- "Khờ dại hay bị lừa"
+- "Nói bừa hay vạ miệng"
+- "Đa ngôn thì tai tiếng"
+- "Ngậm miệng dễ được tin"
+- "Hám lợi hay cầu xin"
+- "Hám quyền hay xu nịnh"
+
+### 20. Thật thà và nuôi con
+- "Thật thà hay oan trái"
+- "Thẳng thắn hay bị hại"
+- "Thông thái hay bị ngờ"
+- "Chiều con quá con hư"
+- "Tiền của dư con hỏng"
+- "Giàu mạnh thường thao túng"
+- "Nghèo vụng dễ theo đuôi"
+
+### 21. Quân tử và tiểu nhân
+- "Người tài giỏi khó chơi"
+- "Kẻ trây lười khó bảo"
+- "Thành tâm thì đắc đạo"
+- "Mạnh bạo việc dễ thành"
+- "Quân tử thì trọng danh"
+- "Tiểu nhân thì trọng lợi"
+
+### 22. Biết chấp nhận
+- "Bất tài hay đòi hỏi"
+- "Lọc lõi khó khiêm nhường"
+- "Tình nghĩa thường khó quên"
+- "Nợ nhân duyên khó trả"
+- "Khó thuần phục kẻ sĩ"
+- "Khó phòng bị tướng tài"
+- "Biết chấp nhận thảnh thơi"
+- "Hay hận đời đau khổ"
