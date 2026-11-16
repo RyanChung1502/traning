@@ -52,6 +52,7 @@ lives in the linked files, but these apply every message.
 
 ### Archive (old/)
 - [old-core-phrases.md](old/old-core-phrases.md) — phrases I can now say without thinking
+- [old-exam-cheatsheet.md](old/old-exam-cheatsheet.md) — exam cheatsheet sections I've mastered
 - [old-pronunciation-watchlist.md](old/old-pronunciation-watchlist.md) — sounds I've fixed
 - [old-corrections.md](old/old-corrections.md) — corrections that now come out naturally
 

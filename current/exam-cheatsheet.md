@@ -1,40 +1,11 @@
 # Exam cheatsheet
 
-### Clarify
-- What problem exactly?
-- Sorry, do you mean today or tomorrow?
-- What do you mean by "key requirements"?
-- So, just to confirm, you want us to..., right?
-
-### Quantify
-- How many users are affected exactly?
-- How long will it take exactly?
-- Like, how many weeks?
-- Can we put a number on it?
-
-### Give an Opinion
-- From my point of view...
-- I believe...
-
-### Disagree
-- I see your point, but...
-- I understand what you're saying, but...
-
 ### Talk About Priorities and Trade-offs (S18)
 - If we release on Friday, we run the risk of breaking the app over the weekend.
 - One advantage of street food is that it's cheap and local. One disadvantage is that it can be too spicy for the client.
 - The main trade-off is cost versus convenience: an electric car is cheaper to run, but it takes longer to charge than filling up a petrol car.
 - If we book a fancy restaurant, the client won't see the real local food.
 - If we don't book the restaurant today, we won't get a table for Thursday.
-
-### Check Understanding (S09)
-- Does that make sense?
-- Is everything clear (so far)?
-- Any questions?
-
-### Explain Something in Simple Terms (S09)
-- To simplify, ...
-- It's like a box. Your app runs inside, and it's easy to move from one machine to another. (Container)
 
 ### Compare (S17)
 - Street food is the least expensive way to try local food.
@@ -70,17 +41,6 @@ I'm afraid I can't join the badminton tournament next week. The reason is I have
 - I've been to Hanoi. So have I.
 - Louis won't come today, and neither will the CEO.
 - I can't join the 1-1 review, and neither can Dung.
-
-### Fancy Up Your Vocabulary (S38)
-- big → major / significant / substantial
-- small → minor / insignificant
-- change → modification / adjustment
-- new → latest / up-to-date
-- old → previous / outdated
-- fix → resolve / address
-- important → critical / essential / crucial
-- bad → poor / problematic
-- OK → acceptable / viable
 
 ### Explain Consequences (S39)
 Zero conditional (rules, procedures, system behavior)
