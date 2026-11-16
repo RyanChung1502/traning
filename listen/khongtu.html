@@ -27,6 +27,8 @@ button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 label{color:var(--muted);font-size:.9rem;display:flex;gap:6px;align-items:center}
 select{font:inherit;font-size:.9rem;background:var(--card);color:var(--fg);border:1px solid var(--line);border-radius:6px;padding:4px;max-width:180px}
 h2{font-family:var(--display);font-weight:600;font-size:1.15rem;margin:28px 0 8px}
+.toggle{font:inherit;border:0;background:none;padding:4px 0;color:var(--fg);text-align:left;width:100%}
+ol[hidden]{display:none}
 ol{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
 li{display:flex;gap:12px;align-items:flex-start;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px}
 li.on{background:var(--hi);border-color:var(--accent)}
@@ -80,9 +82,14 @@ function splitSentences(t){
 const list=document.getElementById('list');const rows=[];
 function render(sections){
   list.innerHTML='';
-  sections.forEach(s=>{
-    const h=document.createElement('h2');h.textContent=s.title;list.appendChild(h);
-    const ol=document.createElement('ol');
+  // Each part is collapsible; only the first part ("Mở đầu") starts open
+  sections.forEach((s,si)=>{
+    const h=document.createElement('h2');
+    const tg=document.createElement('button');tg.className='toggle';
+    const ol=document.createElement('ol');ol.hidden=si>0;
+    const label=()=>{tg.textContent=(ol.hidden?'▸ ':'▾ ')+s.title;tg.setAttribute('aria-expanded',String(!ol.hidden))};
+    tg.onclick=()=>{ol.hidden=!ol.hidden;label()};label();
+    h.appendChild(tg);list.appendChild(h);
     // A line ending in "?" is a question; the lines after it are its answers, until the next question
     let afterQ=false;
     s.items.forEach(parts=>{
@@ -96,7 +103,7 @@ function render(sections){
         const d=document.createElement('div');d.textContent=p.text;t.appendChild(d);
       });
       li.append(b,t);ol.appendChild(li);
-      const idx=rows.length;rows.push({li,segs:parts.flatMap(p=>splitSentences(p.text))});
+      const idx=rows.length;rows.push({li,ol,segs:parts.flatMap(p=>splitSentences(p.text))});
       b.onclick=()=>playFrom(idx,false);
     });
     list.appendChild(ol);
@@ -145,6 +152,7 @@ function playFrom(i,cont){
   };
   const go=k=>{
     if(my!==token||k>=rows.length){mark(-1);return}
+    if(cont&&rows[k].ol.hidden){go(k+1);return}  // "play all" skips closed parts
     mark(k);say(k,0);
   };
   go(i);
