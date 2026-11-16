@@ -58,9 +58,8 @@ Giving feedback
 - "Is anything making it hard to get there on time?" (2-way)
 
 Receiving feedback
-- Dung listens without interrupting. (listen)
-- "Sorry, was it every week, or just the last two?" (clarify)
 - "Thanks for telling me." (thank)
+- "Sorry, was it every week, or just the last two?" (clarify)
 - "I'll leave home earlier from now on." (commit)
 
 ### Give a Progress Update (S41)
