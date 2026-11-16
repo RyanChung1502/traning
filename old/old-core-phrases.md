@@ -75,3 +75,5 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | "It will take time for the team to adapt to the new way of working, like doing less manual code review and focusing more on design and solution review." | talking about the team changing how we work |
 | "Could you talk to the team in the next meeting about why clear English communication is important? I think it will have more impact if it comes from you." | asking a lead to raise a topic with the team |
 | "I'd love to take you out for some local food. Is there any food you can't eat?" | inviting a guest out and checking what they can eat |
+| "Right now I'm working toward a solution architect or project manager role." | when someone asks about my career path |
+| "I think coding alone is becoming less valuable, while communication and seeing the big picture matter more." | explaining why I'm moving toward SA/PM |
