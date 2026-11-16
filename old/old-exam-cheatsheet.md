@@ -41,3 +41,22 @@ Sections from [exam-cheatsheet.md](../current/exam-cheatsheet.md) I can now use 
 - important → critical / essential / crucial
 - bad → poor / problematic
 - OK → acceptable / viable
+
+### Schedules and Deadlines (S42)
+Useful time expressions
+- first thing tomorrow
+- before lunch
+- within the hour / within 3 business days
+- by the end of the day / by the end of next week
+- the day after tomorrow
+- this time next week
+- the Monday after next
+
+Phrasal verbs
+- push back – move to a later time or date
+- bring forward – move to an earlier time or date
+- call off – cancel completely
+- put off – decide to do something later
+- catch up on – do work you didn't have time for earlier
+- run over – last longer than planned
+- fall behind – be slower than the plan

@@ -66,25 +66,6 @@ Receiving feedback
 ### Give a Progress Update (S41)
 We've confirmed Thursday evening for local food and drinks. We're currently choosing the restaurant. We're waiting for everyone to vote on what to eat and drink, so we can't book the restaurant until then.
 
-### Schedules and Deadlines (S42)
-Useful time expressions
-- first thing tomorrow
-- before lunch
-- within the hour / within 3 business days
-- by the end of the day / by the end of next week
-- the day after tomorrow
-- this time next week
-- the Monday after next
-
-Phrasal verbs
-- push back – move to a later time or date
-- bring forward – move to an earlier time or date
-- call off – cancel completely
-- put off – decide to do something later
-- catch up on – do work you didn't have time for earlier
-- run over – last longer than planned
-- fall behind – be slower than the plan
-
 ### Dig Into Requirements (S44)
 - What will happen if we all drink too much on Thursday, including you, and nobody can work on Friday?
 - In New Zealand, what happens if someone drinks too much at a team dinner and can't work the next day?
