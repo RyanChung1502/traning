@@ -208,3 +208,20 @@ Bài thơ dân gian, thường được gọi là "Lời dạy của Đức Kh�
 - "Khó phòng bị tướng tài"
 - "Biết chấp nhận thảnh thơi"
 - "Hay hận đời đau khổ"
+
+### 23. Của cải và danh tiếng
+- "Của quý thì khó giữ"
+- "Con cầu tự khó nuôi"
+- "Nhà dư của hiếm hoi"
+- "Nhà lắm người bạc cạn"
+- "Khó gần người quá sạch"
+- "Vắng khách tại quá nghèo"
+- "Dễ nổi danh kị hiền"
+- "Dễ kiếm tiền khó giữ"
+
+### 24. Kết
+- "Kiếp người là duyên nợ"
+- "Lành vỡ lẽ thường tình"
+- "Bại thành từ lực trí"
+- "Thời gian đừng uổng phí"
+- "Biết suy nghĩ sâu xa."
