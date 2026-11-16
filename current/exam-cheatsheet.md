@@ -49,8 +49,8 @@ Our car is having a problem. We should have checked it before the long trip. We 
 Let me tell you about Hai Van Pass, one of the most beautiful roads in Vietnam.
 First of all, the views are amazing: you can see the sea and the mountains from the top.
 In addition, there are many good places to stop and take photos, and the road is famous on YouTube.
-Of course, the road has a lot of sharp turns, and in November it can be rainy and foggy, so we will have to check the weather first.
-To sum it up, if the weather is good, it is the best half-day trip from Da Nang.
+Of course, the road has a lot of sharp turns, and in November it can be rainy and foggy, so we'll have to check the weather first.
+To sum it up, if the weather is good, it's the best half-day trip from Da Nang.
 
 ### Demonstrating Products (S29)
 So, I'd like to show you Valo. Basically, it helps organisations that look after money for people with disabilities or older people keep track of all that money in one place.
@@ -60,16 +60,16 @@ There's also a simple approval step with the rules already built in, so they sav
 And yeah, that's it. Any questions?
 
 ### Delivering Bad News (S30)
-I'm afraid I cannot join the badminton tournament next week. The reason is I have to go onsite to Hanoi for work. This will affect our team, because we will not be able to play as a full team. However, I can help find someone to take my place, and I will cheer for you online.
+I'm afraid I can't join the badminton tournament next week. The reason is I have to go onsite to Hanoi for work. This will affect our team, because we won't be able to play as a full team. However, I can help find someone to take my place, and I'll cheer for you online.
 
 ### Yes/No Agreements (S34)
-- I am tired after the trip. So am I.
+- I'm tired after the trip. So am I.
 - I like local beer. So do I.
 - Dung likes football, and so does Luke.
-- I did not enjoy the traffic. Neither did I.
-- I have been to Hanoi. So have I.
-- Louis will not come today, and neither will the CEO.
-- I cannot join the 1-1 review, and neither can Dung.
+- I didn't enjoy the traffic. Neither did I.
+- I've been to Hanoi. So have I.
+- Louis won't come today, and neither will the CEO.
+- I can't join the 1-1 review, and neither can Dung.
 
 ### Fancy Up Your Vocabulary (S38)
 - big → major / significant / substantial
@@ -84,27 +84,27 @@ I'm afraid I cannot join the badminton tournament next week. The reason is I hav
 
 ### Explain Consequences (S39)
 Zero conditional (rules, procedures, system behavior)
-- If I am late for work, my boss gets upset with me.
+- If I'm late for work, my boss gets upset with me.
 
 1st conditional (choices, decisions, risks)
-- If I study English hard, I will have more chances to get promoted in the age of agentic AI.
+- If I study English hard, I'll have more chances to get promoted in the age of agentic AI.
 
 ### Give and Receive Negative Feedback (S40)
 Giving feedback
 - "Hey Dung, do you have a minute?" (private)
 - "Last Saturday, you arrived 30 minutes late, and it was the same the week before." (specific)
 - "Because of that, we had to wait, and we lost our time on the field." (behavior + impact)
-- "You are one of our best players, so we really want you there from the start." (balanced)
+- "You're one of our best players, so we really want you there from the start." (balanced)
 - "Is anything making it hard to get there on time?" (2-way)
 
 Receiving feedback
 - Dung listens without interrupting. (listen)
 - "Sorry, was it every week, or just the last two?" (clarify)
 - "Thanks for telling me." (thank)
-- "I will leave home earlier from now on." (commit)
+- "I'll leave home earlier from now on." (commit)
 
 ### Give a Progress Update (S41)
-We have confirmed Thursday evening for local food and drinks. We are currently choosing the restaurant. We are waiting for everyone to vote on what to eat and drink, so we cannot book the restaurant until then.
+We've confirmed Thursday evening for local food and drinks. We're currently choosing the restaurant. We're waiting for everyone to vote on what to eat and drink, so we can't book the restaurant until then.
 
 ### Schedules and Deadlines (S42)
 Useful time expressions
@@ -127,12 +127,12 @@ Phrasal verbs
 
 ### Dig Into Requirements (S44)
 - What will happen if we all drink too much on Thursday, including you, and nobody can work on Friday?
-- In New Zealand, what happens if someone drinks too much at a team dinner and cannot work the next day?
+- In New Zealand, what happens if someone drinks too much at a team dinner and can't work the next day?
 
 ### Handle Complaints (S45)
-- Apologize: "I am so sorry about this."
+- Apologize: "I'm so sorry about this."
 - Acknowledge: "I understand how frustrating this is, especially when you have many expenses to submit."
-- Reassure: "We will fix this as soon as possible."
-- Take ownership: "I will investigate this issue personally."
+- Reassure: "We'll fix this as soon as possible."
+- Take ownership: "I'll investigate this issue personally."
 - Dig for details: "Does it crash every time you submit, or only sometimes? What exactly happens on the screen?"
 - Suggest a fix (try + -ing): "In the meantime, have you tried logging out and logging in again?"
