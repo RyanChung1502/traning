@@ -69,3 +69,9 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | "It's not common in Vietnam, so I'll only use it with foreigners." | explaining a custom you only use with foreigners |
 | Them: "You're on the right track." → Me: "Thanks! I'm glad to hear that." | replying when someone says your work is going the right way |
 | "What do you think of the traffic in Vietnam?" | light topic with a visitor new to Vietnam |
+| "For me, local places are more fun than the big tourist ones. Would you like me to show you some?" | offering to take a guest to local places |
+| "How was your flight here?" | greeting a visitor who flew in |
+| "Could I ask for your honest feedback on my English? Also, is the team's English clear enough for you in meetings, or is there anything we should improve?" | asking a lead for feedback on my English and the team's |
+| "It will take time for the team to adapt to the new way of working, like doing less manual code review and focusing more on design and solution review." | talking about the team changing how we work |
+| "Could you talk to the team in the next meeting about why clear English communication is important? I think it will have more impact if it comes from you." | asking a lead to raise a topic with the team |
+| "I'd love to take you out for some local food. Is there any food you can't eat?" | inviting a guest out and checking what they can eat |

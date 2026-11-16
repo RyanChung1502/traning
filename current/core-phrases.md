@@ -27,9 +27,6 @@
 ### 5. Code reviews & PRs
 
 ### 6. Project & team coordination
-- "Could I ask for your honest feedback on my English? Also, is the team's English clear enough for you in meetings, or is there anything we should improve?"
-- "Could you talk to the team in the next meeting about why clear English communication is important? I think it will have more impact if it comes from you."
-- "It will take time for the team to adapt to the new way of working, like doing less manual code review and focusing more on design and solution review."
 - "We might be busy with the client this afternoon, so it's safer to move it. I'll check our schedule with them and let you know a new time soon."
 - "I'm ready for my 1-1 review today or tomorrow. It only takes a few minutes, so feel free to message me any time :)" → Them: "Can you do 1pm?" → Me: "Yes, it works for me. See you at 1pm!"
 
@@ -45,13 +42,11 @@
 - "Your hotel is on my way home, so I can drop you off."
 - "You look younger in person than on camera!"
 - "You look just like your photos!"
-- "How was your flight here?"
 - "I heard your flight was delayed. I hope you're not too tired! Are you still planning to come to the office today, or would you like to rest first?"
 - Guest: "I'll be in the office in another 45 mins - 1 hour, just catching up on some work." → Me: "No problem, take your time. See you soon!"
 - "We've booked a meeting room for you for the whole week, so you can use it any time without worrying about someone else taking it."
 - "During lunch, you can take a nap in your chair, have a coffee at the café on the ground floor, or go up to the rooftop on the 6th floor to relax, whatever you prefer."
 - "Was the traffic okay on the way from the airport?"
-- "I'd love to take you out for some local food. Is there any food you can't eat?"
 - "This sauce is made from fermented shrimp, and it has a very strong smell. Would you like to try a little, or would you prefer fish sauce?"
 - "I heard CEOs are always busy, meeting people and travelling all the time. Do you really spend more nights in hotels than at home?" → Follow-up: "Have you ever met anyone famous on your trips?"
 - "What do you like to do when you're not working?"
@@ -62,7 +57,6 @@
 - Guest: "Have you been to Ho Chi Minh City?" (or "Saigon") → Me: "Yes, I worked there for a while, and I've been back a few times since."
 - "It's too crowded and polluted for me, so I still prefer living in Da Nang."
 - "Have you tried the local beer here? How does it taste different from New Zealand beer?" → Or: "How is it different from beer in New Zealand?"
-- "For me, local places are more fun than the big tourist ones. Would you like me to show you some?"
 - "In Vietnam, there are small local restaurants on both sides of the street, so it's really easy to find something to eat."
 - "When we go out, we usually try two or three places, and we often finish with something sweet, like chè, a local Vietnamese dish."
 - Guest: "Do you come here often?" → Me: "I studied at university here and then stayed to work, so I know the old streets quite well."
