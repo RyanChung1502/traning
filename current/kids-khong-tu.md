@@ -3,7 +3,7 @@
 Bài thơ dân gian, thường được gọi là "Lời dạy của Đức Khổng Tử". Dạy con từng phần, mỗi lần vài câu.
 
 ### 1. Mở đầu
-- "Hình hài của mẹ của cha"
+- "Hình hài của mẹ cha cho"
 - "Trí khôn đời dạy, đói no tự mình"
 - "Sang hèn trong kiếp nhân sinh"
 - "Buồn vui sướng khổ thường tình thế thôi"
