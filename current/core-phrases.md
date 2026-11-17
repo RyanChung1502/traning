@@ -18,7 +18,6 @@
 ### 2. Running the daily
 
 ### 3. My own update
-- "I'm currently doing some manual Azure configuration. Once it's done, working with Azure in Codespaces will be much smoother."
 
 ### 4. When I don't catch or understand
 
@@ -51,9 +50,7 @@
 - "What do you usually do at lunchtime?" → Me: "In Vietnam, we usually get a one-hour lunch break, and some companies even give an hour and a half." → Follow-up: "So what time do people usually finish work in New Zealand?"
 - "Where are you staying? How are you getting to the office? Did you rent a motorbike to try the Da Nang traffic?"
 - "I guess you already have plans for every evening, right? Partying all night on the tourist street, like An Thuong?"
-- Guest: "Is there anything you'd like me to bring from New Zealand?" → Me: "Chocolate is my favorite, so I'd love to try some from NZ."
 - Guest: "Have you been to Ho Chi Minh City?" (or "Saigon") → Me: "Yes, I worked there for a while, and I've been back a few times since."
-- "It's too crowded and polluted for me, so I still prefer living in Da Nang."
 - "Have you tried the local beer here? How does it taste different from New Zealand beer?" → Or: "How is it different from beer in New Zealand?"
 - "In Vietnam, there are small local restaurants on both sides of the street, so it's really easy to find something to eat."
 - "When we go out, we usually try two or three places, and we often finish with something sweet, like chè, a local Vietnamese dish."

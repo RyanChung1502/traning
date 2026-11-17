@@ -77,3 +77,6 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | "I'd love to take you out for some local food. Is there any food you can't eat?" | inviting a guest out and checking what they can eat |
 | "Right now I'm working toward a solution architect or project manager role." | when someone asks about my career path |
 | "I think coding alone is becoming less valuable, while communication and seeing the big picture matter more." | explaining why I'm moving toward SA/PM |
+| "It's too crowded and polluted for me, so I still prefer living in Da Nang." | saying why I prefer Da Nang to HCMC |
+| Guest: "Is there anything you'd like me to bring from New Zealand?" → Me: "Chocolate is my favorite, so I'd love to try some from NZ." | when a guest offers to bring something from home |
+| "I'm currently doing some manual Azure configuration. Once it's done, working with Azure in Codespaces will be much smoother." | stand-up update on Azure setup work |
