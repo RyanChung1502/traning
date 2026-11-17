@@ -2,8 +2,6 @@
 
 ### 1. Small talk & checking in
 
-- "After a couple of months of working with AI, I realized that English is very important these days, especially spoken English."
-- "Don't worry too much about the future. Just stay healthy and happy, and you'll be ready to face any challenge. And good food and drinks always help!"
 - Them: "How far is your home from the office?" → Me: "I live about fifteen kilometres from the office."
 - "I live on the other side of the city, in the old part, so I have to go through the city centre."
 - "It's really crowded there. This side is newer, with wider roads and fewer people."

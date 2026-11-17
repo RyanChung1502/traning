@@ -80,3 +80,5 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | "It's too crowded and polluted for me, so I still prefer living in Da Nang." | saying why I prefer Da Nang to HCMC |
 | Guest: "Is there anything you'd like me to bring from New Zealand?" → Me: "Chocolate is my favorite, so I'd love to try some from NZ." | when a guest offers to bring something from home |
 | "I'm currently doing some manual Azure configuration. Once it's done, working with Azure in Codespaces will be much smoother." | stand-up update on Azure setup work |
+| "After a couple of months of working with AI, I realized that English is very important these days, especially spoken English." | why I'm working on my English |
+| "Don't worry too much about the future. Just stay healthy and happy, and you'll be ready to face any challenge. And good food and drinks always help!" | cheering someone up who worries about the future |
