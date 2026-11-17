@@ -43,7 +43,6 @@
 - "During lunch, you can take a nap in your chair, have a coffee at the café on the ground floor, or go up to the rooftop on the 6th floor to relax, whatever you prefer."
 - "Was the traffic okay on the way from the airport?"
 - "This sauce is made from fermented shrimp, and it has a very strong smell. Would you like to try a little, or would you prefer fish sauce?"
-- "I heard CEOs are always busy, meeting people and travelling all the time. Do you really spend more nights in hotels than at home?" → Follow-up: "Have you ever met anyone famous on your trips?"
 - "What do you like to do when you're not working?"
 - "What do you usually do at lunchtime?" → Me: "In Vietnam, we usually get a one-hour lunch break, and some companies even give an hour and a half." → Follow-up: "So what time do people usually finish work in New Zealand?"
 - "Where are you staying? How are you getting to the office? Did you rent a motorbike to try the Da Nang traffic?"
