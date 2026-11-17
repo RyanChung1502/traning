@@ -3,7 +3,7 @@
 ### Talk About Priorities and Trade-offs (S18)
 - If we release on Friday, we run the risk of breaking the app over the weekend.
 - One advantage of street food is that it's cheap and local. One disadvantage is that it can be too spicy for the client.
-- The main trade-off is cost versus convenience: an electric car is cheaper to run, but it takes longer to charge than filling up a petrol car.
+- The main trade-off is cost versus convenience. An electric car is cheaper to run, but it takes longer to charge than filling up a petrol car.
 - If we book a fancy restaurant, the client won't see the real local food.
 - If we don't book the restaurant today, we won't get a table for Thursday.
 
