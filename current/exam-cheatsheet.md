@@ -20,11 +20,11 @@ Our car is having a problem. We should have checked it before the long trip. We 
 Let me tell you about Hai Van Pass, one of the most beautiful roads in Vietnam.
 First of all, the views are amazing: you can see the sea and the mountains from the top.
 In addition, there are many good places to stop and take photos, and the road is famous on YouTube.
-Of course, the road has a lot of sharp turns, and in November it can be rainy and foggy, so we'll have to check the weather first.
+Of course, the road has a lot of sharp turns, and in winter it can be rainy and foggy, so we'll have to check the weather first.
 To sum it up, if the weather is good, it's the best half-day trip from Da Nang.
 
 ### Demonstrating Products (S29)
-So, I'd like to show you Valo. Basically, it helps organisations that look after money for people with disabilities or older people keep track of all that money in one place.
+So, I'd like to show you Valo. Basically, it helps organisations that manage money for people with disabilities or older people. It keeps track of all that money in one place.
 The biggest problem for their staff is that they're jumping between lots of different tools that don't talk to each other, so they end up spending hours checking everything matches by hand.
 With Valo, they can add what they spent, get it approved, and Valo takes it out of the person's budget right away. So they always know what's been spent and what's left.
 There's also a simple approval step with the rules already built in, so they save a lot of time and make fewer mistakes, because Valo does the checking for them.

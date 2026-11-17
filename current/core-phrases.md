@@ -9,9 +9,9 @@
 - "You should see Mr T's house. It's beautiful, and the home office looks really professional!"
 - "When I drink a lot, my wife drives me home. Driving after drinking is dangerous, and the fines in Vietnam are really high."
 - "My wife is on her way here to pick me up."
-- "I drive a small VinFast electric car. VinFast is a Vietnamese brand, and it belongs to the same group as Xanh SM, the taxi app, so you'll see their electric taxis everywhere here."
-- "I bought my car recently, after the taxes and fees for electric cars went down, and the government also gives some support."
-- "Charging is about three to four times cheaper than petrol in Vietnam. It's fast too: thirty minutes of charging gives me about a hundred kilometres, and a full charge takes about an hour and lasts almost two hundred kilometres."
+- "I drive a small VinFast electric car. VinFast is a Vietnamese brand. It belongs to the same group as Xanh SM, the taxi app. That's why you see their electric taxis everywhere."
+- "I bought my car recently, after taxes and fees for electric cars went down. The government also gives some support."
+- "Charging is about three to four times cheaper than petrol in Vietnam. It's fast too. Thirty minutes of charging gives me about a hundred kilometres. A full charge takes about an hour and lasts almost two hundred."
 
 ### 2. Running the daily
 
