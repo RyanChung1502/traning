@@ -27,7 +27,7 @@ To sum it up, if the weather is good, it's the best half-day trip from Da Nang.
 So, I'd like to show you Valo. Basically, it helps organisations that manage money for people with disabilities or older people. It keeps track of all that money in one place.
 The biggest problem for their staff is that they're jumping between lots of different tools that don't talk to each other. So they end up spending hours checking everything matches by hand.
 With Valo, they can add what they spent, get it approved, and Valo takes it out of the person's budget right away. So they always know what's been spent and what's left.
-There's also a simple approval step with the rules already built in, so they save a lot of time and make fewer mistakes, because Valo does the checking for them.
+There's also a simple approval step with the rules built in. Valo does the checking, so they save time and make fewer mistakes.
 And yeah, that's it. Any questions?
 
 ### Delivering Bad News (S30)
