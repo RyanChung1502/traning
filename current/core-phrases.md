@@ -45,7 +45,6 @@
 - "What do you like to do when you're not working?"
 - "What do you usually do at lunchtime?" → Me: "In Vietnam, we usually get a one-hour lunch break, and some companies even give an hour and a half." → Follow-up: "So what time do people usually finish work in New Zealand?"
 - "Where are you staying? How are you getting to the office? Did you rent a motorbike to try the Da Nang traffic?"
-- "I guess you already have plans for every evening, right? Partying all night on the tourist street, like An Thuong?"
 - Guest: "Have you been to Ho Chi Minh City?" (or "Saigon") → Me: "Yes, I worked there for a while, and I've been back a few times since."
 - "Have you tried the local beer here? How does it taste different from New Zealand beer?" → Or: "How is it different from beer in New Zealand?"
 - "In Vietnam, there are small local restaurants on both sides of the street, so it's really easy to find something to eat."
