@@ -83,3 +83,4 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | "After a couple of months of working with AI, I realized that English is very important these days, especially spoken English." | why I'm working on my English |
 | "Don't worry too much about the future. Just stay healthy and happy, and you'll be ready to face any challenge. And good food and drinks always help!" | cheering someone up who worries about the future |
 | "I heard CEOs are always busy, meeting people and travelling all the time. Do you really spend more nights in hotels than at home?" → Follow-up: "Have you ever met anyone famous on your trips?" | friendly curiosity with a senior guest |
+| "Was the traffic okay on the way from the airport?" | follow-up with a visitor who just arrived |

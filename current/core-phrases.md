@@ -41,7 +41,6 @@
 - Guest: "I'll be in the office in another 45 mins - 1 hour, just catching up on some work." → Me: "No problem, take your time. See you soon!"
 - "We've booked a meeting room for you for the whole week, so you can use it any time without worrying about someone else taking it."
 - "During lunch, you can take a nap in your chair, have a coffee at the café on the ground floor, or go up to the rooftop on the 6th floor to relax, whatever you prefer."
-- "Was the traffic okay on the way from the airport?"
 - "This sauce is made from fermented shrimp, and it has a very strong smell. Would you like to try a little, or would you prefer fish sauce?"
 - "What do you like to do when you're not working?"
 - "What do you usually do at lunchtime?" → Me: "In Vietnam, we usually get a one-hour lunch break, and some companies even give an hour and a half." → Follow-up: "So what time do people usually finish work in New Zealand?"
