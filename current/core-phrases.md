@@ -29,7 +29,7 @@
 
 - "When are you arriving in Da Nang, and when are you planning to come to the office?"
 - "I guess your evenings will be busy with our managers, but do you have a free evening? I'd love to take you out for some local food and drinks."
-- "Happy Teachers' Day! To celebrate, we'd love to take you out for lunch. Which day works for you?"
+- "Happy Teachers' Day! To celebrate, I'd love to take you out for lunch. Which day works for you?"
 - "Great! Let's finalise on Monday. You have a local guide this time, so get ready for things no big tour can offer!"
 - "No problem! So it'll be just our team tonight, and we'll plan another evening with you."
 - "Are you going back to the hotel first, or straight to the restaurant tonight?" → Me: "I'll go straight to the restaurant after work."
