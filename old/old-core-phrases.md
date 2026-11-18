@@ -85,3 +85,5 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | "I heard CEOs are always busy, meeting people and travelling all the time. Do you really spend more nights in hotels than at home?" → Follow-up: "Have you ever met anyone famous on your trips?" | friendly curiosity with a senior guest |
 | "Was the traffic okay on the way from the airport?" | follow-up with a visitor who just arrived |
 | "I guess you already have plans for every evening, right? Partying all night on the tourist street, like An Thuong?" | joking with a colleague on a Da Nang work trip (not for clients) |
+| "Where are you staying? How are you getting to the office? Did you rent a motorbike to try the Da Nang traffic?" | chatting with a colleague on a work trip to Da Nang |
+| "I'm ready for my 1-1 review today or tomorrow. It only takes a few minutes, so feel free to message me any time :)" → Them: "Can you do 1pm?" → Me: "Yes, it works for me. See you at 1pm!" | rescheduling a 1-1 with the teacher |

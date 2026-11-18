@@ -23,7 +23,6 @@
 
 ### 6. Project & team coordination
 - "We might be busy with the client this afternoon, so it's safer to move it. I'll check our schedule with them and let you know a new time soon."
-- "I'm ready for my 1-1 review today or tomorrow. It only takes a few minutes, so feel free to message me any time :)" → Them: "Can you do 1pm?" → Me: "Yes, it works for me. See you at 1pm!"
 
 ### 7. Hosting a visitor
 
@@ -45,7 +44,6 @@
 - "This sauce is made from fermented shrimp, and it has a very strong smell. Would you like to try a little, or would you prefer fish sauce?"
 - "What do you like to do when you're not working?"
 - "What do you usually do at lunchtime?" → Me: "In Vietnam, we usually get a one-hour lunch break, and some companies even give an hour and a half." → Follow-up: "So what time do people usually finish work in New Zealand?"
-- "Where are you staying? How are you getting to the office? Did you rent a motorbike to try the Da Nang traffic?"
 - Guest: "Have you been to Ho Chi Minh City?" → Me: "Yes, I worked there for a while, and I've been back a few times since."
 - "Have you tried the local beer here? How does it taste different from New Zealand beer?" → Or: "How is it different from beer in New Zealand?"
 - "In Vietnam, there are small local restaurants on both sides of the street, so it's really easy to find something to eat."
