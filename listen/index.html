@@ -42,6 +42,7 @@ li .play{flex:none;width:40px;height:40px;padding:0;border-radius:50%;font-size:
 <label for="rate">Speed <select id="rate"><option value="0.75" selected>Slow</option><option value="0.9">A bit slower</option><option value="1">Normal</option></select></label>
 <label for="gap">Pause <select id="gap"><option value="2000">2 sec</option><option value="4000" selected>4 sec</option><option value="6000">6 sec</option><option value="10000">10 sec</option></select></label>
 <label for="inner">Inside a phrase <select id="inner"><option value="500">0.5 sec</option><option value="1500" selected>1.5 sec</option><option value="3000">3 sec</option></select></label>
+<label for="comma">Comma pause <select id="comma"><option value="300">0.3 sec</option><option value="600" selected>0.6 sec</option><option value="1000">1 sec</option></select></label>
 <label for="voice">Voice <select id="voice"></select></label>
 </div>
 <div id="list"><p class="note">Loading phrases…</p></div>
@@ -63,7 +64,8 @@ function parse(md){
 }
 // Split one phrase into sentences so each can be spoken with a pause after it
 function splitSentences(t){
-  return (t.match(/[^.?!]+[.?!]+|[^.?!]+$/g)||[t]).map(s=>s.trim()).filter(Boolean);
+  // also split at commas, so the reader can hold a short pause there
+  return (t.match(/[^.?!,]+[.?!,]+|[^.?!,]+$/g)||[t]).map(s=>s.trim()).filter(Boolean);
 }
 const list=document.getElementById('list');const rows=[];
 function render(sections){
@@ -121,7 +123,7 @@ function playFrom(i,cont){
     const v=voices[vSel.value];if(v)u.voice=v;
     u.onend=()=>{
       if(my!==token)return;
-      if(s+1<segs.length)setTimeout(()=>say(k,s+1),ms('inner'));
+      if(s+1<segs.length)setTimeout(()=>say(k,s+1),ms(segs[s].endsWith(',')?'comma':'inner'));
       else if(cont)setTimeout(()=>go(k+1),ms('gap'));
       else mark(-1);
     };
