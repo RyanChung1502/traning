@@ -28,6 +28,8 @@ Những câu ngắn, dễ nhớ để dạy con nói hằng ngày. Tập mỗi l
 - "Có chơi với em."
 - "Có cởi đồ em không?"
 - "Không cởi đồ em."
+- "Có tự ý ăn bánh không?"
+- "Không tự ý ăn bánh."
 - "Trước khi đi ngủ, phải làm gì?"
 - "Đánh răng."
 - "Đi đái."
