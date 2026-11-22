@@ -88,3 +88,8 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | "Where are you staying? How are you getting to the office? Did you rent a motorbike to try the Da Nang traffic?" | chatting with a colleague on a work trip to Da Nang |
 | "I'm ready for my 1-1 review today or tomorrow. It only takes a few minutes, so feel free to message me any time :)" → Them: "Can you do 1pm?" → Me: "Yes, it works for me. See you at 1pm!" | rescheduling a 1-1 with the teacher |
 | "Are you free at lunchtime today? We could go for a coffee or a short walk." | inviting someone to hang out during the lunch break (not to eat) |
+| "You should see Mr T's house. It's beautiful, and the home office looks really professional!" | praising a colleague's home to others |
+| "When I drink a lot, my wife drives me home. Driving after drinking is dangerous, and the fines in Vietnam are really high." | explaining why I don't drive after drinking |
+| Guest: "Have you been to Ho Chi Minh City?" → Me: "Yes, I worked there for a while, and I've been back a few times since." | when asked about HCMC |
+| "Have you tried the local beer here? How does it taste different from New Zealand beer?" → Or: "How is it different from beer in New Zealand?" | light topic with a NZ guest |
+| "I guess your evenings will be busy with our managers, but do you have a free evening? I'd love to take you out for some local food and drinks." | inviting a client out for an evening |
