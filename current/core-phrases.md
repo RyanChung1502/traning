@@ -3,6 +3,7 @@
 ### 1. Small talk & checking in
 
 - Them: "How much do you earn?" → Me: "Haha, I'd rather keep that one to myself!" → Or: "I'd prefer to keep that one to myself."
+- "To keep it fun for you, you can pick any topic today, like daily life. What would you like to talk about?"
 - Them: "How far is your home from the office?" → Me: "I live about fifteen kilometres from the office."
 - "I live on the other side of the city, in the old part, so I have to go through the city centre."
 - "It's really crowded there. This side is newer, with wider roads and fewer people."
