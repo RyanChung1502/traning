@@ -32,4 +32,7 @@ Những câu ngắn, dễ nhớ để dạy con nói hằng ngày. Tập mỗi l
 - "Đánh răng."
 - "Đi đái."
 
+### 5. Hằng ngày
+- "Em Khôi tắm trước, Thư tắm sau."
+
 > Dạy con nhìn vào mắt người lớn khi nói.
