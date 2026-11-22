@@ -7,6 +7,7 @@
 - "Outside work, I'm a dad, and my kids keep me very busy. I'm working hard on my spoken English, so thanks for being patient with me!"
 - Them: "How much do you earn?" → Me: "Haha, I'd rather keep that one to myself!" → Or: "I'd prefer to keep that one to myself."
 - "To keep it fun for you, you can pick any topic today, like daily life. What would you like to talk about?"
+- Them: "How was your weekend?" → Me: "It was nice and relaxing. I spent most of it with my kids, and we went out for some local food. How was yours?" → Or: "It was great. On Saturday, I played badminton with my friends. On Sunday, we visited my relatives and had a big meal together. How was yours?"
 - Them: "How far is your home from the office?" → Me: "I live about fifteen kilometres from the office."
 - "I live on the other side of the city, in the old part, so I have to go through the city centre."
 - "It's really crowded there. This side is newer, with wider roads and fewer people."
