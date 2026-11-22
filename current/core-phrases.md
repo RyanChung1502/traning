@@ -2,6 +2,9 @@
 
 ### 1. Small talk & checking in
 
+- "Hi, my Vietnamese name is Chung, but you can call me Ryan. I'm a software developer based in Da Nang."
+- "I studied at university here and stayed to work. Now I build software for clients in New Zealand. I'm also working toward a solution architect or project manager role."
+- "Outside work, I'm a dad, and my kids keep me very busy. I'm working hard on my spoken English, so thanks for being patient with me!"
 - Them: "How much do you earn?" → Me: "Haha, I'd rather keep that one to myself!" → Or: "I'd prefer to keep that one to myself."
 - "To keep it fun for you, you can pick any topic today, like daily life. What would you like to talk about?"
 - Them: "How far is your home from the office?" → Me: "I live about fifteen kilometres from the office."
