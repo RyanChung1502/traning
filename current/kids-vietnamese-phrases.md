@@ -30,6 +30,8 @@ Những câu ngắn, dễ nhớ để dạy con nói hằng ngày. Tập mỗi l
 - "Không cởi đồ em."
 - "Có tự ý ăn bánh không?"
 - "Không tự ý ăn bánh."
+- "Muốn ăn bánh thì hỏi ai?"
+- "Muốn ăn bánh thì hỏi bố mẹ."
 - "Trước khi đi ngủ, phải làm gì?"
 - "Đánh răng."
 - "Đi đái."
