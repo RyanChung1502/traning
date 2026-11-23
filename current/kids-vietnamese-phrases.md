@@ -1,6 +1,7 @@
 # Câu nói lễ phép cho con
 
 Những câu ngắn, dễ nhớ để dạy con nói hằng ngày. Tập mỗi lần một câu, nói chậm và rõ.
+Mỗi câu tối đa 4–5 chữ; câu dài hơn thì thêm dấu phẩy để ngắt.
 
 ### 1. Chào hỏi khi về nhà
 - "Con chào bố." — khi vừa về đến nhà
@@ -16,7 +17,7 @@ Những câu ngắn, dễ nhớ để dạy con nói hằng ngày. Tập mỗi l
 - "Cho con uống sữa." — xin sữa
 
 ### 4. Hỏi đáp
-- "Đi ra ngoài phải đeo gì?"
+- "Đi ra ngoài, phải đeo gì?"
 - "Phải đeo dép."
 - "Đi đái ở đâu?"
 - "Đái vào bồn cầu."
@@ -32,8 +33,8 @@ Những câu ngắn, dễ nhớ để dạy con nói hằng ngày. Tập mỗi l
 - "Không cởi đồ em."
 - "Có tự ý ăn bánh không?"
 - "Không tự ý ăn bánh."
-- "Muốn ăn bánh thì hỏi ai?"
-- "Muốn ăn bánh thì hỏi bố mẹ."
+- "Muốn ăn bánh, thì hỏi ai?"
+- "Muốn ăn bánh, thì hỏi bố mẹ."
 - "Trước khi đi ngủ, phải làm gì?"
 - "Đánh răng."
 - "Đi đái."
