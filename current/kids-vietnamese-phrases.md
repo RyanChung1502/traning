@@ -42,4 +42,11 @@ Mỗi câu tối đa 4–5 chữ; câu dài hơn thì thêm dấu phẩy để n
 ### 5. Hằng ngày
 - "Em Khôi tắm trước, Thư tắm sau."
 
+### 6. Kể chuyện
+- "Nhà Thư có bốn người."
+- "Bố Chung."
+- "Mẹ Hiền."
+- "Anh Thư."
+- "Em Khôi."
+
 > Dạy con nhìn vào mắt người lớn khi nói.
