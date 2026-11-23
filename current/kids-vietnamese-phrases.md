@@ -24,6 +24,8 @@ Những câu ngắn, dễ nhớ để dạy con nói hằng ngày. Tập mỗi l
 - "Không vẽ lên tường."
 - "Có đánh em không?"
 - "Không đánh em."
+- "Có cắn em không?"
+- "Không cắn em."
 - "Có chơi với em không?"
 - "Có chơi với em."
 - "Có cởi đồ em không?"
