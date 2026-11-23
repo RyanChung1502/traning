@@ -33,7 +33,7 @@ Mỗi câu tối đa 4–5 chữ; câu dài hơn thì thêm dấu phẩy để n
 - "Không cởi đồ em."
 - "Có tự ý ăn bánh không?"
 - "Không tự ý ăn bánh."
-- "Muốn ăn bánh, thì hỏi ai?"
+- "Muốn ăn bánh, thì phải hỏi ai?"
 - "Muốn ăn bánh, thì hỏi bố mẹ."
 - "Trước khi đi ngủ, phải làm gì?"
 - "Đánh răng."
