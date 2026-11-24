@@ -117,11 +117,6 @@ function render(sections){
         const d=document.createElement('div');d.textContent=p.text;t.appendChild(d);
       });
       li.append(b,t);ol.appendChild(li);
-      // Own questions (saved on this phone) get a delete button on the question line
-      if(parts[0].own!==undefined&&isQ){
-        const del=document.createElement('button');del.className='del';del.textContent='✕';del.setAttribute('aria-label','Xoá câu hỏi này');
-        del.onclick=e=>{e.stopPropagation();removeOwn(parts[0].own)};li.appendChild(del);
-      }
       const idx=rows.length;rows.push({li,segs:parts.flatMap(p=>splitSentences(p.text))});
       li.onclick=()=>playFrom(idx,false);  // tap anywhere on the line to hear it
     });
@@ -137,7 +132,6 @@ function renderAll(){
   if(own.length)secs.push({title:'Câu hỏi của nhà mình',items:own.flatMap((x,i)=>[[{text:x.q,own:i}],[{text:x.a,own:i}]])});
   render(secs);
 }
-function removeOwn(i){const a=loadOwn();a.splice(i,1);saveOwn(a);renderAll()}
 fetch('../current/kids-vietnamese-phrases.md',{cache:'no-store'})
   .then(r=>{if(!r.ok)throw new Error(r.status);return r.text()})
   .then(md=>{baseSections=parse(md);renderAll();setResume(resumeAt)})
