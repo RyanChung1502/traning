@@ -41,6 +41,13 @@ li .play{flex:none;width:40px;height:40px;padding:0;border-radius:50%;font-size:
 .abc[hidden]{display:none}
 .group{font-family:var(--body);font-size:.95rem;margin:14px 0 8px;color:var(--muted);font-weight:600}
 .more{margin-top:12px}
+li .del{flex:none;margin-left:auto;width:36px;height:36px;padding:0;border-radius:50%;color:var(--muted)}
+.own{display:grid;gap:6px;margin-top:28px;padding:14px;border:1px dashed var(--line);border-radius:10px}
+.own h2{margin:0 0 4px}
+.own label{font-size:.85rem;color:var(--muted)}
+.own input{font:inherit;padding:10px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--fg);min-width:0}
+.own button{justify-self:start;margin-top:6px}
+.own .note{margin-top:4px}
 </style>
 </head>
 <body>
@@ -59,6 +66,13 @@ li .play{flex:none;width:40px;height:40px;padding:0;border-radius:50%;font-size:
 <label for="voice">Giọng <select id="voice"></select></label>
 </div>
 <div id="list"><p class="note">Đang tải…</p></div>
+<form id="ownForm" class="own" autocomplete="off">
+<h2>Thêm câu hỏi của bạn</h2>
+<label for="ownQ">Câu hỏi</label><input id="ownQ" placeholder="Ví dụ: Ăn xong phải làm gì?">
+<label for="ownA">Câu trả lời</label><input id="ownA" placeholder="Ví dụ: Ăn xong, phải rửa tay.">
+<button type="submit" class="primary">+ Thêm</button>
+<p class="note" id="ownNote">Câu bạn thêm chỉ lưu trên máy này, không gửi đi đâu.</p>
+</form>
 <h2>Bảng chữ cái</h2>
 <p class="group">Nhóm 1</p>
 <div class="abc" id="abc1"></div>
@@ -91,7 +105,7 @@ function splitSentences(t){
 }
 const list=document.getElementById('list');const rows=[];
 function render(sections){
-  list.innerHTML='';
+  list.innerHTML='';rows.length=0;
   sections.forEach(s=>{
     const h=document.createElement('h2');h.textContent=s.title;list.appendChild(h);
     const ol=document.createElement('ol');
@@ -108,15 +122,41 @@ function render(sections){
         const d=document.createElement('div');d.textContent=p.text;t.appendChild(d);
       });
       li.append(b,t);ol.appendChild(li);
+      // Own questions (saved on this phone) get a delete button on the question line
+      if(parts[0].own!==undefined&&isQ){
+        const del=document.createElement('button');del.className='del';del.textContent='✕';del.setAttribute('aria-label','Xoá câu hỏi này');
+        del.onclick=e=>{e.stopPropagation();removeOwn(parts[0].own)};li.appendChild(del);
+      }
       const idx=rows.length;rows.push({li,segs:parts.flatMap(p=>splitSentences(p.text))});
       li.onclick=()=>playFrom(idx,false);  // tap anywhere on the line to hear it
     });
     list.appendChild(ol);
   });
 }
+// ---- Questions the parent adds on this phone (kept in this browser only, never uploaded) ----
+const OWN_KEY='kids-own-qa';let baseSections=[];
+function loadOwn(){try{return JSON.parse(localStorage.getItem(OWN_KEY)||'[]')}catch(e){return[]}}
+function saveOwn(a){try{localStorage.setItem(OWN_KEY,JSON.stringify(a));return true}catch(e){return false}}
+function renderAll(){
+  const own=loadOwn();const secs=baseSections.slice();
+  if(own.length)secs.push({title:'Câu hỏi của nhà mình',items:own.flatMap((x,i)=>[[{text:x.q,own:i}],[{text:x.a,own:i}]])});
+  render(secs);
+}
+function removeOwn(i){const a=loadOwn();a.splice(i,1);saveOwn(a);renderAll()}
+document.getElementById('ownForm').addEventListener('submit',e=>{
+  e.preventDefault();
+  const qi=document.getElementById('ownQ'),ai=document.getElementById('ownA'),note=document.getElementById('ownNote');
+  let q=qi.value.trim(),a=ai.value.trim();
+  if(!q||!a){note.textContent='Nhập cả câu hỏi và câu trả lời.';return}
+  if(!/[?]$/.test(q))q+='?';
+  if(!/[.!?]$/.test(a))a+='.';
+  const list2=loadOwn();list2.push({q,a});
+  if(!saveOwn(list2)){note.textContent='Trình duyệt không cho lưu. Thử tắt chế độ ẩn danh.';return}
+  qi.value='';ai.value='';note.textContent='Đã thêm. Câu này chỉ lưu trên máy này.';renderAll();
+});
 fetch('../current/kids-vietnamese-phrases.md',{cache:'no-store'})
   .then(r=>{if(!r.ok)throw new Error(r.status);return r.text()})
-  .then(md=>{render(parse(md));setResume(resumeAt)})
+  .then(md=>{baseSections=parse(md);renderAll();setResume(resumeAt)})
   .catch(()=>{list.innerHTML='<p class="note">Không tải được danh sách. Kiểm tra mạng rồi tải lại trang.</p>'});
 
 const synth=window.speechSynthesis;const vSel=document.getElementById('voice');let voices=[];
