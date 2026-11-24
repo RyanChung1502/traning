@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>La Chức Kinh</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=Source+Sans+3:wght@400;600&display=swap">
+<style>
+/* Layout: single reading column, sticky player bar, one row per phrase */
+:root{--bg:#f6f7f4;--fg:#1d2420;--muted:#5f6b64;--card:#ffffff;--line:#dfe3dd;--accent:#1f7a5c;--accent-ink:#ffffff;--hi:#e3f2ea;
+--q:#c2502e;--q-bg:#fbeee9;--a:#2e7d32;--a-bg:#e8f5e9;
+--display:"Fraunces",Georgia,serif;--body:"Source Sans 3",system-ui,sans-serif}
+@media (prefers-color-scheme:dark){:root{--bg:#141916;--fg:#e8ece9;--muted:#9aa69f;--card:#1c231f;--line:#2c3530;--accent:#5cc49c;--accent-ink:#0f1512;--hi:#21362c;--q:#f08a6c;--q-bg:#3a2520;--a:#7fcf86;--a-bg:#1f3322;color-scheme:dark}}
+li.q:not(.on){background:var(--q-bg);border-color:var(--q)}
+li.q .txt{color:var(--q);font-weight:600}
+li.q:not(:first-child){margin-top:20px}
+li.a:not(.on){background:var(--a-bg);border-color:var(--a)}
+li.a .txt{color:var(--a);font-weight:600}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--body);font-size:17px;line-height:1.5}
+.wrap{max-width:680px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 48px}
+h1{font-family:var(--display);font-weight:600;font-size:1.8rem;margin:0 0 4px;text-wrap:balance}
+.sub{color:var(--muted);margin:0 0 16px}
+.bar{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 0;display:flex;flex-wrap:wrap;gap:8px;align-items:center;border-bottom:1px solid var(--line)}
+button{font:inherit;cursor:pointer;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--fg);padding:8px 14px}
+button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent);font-weight:600}
+label{color:var(--muted);font-size:.9rem;display:flex;gap:6px;align-items:center}
+select{font:inherit;font-size:.9rem;background:var(--card);color:var(--fg);border:1px solid var(--line);border-radius:6px;padding:4px;max-width:180px}
+h2{font-family:var(--display);font-weight:600;font-size:1.15rem;margin:28px 0 8px}
+.toggle{font:inherit;border:0;background:none;padding:4px 0;color:var(--fg);text-align:left;width:100%}
+ol[hidden]{display:none}
+ol{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
+li{cursor:pointer;display:flex;gap:12px;align-items:flex-start;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px}
+li.on{background:var(--hi);border-color:var(--accent)}
+li .play{flex:none;width:40px;height:40px;padding:0;border-radius:50%;font-size:14px}
+.txt{min-width:0;display:flex;flex-direction:column;gap:4px}
+.who{font-size:.75rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:600}
+.note{color:var(--muted);font-size:.9rem;margin-top:24px}
+.abc{display:grid;grid-template-columns:repeat(auto-fill,minmax(64px,1fr));gap:8px}
+.abc button{font-family:var(--display);font-size:1.6rem;padding:10px 0;line-height:1.2}
+.abc button.on{background:var(--hi);border-color:var(--accent)}
+.abc small{display:block;font-family:var(--body);font-size:.75rem;color:var(--muted)}
+.abc[hidden]{display:none}
+.group{font-family:var(--body);font-size:.95rem;margin:14px 0 8px;color:var(--muted);font-weight:600}
+.more{margin-top:12px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>La Chức Kinh</h1>
+<p class="sub">Bấm ▶ để nghe từng câu, hoặc nghe tất cả theo thứ tự.</p>
+<div class="bar">
+<button class="primary" id="all">▶ Nghe tất cả</button>
+<button id="restart" hidden>⏮ Từ đầu</button>
+<button id="stop">■ Dừng</button>
+<button id="reload" title="Tải lại trang với nội dung mới nhất">↻ Tải lại</button>
+<label for="rate">Tốc độ <select id="rate"><option value="0.6">Rất chậm</option><option value="0.75" selected>Chậm</option><option value="0.9">Hơi chậm</option><option value="1">Bình thường</option></select></label>
+<label for="gap">Nghỉ giữa câu <select id="gap"><option value="2000">2 giây</option><option value="4000" selected>4 giây</option><option value="6000">6 giây</option><option value="10000">10 giây</option></select></label>
+<label for="inner">Trong một câu <select id="inner"><option value="500">0.5 giây</option><option value="1500" selected>1.5 giây</option><option value="3000">3 giây</option></select></label>
+<label for="comma">Dấu phẩy <select id="comma"><option value="300">0.3 giây</option><option value="600" selected>0.6 giây</option><option value="1000">1 giây</option></select></label>
+<label for="voice">Giọng <select id="voice"></select></label>
+</div>
+<div id="list"><p class="note">Đang tải…</p></div>
+<p class="note" id="msg">Đọc file current/la-chuc-kinh.md mới nhất, bằng giọng tiếng Việt có sẵn trên máy.</p>
+</div>
+<script>
+// Parse la-chuc-kinh.md: "### N. Title" sections, "- ..." lines with quoted phrases
+function parse(md){
+  const sections=[];let cur=null;
+  md.split('\n').forEach(l=>{
+    if(l.startsWith('### ')){cur={title:l.replace(/^### \d+\.\s*/,''),items:[]};sections.push(cur)}
+    else if(l.startsWith('- ')&&cur){
+      const parts=[];const re=/(?:(Them|Guest|Me|Follow-up):\s*)?"([^"]+)"/g;let m;
+      while((m=re.exec(l))){parts.push({who:m[1]||(parts.length?'Follow-up':'Me'),text:m[2]})}
+      if(parts.length)cur.items.push(parts);
+    }
+  });
+  return sections.filter(s=>s.items.length);
+}
+// Split one phrase into sentences so each can be spoken with a pause after it
+function splitSentences(t){
+  // also split at commas, so the reader can hold a short pause there
+  return (t.match(/[^.?!,;—]+[.?!,;—]+|[^.?!,;—]+$/g)||[t]).map(s=>s.replace(/—$/,'').trim()).filter(s=>/[\p{L}\p{N}]/u.test(s));
+}
+const list=document.getElementById('list');const rows=[];
+function render(sections){
+  list.innerHTML='';
+  // Each part is collapsible; only the first part ("Mở đầu") starts open
+  sections.forEach((s,si)=>{
+    const h=document.createElement('h2');
+    const tg=document.createElement('button');tg.className='toggle';
+    const ol=document.createElement('ol');ol.hidden=si>0;
+    const label=()=>{tg.textContent=(ol.hidden?'▸ ':'▾ ')+s.title;tg.setAttribute('aria-expanded',String(!ol.hidden))};
+    tg.onclick=()=>{ol.hidden=!ol.hidden;label()};label();
+    h.appendChild(tg);list.appendChild(h);
+    // A line ending in "?" is a question; the lines after it are its answers, until the next question
+    let afterQ=false;
+    s.items.forEach(parts=>{
+      const li=document.createElement('li');
+      const isQ=parts.length===1&&parts[0].text.trim().endsWith('?');
+      if(isQ){li.classList.add('q');afterQ=true}else if(afterQ)li.classList.add('a');
+      const b=document.createElement('button');b.className='play';b.textContent='▶';b.setAttribute('aria-label','Play');
+      const t=document.createElement('div');t.className='txt';
+      parts.forEach(p=>{
+        if(parts.length>1){const w=document.createElement('span');w.className='who';w.textContent=p.who;t.appendChild(w)}
+        const d=document.createElement('div');d.textContent=p.text;t.appendChild(d);
+      });
+      li.append(b,t);ol.appendChild(li);
+      const idx=rows.length;rows.push({li,ol,segs:parts.flatMap(p=>splitSentences(p.text))});
+      li.onclick=()=>playFrom(idx,false);  // tap anywhere on the line to hear it
+    });
+    list.appendChild(ol);
+  });
+}
+fetch('../current/la-chuc-kinh.md',{cache:'no-store'})
+  .then(r=>{if(!r.ok)throw new Error(r.status);return r.text()})
+  .then(md=>{render(parse(md));setResume(resumeAt)})
+  .catch(()=>{list.innerHTML='<p class="note">Không tải được danh sách. Kiểm tra mạng rồi tải lại trang.</p>'});
+
+const synth=window.speechSynthesis;const vSel=document.getElementById('voice');let voices=[];
+function loadVoices(){
+  if(!synth)return;
+  // Vietnamese voices only: lang can be "vi-VN" or "vi_VN"; some engines only name them
+  voices=synth.getVoices().filter(v=>/^vi([-_]|$)/i.test(v.lang)||/vietnam|tiếng việt|linh/i.test(v.name));
+  vSel.innerHTML='';
+  voices.forEach((v,i)=>{const o=document.createElement('option');o.value=i;o.textContent=v.name+' ('+v.lang+')';vSel.appendChild(o)});
+  // Prefer an on-device voice (sounds more natural and works offline on iPhone)
+  const pref=voices.findIndex(v=>v.localService);if(pref>=0)vSel.value=pref;
+  document.getElementById('all').disabled=!voices.length;
+  document.getElementById('msg').innerHTML=voices.length
+    ?'Đọc file current/la-chuc-kinh.md mới nhất, bằng giọng tiếng Việt có sẵn trên máy.'
+    :'<strong>Máy chưa có giọng tiếng Việt</strong>, nên trang không đọc để tránh giọng nước ngoài.<br>'
+     +'iPhone: Cài đặt › Trợ năng › Nội dung được đọc › Giọng nói › Tiếng Việt › tải giọng <em>Linh</em>, rồi mở trang bằng Safari.<br>'
+     +'Android: Cài đặt › Quản lý chung › Ngôn ngữ › Chuyển văn bản thành giọng nói › Google › Cài đặt dữ liệu giọng nói › Tiếng Việt, rồi mở trang bằng Chrome.';
+}
+if(synth){loadVoices();synth.onvoiceschanged=loadVoices}else{document.getElementById('msg').textContent='Trình duyệt này không hỗ trợ đọc.'}
+let token=0;
+// Remember where "play all" stopped, so it can continue from there (kept per page on this phone)
+const RESUME_KEY='resume:'+location.pathname;
+let resumeAt=0;try{resumeAt=parseInt(localStorage.getItem(RESUME_KEY)||'0',10)||0}catch(e){}
+function setResume(k){
+  resumeAt=k;try{localStorage.setItem(RESUME_KEY,String(k))}catch(e){}
+  const more=k>0&&k<rows.length;
+  document.getElementById('all').textContent=more?'▶ Nghe tiếp ('+(k+1)+'/'+rows.length+')':'▶ Nghe tất cả';
+  document.getElementById('restart').hidden=!more;
+}
+function mark(i){rows.forEach((r,j)=>r.li.classList.toggle('on',j===i));if(i>=0)rows[i].li.scrollIntoView({block:'nearest',behavior:'smooth'})}
+function playFrom(i,cont){
+  if(!synth||!voices.length)return;synth.cancel();const my=++token;
+  const ms=id=>parseInt(document.getElementById(id).value,10);
+  const say=(k,s)=>{
+    if(my!==token)return;
+    const segs=rows[k].segs;
+    const u=new SpeechSynthesisUtterance(segs[s]);
+    u.rate=parseFloat(document.getElementById('rate').value);u.lang='vi-VN';
+    const v=voices[vSel.value];if(v)u.voice=v;
+    u.onend=()=>{
+      if(my!==token)return;
+      if(s+1<segs.length)setTimeout(()=>say(k,s+1),ms(segs[s].endsWith(',')?'comma':'inner'));
+      else if(cont)setTimeout(()=>go(k+1),ms('gap'));
+      else mark(-1);
+    };
+    synth.speak(u);
+  };
+  const go=k=>{
+    if(my!==token)return;
+    if(k>=rows.length){mark(-1);if(cont)setResume(0);return}
+    if(cont&&rows[k].ol.hidden){go(k+1);return}  // "play all" skips closed parts
+    if(cont)setResume(k);
+    mark(k);say(k,0);
+  };
+  go(i);
+}
+document.getElementById('all').onclick=()=>playFrom(resumeAt<rows.length?resumeAt:0,true);
+document.getElementById('restart').onclick=()=>{setResume(0);playFrom(0,true)};
+document.getElementById('stop').onclick=()=>{token++;synth&&synth.cancel()};  // keep the highlight so you see where it stopped
+// Reload with a fresh URL so the phone browser skips its cached copy of the page
+document.getElementById('reload').onclick=()=>{location.replace(location.pathname+'?v='+Date.now())};
+
+</script>
+</body>
+</html>
