@@ -33,15 +33,6 @@ And yeah, that's it. Any questions?
 ### Delivering Bad News (S30)
 I'm afraid I can't join the badminton tournament next week. The reason is I have to go onsite to Hanoi for work. This will affect our team, because we won't be able to play as a full team. However, I can help find someone to take my place, and I'll cheer for you online.
 
-### Yes/No Agreements (S34)
-- I'm tired after the trip. So am I.
-- I like local beer. So do I.
-- Dung likes football, and so does Luke.
-- I didn't enjoy the traffic. Neither did I.
-- I've been to Hanoi. So have I.
-- Louis won't come today, and neither will the CEO.
-- I can't join the 1-1 review, and neither can Dung.
-
 ### Explain Consequences (S39)
 Zero conditional (rules, procedures, system behavior)
 - If I'm late for work, my boss gets upset with me.
