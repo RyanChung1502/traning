@@ -99,3 +99,4 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | "Your hotel is on my way home, so I can drop you off." | offering a guest a ride back |
 | "My wife is on her way here to pick me up." | saying someone is coming to get you |
 | "Now it has developed so much, it's hard to believe." | how much a place has changed |
+| Them: "How far is your home from the office?" → Me: "I live about fifteen kilometres from the office." | answering a commute question |
