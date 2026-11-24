@@ -41,6 +41,7 @@ li .play{flex:none;width:40px;height:40px;padding:0;border-radius:50%;font-size:
 .abc[hidden]{display:none}
 .group{font-family:var(--body);font-size:.95rem;margin:14px 0 8px;color:var(--muted);font-weight:600}
 .more{margin-top:12px}
+.addbtn{font:inherit;text-decoration:none;border-radius:8px;border:1px solid var(--accent);color:var(--accent);background:var(--card);padding:8px 14px}
 li .del{flex:none;margin-left:auto;width:36px;height:36px;padding:0;border-radius:50%;color:var(--muted)}
 .own{display:grid;gap:6px;margin-top:28px;padding:14px;border:1px dashed var(--line);border-radius:10px}
 .own h2{margin:0 0 4px}
@@ -59,6 +60,7 @@ li .del{flex:none;margin-left:auto;width:36px;height:36px;padding:0;border-radiu
 <button id="restart" hidden>⏮ Từ đầu</button>
 <button id="stop">■ Dừng</button>
 <button id="reload" title="Tải lại trang với nội dung mới nhất">↻ Tải lại</button>
+<a class="addbtn" href="kids-add.html">+ Thêm câu</a>
 <label for="rate">Tốc độ <select id="rate"><option value="0.6">Rất chậm</option><option value="0.75" selected>Chậm</option><option value="0.9">Hơi chậm</option><option value="1">Bình thường</option></select></label>
 <label for="gap">Nghỉ giữa câu <select id="gap"><option value="2000">2 giây</option><option value="4000" selected>4 giây</option><option value="6000">6 giây</option><option value="10000">10 giây</option></select></label>
 <label for="inner">Trong một câu <select id="inner"><option value="500">0.5 giây</option><option value="1500" selected>1.5 giây</option><option value="3000">3 giây</option></select></label>
@@ -66,13 +68,6 @@ li .del{flex:none;margin-left:auto;width:36px;height:36px;padding:0;border-radiu
 <label for="voice">Giọng <select id="voice"></select></label>
 </div>
 <div id="list"><p class="note">Đang tải…</p></div>
-<form id="ownForm" class="own" autocomplete="off">
-<h2>Thêm câu hỏi của bạn</h2>
-<label for="ownQ">Câu hỏi</label><input id="ownQ" placeholder="Ví dụ: Ăn xong phải làm gì?">
-<label for="ownA">Câu trả lời</label><input id="ownA" placeholder="Ví dụ: Ăn xong, phải rửa tay.">
-<button type="submit" class="primary">+ Thêm</button>
-<p class="note" id="ownNote">Câu bạn thêm chỉ lưu trên máy này, không gửi đi đâu.</p>
-</form>
 <h2>Bảng chữ cái</h2>
 <p class="group">Nhóm 1</p>
 <div class="abc" id="abc1"></div>
@@ -143,17 +138,6 @@ function renderAll(){
   render(secs);
 }
 function removeOwn(i){const a=loadOwn();a.splice(i,1);saveOwn(a);renderAll()}
-document.getElementById('ownForm').addEventListener('submit',e=>{
-  e.preventDefault();
-  const qi=document.getElementById('ownQ'),ai=document.getElementById('ownA'),note=document.getElementById('ownNote');
-  let q=qi.value.trim(),a=ai.value.trim();
-  if(!q||!a){note.textContent='Nhập cả câu hỏi và câu trả lời.';return}
-  if(!/[?]$/.test(q))q+='?';
-  if(!/[.!?]$/.test(a))a+='.';
-  const list2=loadOwn();list2.push({q,a});
-  if(!saveOwn(list2)){note.textContent='Trình duyệt không cho lưu. Thử tắt chế độ ẩn danh.';return}
-  qi.value='';ai.value='';note.textContent='Đã thêm. Câu này chỉ lưu trên máy này.';renderAll();
-});
 fetch('../current/kids-vietnamese-phrases.md',{cache:'no-store'})
   .then(r=>{if(!r.ok)throw new Error(r.status);return r.text()})
   .then(md=>{baseSections=parse(md);renderAll();setResume(resumeAt)})

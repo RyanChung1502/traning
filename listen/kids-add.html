@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Thêm câu cho con</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=Source+Sans+3:wght@400;600&display=swap">
+<style>
+/* Same look as the kids listening page: one column, a form card, then the saved list */
+:root{--bg:#f6f7f4;--fg:#1d2420;--muted:#5f6b64;--card:#ffffff;--line:#dfe3dd;--accent:#1f7a5c;--accent-ink:#ffffff;
+--q:#c2502e;--q-bg:#fbeee9;--a:#2e7d32;--a-bg:#e8f5e9;
+--display:"Fraunces",Georgia,serif;--body:"Source Sans 3",system-ui,sans-serif}
+@media (prefers-color-scheme:dark){:root{--bg:#141916;--fg:#e8ece9;--muted:#9aa69f;--card:#1c231f;--line:#2c3530;--accent:#5cc49c;--accent-ink:#0f1512;--q:#f08a6c;--q-bg:#3a2520;--a:#7fcf86;--a-bg:#1f3322;color-scheme:dark}}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--body);font-size:17px;line-height:1.5}
+.wrap{max-width:680px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 48px}
+a.back{color:var(--accent);text-decoration:none;font-weight:600}
+h1{font-family:var(--display);font-weight:600;font-size:1.8rem;margin:12px 0 4px;text-wrap:balance}
+h2{font-family:var(--display);font-weight:600;font-size:1.15rem;margin:28px 0 8px}
+.sub,.note{color:var(--muted);font-size:.9rem;margin:0}
+form{display:grid;gap:6px;margin-top:16px;padding:14px;border:1px solid var(--line);border-radius:10px;background:var(--card)}
+label{font-size:.85rem;color:var(--muted)}
+input{font:inherit;padding:10px;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--fg);min-width:0}
+button{font:inherit;cursor:pointer;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--fg);padding:8px 14px}
+button.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent);font-weight:600;justify-self:start;margin-top:6px}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+ol{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:12px}
+li{display:flex;gap:10px;align-items:flex-start;border:1px solid var(--line);border-radius:10px;padding:10px 12px;background:var(--card)}
+li .txt{min-width:0;flex:1;display:flex;flex-direction:column;gap:4px;font-weight:600}
+li .q{color:var(--q)}
+li .a{color:var(--a)}
+li .del{flex:none;width:36px;height:36px;padding:0;border-radius:50%;color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="wrap">
+<a class="back" href="kids.html">← Về trang nghe</a>
+<h1>Thêm câu cho con</h1>
+<p class="sub">Câu bạn thêm chỉ lưu trên máy này, không gửi đi đâu. Mỗi câu nên 4–5 chữ, câu dài thì thêm dấu phẩy.</p>
+
+<form id="ownForm" autocomplete="off">
+<label for="ownQ">Câu hỏi</label><input id="ownQ" placeholder="Ví dụ: Ăn xong, phải làm gì?">
+<label for="ownA">Câu trả lời</label><input id="ownA" placeholder="Ví dụ: Ăn xong, phải rửa tay.">
+<button type="submit" class="primary">+ Thêm</button>
+<p class="note" id="ownNote"></p>
+</form>
+
+<h2>Câu hỏi của nhà mình</h2>
+<ol id="saved"></ol>
+<p class="note" id="empty">Chưa có câu nào. Thêm câu đầu tiên ở trên.</p>
+</div>
+<script>
+// Shared with kids.html (same site, same key), kept in this browser only
+const OWN_KEY='kids-own-qa';
+function loadOwn(){try{return JSON.parse(localStorage.getItem(OWN_KEY)||'[]')}catch(e){return[]}}
+function saveOwn(a){try{localStorage.setItem(OWN_KEY,JSON.stringify(a));return true}catch(e){return false}}
+const saved=document.getElementById('saved'),empty=document.getElementById('empty'),note=document.getElementById('ownNote');
+function show(){
+  const own=loadOwn();saved.innerHTML='';empty.hidden=own.length>0;
+  own.forEach((x,i)=>{
+    const li=document.createElement('li');const t=document.createElement('div');t.className='txt';
+    const q=document.createElement('div');q.className='q';q.textContent=x.q;
+    const a=document.createElement('div');a.className='a';a.textContent=x.a;t.append(q,a);
+    const del=document.createElement('button');del.className='del';del.textContent='✕';del.setAttribute('aria-label','Xoá câu này');
+    del.onclick=()=>{const l=loadOwn();l.splice(i,1);saveOwn(l);show()};
+    li.append(t,del);saved.appendChild(li);
+  });
+}
+document.getElementById('ownForm').addEventListener('submit',e=>{
+  e.preventDefault();
+  const qi=document.getElementById('ownQ'),ai=document.getElementById('ownA');
+  let q=qi.value.trim(),a=ai.value.trim();
+  if(!q||!a){note.textContent='Nhập cả câu hỏi và câu trả lời.';return}
+  if(!/[?]$/.test(q))q+='?';
+  if(!/[.!?]$/.test(a))a+='.';
+  const l=loadOwn();l.push({q,a});
+  if(!saveOwn(l)){note.textContent='Trình duyệt không cho lưu. Thử tắt chế độ ẩn danh.';return}
+  qi.value='';ai.value='';note.textContent='Đã thêm. Về trang nghe để nghe câu này.';qi.focus();show();
+});
+show();
+</script>
+</body>
+</html>
