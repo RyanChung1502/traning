@@ -93,3 +93,5 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | Guest: "Have you been to Ho Chi Minh City?" → Me: "Yes, I worked there for a while, and I've been back a few times since." | when asked about HCMC |
 | "Have you tried the local beer here? How does it taste different from New Zealand beer?" → Or: "How is it different from beer in New Zealand?" | light topic with a NZ guest |
 | "I guess your evenings will be busy with our managers, but do you have a free evening? I'd love to take you out for some local food and drinks." | inviting a client out for an evening |
+| "It's really crowded there. This side is newer, with wider roads and fewer people." | comparing the old and new parts of the city |
+| "I try to get my work done at the office, because when I get home, my kids won't let me touch my laptop. They just want me to play with them all the time!" | why I finish work at the office |
