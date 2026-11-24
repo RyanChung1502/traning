@@ -33,13 +33,6 @@ And yeah, that's it. Any questions?
 ### Delivering Bad News (S30)
 I'm afraid I can't join the badminton tournament next week. The reason is I have to go onsite to Hanoi for work. This will affect our team, because we won't be able to play as a full team. However, I can help find someone to take my place, and I'll cheer for you online.
 
-### Explain Consequences (S39)
-Zero conditional (rules, procedures, system behavior)
-- If I'm late for work, my boss gets upset with me.
-
-1st conditional (choices, decisions, risks)
-- If I study English hard, I'll have more chances to get promoted in the age of agentic AI.
-
 ### Give and Receive Negative Feedback (S40)
 Giving feedback
 - "Hey Dung, do you have a minute?" (private)

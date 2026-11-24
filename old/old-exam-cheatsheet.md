@@ -1,10 +1,8 @@
 
 
-### Yes/No Agreements (S34)
-- I'm tired after the trip. So am I.
-- I like local beer. So do I.
-- Dung likes football, and so does Luke.
-- I didn't enjoy the traffic. Neither did I.
-- I've been to Hanoi. So have I.
-- Louis won't come today, and neither will the CEO.
-- I can't join the 1-1 review, and neither can Dung.
+### Explain Consequences (S39)
+Zero conditional (rules, procedures, system behavior)
+- If I'm late for work, my boss gets upset with me.
+
+1st conditional (choices, decisions, risks)
+- If I study English hard, I'll have more chances to get promoted in the age of agentic AI.
