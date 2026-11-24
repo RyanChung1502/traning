@@ -95,3 +95,7 @@ Nothing here yet — tell me "this one's familiar now" and I'll move it here.
 | "I guess your evenings will be busy with our managers, but do you have a free evening? I'd love to take you out for some local food and drinks." | inviting a client out for an evening |
 | "It's really crowded there. This side is newer, with wider roads and fewer people." | comparing the old and new parts of the city |
 | "I try to get my work done at the office, because when I get home, my kids won't let me touch my laptop. They just want me to play with them all the time!" | why I finish work at the office |
+| "We might be busy with the client this afternoon, so it's safer to move it. I'll check our schedule with them and let you know a new time soon." | moving a session while checking the client's schedule |
+| "Your hotel is on my way home, so I can drop you off." | offering a guest a ride back |
+| "My wife is on her way here to pick me up." | saying someone is coming to get you |
+| "Now it has developed so much, it's hard to believe." | how much a place has changed |

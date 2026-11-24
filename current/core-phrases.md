@@ -10,7 +10,6 @@
 - Them: "How was your weekend?" → Me: "It was nice and relaxing. I spent most of it with my kids, and we went out for some local food. How was yours?" → Or: "It was great. On Saturday, I played badminton with my friends. On Sunday, we visited my relatives and had a big meal together. How was yours?"
 - Them: "How far is your home from the office?" → Me: "I live about fifteen kilometres from the office."
 - "I live on the other side of the city, in the old part, so I have to go through the city centre."
-- "My wife is on her way here to pick me up."
 - "I drive a small VinFast electric car. VinFast is a Vietnamese brand. It belongs to the same group as Xanh SM, the taxi app. That's why you see their electric taxis everywhere."
 - "I bought my car recently, after taxes and fees for electric cars went down. The government also gives some support."
 - "Charging is about three to four times cheaper than petrol in Vietnam. It's fast too. Thirty minutes of charging gives me about a hundred kilometres. A full charge takes about an hour and lasts almost two hundred."
@@ -24,7 +23,6 @@
 ### 5. Code reviews & PRs
 
 ### 6. Project & team coordination
-- "We might be busy with the client this afternoon, so it's safer to move it. I'll check our schedule with them and let you know a new time soon."
 
 ### 7. Hosting a visitor
 
@@ -35,7 +33,6 @@
 - "Are you going back to the hotel first, or straight to the restaurant tonight?" → Me: "I'll go straight to the restaurant after work."
 - "Let's eat a big lunch today, so we can skip dinner and save room for more beer at the party tonight!"
 - "How many people are coming to the party tonight?"
-- "Your hotel is on my way home, so I can drop you off."
 - "You look younger in person than on camera!"
 - "You look just like your photos!"
 - "I heard your flight was delayed. I hope you're not too tired! Are you still planning to come to the office today, or would you like to rest first?"
@@ -53,4 +50,3 @@
 - "I take a different road each time, so you can see different parts of the city."
 - "Were you surprised to see so many big container trucks going through the city centre? That's because Tien Sa Port is on the other side of the city."
 - "In the past, only fishermen lived here, and there was no bridge, so people crossed the river in round basket boats."
-- "Now it has developed so much, it's hard to believe."
