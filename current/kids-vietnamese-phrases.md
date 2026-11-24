@@ -46,5 +46,7 @@ Mỗi câu tối đa 4–5 chữ; câu dài hơn thì thêm dấu phẩy để n
 - "Nhà Thư có bốn người."
 - "Bố Chung, mẹ Hiền."
 - "Anh Thư, em Khôi."
+- "Hôm nay, Thư qua nhà chú Tâm."
+- "Nhà chú có hai bạn."
 
 > Dạy con nhìn vào mắt người lớn khi nói.
