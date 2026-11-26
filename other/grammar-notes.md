@@ -68,3 +68,11 @@ No plural form → always singular verb (is / looks / has).
 - Ask about **Viktor** (object) → use did: "Who **did** Ryan play with?"
 - Ask about **Ryan** (subject) → no did, verb keeps its tense: "Who **played** badminton with Viktor?"
 - Same rule as "Who approves the refund?" (no do/does/did when who is the subject)
+
+## -ed endings: /t/, /d/ or /ɪd/?
+
+The sound **before** -ed decides (same idea as 's).
+
+- After voiceless p / k / f / s / sh / ch / x → **/t/** → finished, fixed, worked, asked
+- After vowels and voiced b / g / l / m / n / v / z → **/d/** → played, called, planned
+- After t / d → **/ɪd/** (extra syllable) → wanted, needed, completed
