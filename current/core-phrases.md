@@ -12,6 +12,7 @@
 - "My wife told me to cut down on food, so I cut my hair instead!"
 - "Honestly, I don't know much about that. What makes you think so?"
 - "No, I haven't heard about that. What happened?"
+- "Try not to stay up too late."
 - "I live on the other side of the city, in the old part, so I have to go through the city centre to get to work."
 - "I drive a small VinFast electric car. VinFast is a Vietnamese brand. It belongs to the same group as Xanh SM, the taxi app. That's why you see their electric taxis everywhere."
 - "I bought my car recently, after taxes and fees for electric cars went down. The government also gives some support."
