@@ -85,3 +85,9 @@ The sound **before** -ed decides (same idea as 's).
 - **would like** = neutral, polite → requests, formal situations: "I'd like to request a day off."
 - **would love** = warmer, excited → invitations, happy offers: "I'd love to take you out for lunch!"
 - Don't use "would love" in a formal request ("I'd love a day off" sounds too emotional).
+
+## See you then / see you at 1pm
+
+- **See you then** = see you at the time we just agreed (casual) → "Lunch at 12? See you then!"
+- **See you there** = at the place we agreed
+- Time matters (meeting, client call)? Repeat it as a double-check → "See you at 1pm."
