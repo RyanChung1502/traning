@@ -4,10 +4,6 @@
 - If we release on Friday, we run the risk of breaking the app over the weekend.
 - One advantage of street food is, it's cheap and local. One disadvantage is, it can be too spicy for the client.
 - The main trade-off is cost versus convenience. An electric car is cheaper to run, but it takes longer to charge than filling up a petrol car.
-- If we book a fancy restaurant, the client won't see the real local food.
-
-### Compare (S17)
-- Street food is the least expensive way to try local food.
 
 ### Explain an Urgent Problem (S03)
 Our car is having a problem. We should have checked it before the long trip. We must find a repair shop as soon as possible. Let's try searching on Google Maps.
