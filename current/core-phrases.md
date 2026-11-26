@@ -9,6 +9,7 @@
 - "To keep it fun for you, you can pick any topic today, like daily life. What would you like to talk about?"
 - Them: "How was your weekend?" → Me: "It was nice and relaxing. I spent most of it with my kids, and we went out for some local food. How was yours?" → Or: "It was great. On Saturday, I played badminton with my friends. On Sunday, we visited my relatives and had a big meal together. How was yours?"
 - Them: "You don't feel cold, so you don't need a jacket?" → Me: "Actually, I'm cold, but I have to look cool!"
+- "My wife told me to cut down on food, so I cut my hair instead!"
 - "I live on the other side of the city, in the old part, so I have to go through the city centre to get to work."
 - "I drive a small VinFast electric car. VinFast is a Vietnamese brand. It belongs to the same group as Xanh SM, the taxi app. That's why you see their electric taxis everywhere."
 - "I bought my car recently, after taxes and fees for electric cars went down. The government also gives some support."
