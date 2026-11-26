@@ -46,6 +46,11 @@ No plural form → always singular verb (is / looks / has).
 | Time | in November, in 2026, in the morning | on Friday, on 20 November | at 1pm, at lunchtime, at night |
 | Place | in Da Nang, in Vietnam, in the room | on the street, on the 6th floor | at the office, at the airport, at home |
 
+**No in/on/at** before **next / last / this / every / the next** → next week, last Friday, this morning, every Monday, the next day
+- "**on** Friday" but "**last** Friday" · "**in** the morning" but "**this** morning"
+- Day + part of day takes **on** → "**on** Monday morning"
+- "on the next day" isn't wrong, just formal (stories, reports)
+
 ## go for + activity
 
 - **go for** + noun = go out to do something → go for lunch / a coffee / a drink / a walk / a run
