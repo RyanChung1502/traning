@@ -97,3 +97,9 @@ The sound **before** -ed decides (same idea as 's).
 - **noon** = exactly 12:00 (a clock time) → "The meeting starts at noon."
 - **lunch** = the meal → "Let's have lunch together." / "What's for lunch?"
 - **lunchtime** = the time of day people eat (~12–1) → "I'm free at lunchtime." (not "during lunch" when you mean the break, not the eating)
+
+## Talking kindly about people's situation
+
+- "uneducated people" can sound insulting
+- Talk about the chance they didn't get, not about the people → "people who didn't have the chance to go to school"
+- e.g. "In the past, only fishermen lived here. Their kids didn't have the chance to go to school."
