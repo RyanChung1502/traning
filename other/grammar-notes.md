@@ -38,3 +38,15 @@ No plural form → always singular verb (is / looks / has).
 - **come** = toward the speaker *or the listener* → "Come here!" / "I'll come to your place." (not "go")
 - **arrive** = the moment you reach a place, a bit formal. **at** a small place, **in** a city/country, never **to** → "I arrived at the airport." / "She arrived in Da Nang."
 - **get** = same as arrive, but natural in speech. Uses **to** → "What time did you get to work?" No preposition with home / here / there → "I got home late."
+
+## in / on / at (big → small)
+
+| | **in** (big, general) | **on** (middle) | **at** (small, exact) |
+|---|---|---|---|
+| Time | in November, in 2026, in the morning | on Friday, on 20 November | at 1pm, at lunchtime, at night |
+| Place | in Da Nang, in Vietnam, in the room | on the street, on the 6th floor | at the office, at the airport, at home |
+
+## go for + activity
+
+- **go for** + noun = go out to do something → go for lunch / a coffee / a drink / a walk / a run
+- **go to** + place → go **to** the café, but go **for** a coffee
