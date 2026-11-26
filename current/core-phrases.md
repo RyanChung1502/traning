@@ -52,6 +52,7 @@
 - "What do you usually do at lunchtime?" → Me: "In Vietnam, we usually get a one-hour lunch break, and some companies even give an hour and a half." → Follow-up: "So what time do people usually finish work in New Zealand?"
 - "In Vietnam, there are small local restaurants on both sides of the street, so it's really easy to find something to eat."
 - "When we go out, we usually try two or three places, and we often finish with something sweet, like chè, a local Vietnamese dish."
+- "Would you ever think about moving to Da Nang? I'm half joking, half serious!" → Or: "Have you ever thought about moving to Da Nang?"
 - Guest: "Do you come here often?" → Me: "I studied at university here and then stayed to work, so I know the old streets quite well."
 - "But now I live and work in the newer part of the city, so I don't come to the old centre much anymore."
 - "You sing so well! You should visit us more often."
