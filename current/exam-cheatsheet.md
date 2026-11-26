@@ -42,10 +42,6 @@ Receiving feedback
 - "Sorry, was it every week, or just the last two?" (clarify)
 - "I'll leave home earlier from now on." (commit)
 
-### Dig Into Requirements (S44)
-- What will happen if we all drink too much on Thursday, including you, and nobody can work on Friday?
-- In New Zealand, what happens if someone drinks too much at a team dinner and can't work the next day?
-
 ### Handle Complaints (S45)
 - Apologize: "I'm so sorry about this."
 - Acknowledge: "I understand how frustrating this is, especially when you have many expenses to submit."
