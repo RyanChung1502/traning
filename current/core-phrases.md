@@ -35,6 +35,7 @@
 - "When are you arriving in Da Nang, and when are you planning to come to the office?"
 - "Happy Teachers' Day! To celebrate, I'd love to take you out for lunch. Which day works for you?"
 - Them: "Sorry, I have a Teams meeting at lunchtime, so I can't go for lunch today." → Me: "I should have booked you before Teams did 😄 Just to confirm, you're not calling it off, just pushing it back, right?"
+- "Sounds good! Just let me know which day works for you."
 - "Great! Let's finalise on Monday. You have a local guide this time, so get ready for things no big tour can offer!"
 - "No problem! So it'll be just our team tonight, and we'll plan another evening with you."
 - "Are you going back to the hotel first, or straight to the restaurant tonight?" → Me: "I'll go straight to the restaurant after work."
