@@ -31,3 +31,10 @@ No plural form → always singular verb (is / looks / has).
 - **Note-style (writing only):** drop is/are/were/the → "Comments addressed." "Build passing." "Ready for review." Good for PR comments, commits, chat status.
 - **Spoken shortening:** drop the subject at the front, keep the verb → "Sounds good." "Got it." "Makes sense." Never drop the verb when speaking.
 - In a meeting, put the words back: not "Comments addressed" but "The comments have been addressed."
+
+## go / come / arrive / get
+
+- **go** = away from where the speaker is → "I'm going to the office."
+- **come** = toward the speaker *or the listener* → "Come here!" / "I'll come to your place." (not "go")
+- **arrive** = the moment you reach a place, a bit formal. **at** a small place, **in** a city/country, never **to** → "I arrived at the airport." / "She arrived in Da Nang."
+- **get** = same as arrive, but natural in speech. Uses **to** → "What time did you get to work?" No preposition with home / here / there → "I got home late."
