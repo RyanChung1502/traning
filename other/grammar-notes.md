@@ -76,3 +76,11 @@ The sound **before** -ed decides (same idea as 's).
 - After voiceless p / k / f / s / sh / ch / x → **/t/** → finished, fixed, worked, asked
 - After vowels and voiced b / g / l / m / n / v / z → **/d/** → played, called, planned
 - After t / d → **/ɪd/** (extra syllable) → wanted, needed, completed
+
+## would like vs would love
+
+*"What's the difference between 'would like' and 'would love'?"*
+
+- **would like** = neutral, polite → requests, formal situations: "I'd like to request a day off."
+- **would love** = warmer, excited → invitations, happy offers: "I'd love to take you out for lunch!"
+- Don't use "would love" in a formal request ("I'd love a day off" sounds too emotional).
