@@ -25,7 +25,7 @@
 
 ### 6. Project & team coordination
 - "How many people didn't get the meeting invite?"
-- "How upset are they?"
+- "How upset were they?"
 
 ### 7. Hosting a visitor
 
