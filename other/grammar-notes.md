@@ -91,3 +91,9 @@ The sound **before** -ed decides (same idea as 's).
 - **See you then** = see you at the time we just agreed (casual) → "Lunch at 12? See you then!"
 - **See you there** = at the place we agreed
 - Time matters (meeting, client call)? Repeat it as a double-check → "See you at 1pm."
+
+## noon / lunch / lunchtime
+
+- **noon** = exactly 12:00 (a clock time) → "The meeting starts at noon."
+- **lunch** = the meal → "Let's have lunch together." / "What's for lunch?"
+- **lunchtime** = the time of day people eat (~12–1) → "I'm free at lunchtime." (not "during lunch" when you mean the break, not the eating)
