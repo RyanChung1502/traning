@@ -15,8 +15,6 @@
 - "Try not to stay up too late."
 - Me: "As an international speaker, which one should I use?" → Them: "You should have used 'in the future'."
 - "I live on the other side of the city, in the old part, so I have to go through the city centre to get to work."
-- "I drive a small VinFast electric car. VinFast is a Vietnamese brand. It belongs to the same group as Xanh SM, the taxi app. That's why you see their electric taxis everywhere."
-- "I bought my car recently, after taxes and fees for electric cars went down. The government also gives some support."
 - "Charging is about three to four times cheaper than petrol in Vietnam. It's fast too. Thirty minutes of charging gives me about a hundred kilometres. A full charge takes about an hour and lasts almost two hundred."
 
 ### 2. Running the daily
@@ -37,7 +35,6 @@
 - Them: "Sorry, I have a Teams meeting at lunchtime, so I can't go for lunch today." → Me: "I should have booked you before Teams did 😄 Just to confirm, you're not calling it off, just pushing it back, right?"
 - "Sounds good! Just let me know which day works for you."
 - "Great! Let's finalise on Monday. You have a local guide this time, so get ready for things no big tour can offer!"
-- "No problem! So it'll be just our team tonight, and we'll plan another evening with you."
 - "Are you going back to the hotel first, or straight to the restaurant tonight?" → Me: "I'll go straight to the restaurant after work."
 - "Let's eat a big lunch today, so we can skip dinner and save room for more beer at the party tonight!"
 - "How many people are coming to the party tonight?"
@@ -48,7 +45,6 @@
 - Guest: "I'll be in the office in another 45 mins - 1 hour, just catching up on some work." → Me: "No problem, take your time. See you soon!"
 - "We've booked a meeting room for you for the whole week, so you can use it any time without worrying about someone else taking it."
 - "At lunchtime, you can take a nap in your chair, have a coffee at the café on the ground floor, or go up to the rooftop on the 6th floor to relax, whatever you prefer."
-- "This sauce is made from fermented shrimp, and it has a very strong smell. Would you like to try a little, or would you prefer fish sauce?"
 - "What do you like to do when you're not working?"
 - "What do you usually do at lunchtime?" → Me: "In Vietnam, we usually get a one-hour lunch break, and some companies even give an hour and a half." → Follow-up: "So what time do people usually finish work in New Zealand?"
 - "In Vietnam, there are small local restaurants on both sides of the street, so it's really easy to find something to eat."
@@ -56,7 +52,4 @@
 - "Would you ever think about moving to Da Nang? I'm half joking, half serious!" → Or: "Have you ever thought about moving to Da Nang?"
 - Guest: "Do you come here often?" → Me: "I studied at university here and then stayed to work, so I know the old streets quite well."
 - "But now I live and work in the newer part of the city, so I don't come to the old centre much anymore."
-- "You sing so well! You should visit us more often."
-- "I take a different road each time, so you can see different parts of the city."
-- "Were you surprised to see so many big container trucks going through the city centre? That's because Tien Sa Port is on the other side of the city."
 - "In the past, only fishermen lived here, and there was no bridge, so people crossed the river in round basket boats."
