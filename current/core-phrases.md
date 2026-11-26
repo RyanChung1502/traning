@@ -40,6 +40,7 @@
 - "Are you going back to the hotel first, or straight to the restaurant tonight?" → Me: "I'll go straight to the restaurant after work."
 - "Let's eat a big lunch today, so we can skip dinner and save room for more beer at the party tonight!"
 - "How many people are coming to the party tonight?"
+- "If we don't book the restaurant today, we'll run the risk of not getting a table for Thursday."
 - "You look younger in person than on camera!"
 - "You look just like your photos!"
 - "I heard your flight was delayed. I hope you're not too tired! Are you still planning to come to the office today, or would you like to rest first?"
