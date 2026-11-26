@@ -65,3 +65,6 @@ We've confirmed Thursday evening for local food and drinks. We're currently choo
 - How many people didn't get the meeting invite?
 - How upset were they?
 - Was it all the sessions, or just the last one?
+
+### Ask for More Time
+- Could we push the deadline back to Friday? I need a bit more time to finish testing.
