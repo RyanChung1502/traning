@@ -104,3 +104,9 @@ The sound **before** -ed decides (same idea as 's).
 - Talk about the chance they didn't get, not about the people → "people who didn't have the chance to go to school"
 - e.g. "In the past, only fishermen lived here. Their kids didn't have the chance to go to school."
 - In reports / research, avoid "uneducated" too → "people with no formal education", "people with a low level of education", or exact: "people who did not finish primary school"
+
+## take a road (not drive / choose)
+
+- **take** + road / route / way = use that way to get somewhere → take a different road, take the highway, take a shortcut, take the bus
+- **drive** needs a preposition → drive **on / along** a road
+- **choose** is correct but stresses the decision → less natural for a habit
