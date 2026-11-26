@@ -28,6 +28,7 @@
 ### 5. Code reviews & PRs
 
 ### 6. Project & team coordination
+- "It was really helpful to see the big picture. It helps me understand why we work the way we do. Thanks for sharing!"
 
 ### 7. Hosting a visitor
 
