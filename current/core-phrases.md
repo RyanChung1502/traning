@@ -13,6 +13,7 @@
 - "Honestly, I don't know much about that. What makes you think so?"
 - "No, I haven't heard about that. What happened?"
 - "Try not to stay up too late."
+- Me: "As an international speaker, which one should I use?" → Them: "You should have used 'in the future'."
 - "I live on the other side of the city, in the old part, so I have to go through the city centre to get to work."
 - "I drive a small VinFast electric car. VinFast is a Vietnamese brand. It belongs to the same group as Xanh SM, the taxi app. That's why you see their electric taxis everywhere."
 - "I bought my car recently, after taxes and fees for electric cars went down. The government also gives some support."
