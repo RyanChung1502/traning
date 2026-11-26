@@ -50,3 +50,8 @@ No plural form → always singular verb (is / looks / has).
 
 - **go for** + noun = go out to do something → go for lunch / a coffee / a drink / a walk / a run
 - **go to** + place → go **to** the café, but go **for** a coffee
+
+## both / all go before "the"
+
+- ✅ **both sides** of the street (most common) · ✅ both the sides (rare) · ❌ the both sides
+- Same with **all** → "all the people", not "the all people"
