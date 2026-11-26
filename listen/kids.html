@@ -95,6 +95,8 @@ function parse(md){
 }
 // Split one phrase into sentences so each can be spoken with a pause after it
 function splitSentences(t){
+  // emojis are shown, not read aloud; they still count as a sentence break
+  t=t.replace(/\s*[\p{Extended_Pictographic}\uFE0F\u200D]+\s*/gu,". ").replace(/([.?!,])\.\s/g,"$1 ").trim();
   // also split at commas, so the reader can hold a short pause there
   return (t.match(/[^.?!,]+[.?!,]+|[^.?!,]+$/g)||[t]).map(s=>s.trim()).filter(Boolean);
 }
