@@ -103,3 +103,4 @@ The sound **before** -ed decides (same idea as 's).
 - "uneducated people" can sound insulting
 - Talk about the chance they didn't get, not about the people → "people who didn't have the chance to go to school"
 - e.g. "In the past, only fishermen lived here. Their kids didn't have the chance to go to school."
+- In reports / research, avoid "uneducated" too → "people with no formal education", "people with a low level of education", or exact: "people who did not finish primary school"
