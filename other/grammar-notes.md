@@ -60,3 +60,11 @@ No plural form → always singular verb (is / looks / has).
 
 - ✅ **both sides** of the street (most common) · ✅ both the sides (rare) · ❌ the both sides
 - Same with **all** → "all the people", not "the all people"
+
+## Who as subject vs object
+
+*Ryan played badminton with Viktor last night.*
+
+- Ask about **Viktor** (object) → use did: "Who **did** Ryan play with?"
+- Ask about **Ryan** (subject) → no did, verb keeps its tense: "Who **played** badminton with Viktor?"
+- Same rule as "Who approves the refund?" (no do/does/did when who is the subject)
