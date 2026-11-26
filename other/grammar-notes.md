@@ -25,6 +25,7 @@ No plural form → always singular verb (is / looks / has).
 - *This information **is** helpful* ✅
 - You can't say "two codes" / "two informations".
 - "everything else" is also singular → *everything else **looks** good*.
+- Drinks switch to countable when you mean one serving: **a coffee** = a cup of coffee; **three coffees** = three cups of coffee (also a beer, two teas). In general they stay uncountable: "I like coffee."
 
 ## Note-style vs spoken shortening
 
