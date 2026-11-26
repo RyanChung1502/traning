@@ -60,3 +60,8 @@ We've confirmed Thursday evening for local food and drinks. We're currently choo
 - Take ownership: "I'll investigate this issue personally."
 - Dig for details: "Does it crash every time you submit, or only sometimes? What exactly happens on the screen?"
 - Suggest a fix (try + -ing): "In the meantime, have you tried logging out and logging in again?"
+
+### Missed Meeting Invites
+- How many people didn't get the meeting invite?
+- How upset were they?
+- Was it all the sessions, or just the last one?
