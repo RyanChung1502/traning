@@ -97,6 +97,7 @@ The sound **before** -ed decides (same idea as 's).
 - **noon** = exactly 12:00 (a clock time) → "The meeting starts at noon."
 - **lunch** = the meal → "Let's have lunch together." / "What's for lunch?"
 - **lunchtime** = the time of day people eat (~12–1) → "I'm free at lunchtime." (not "during lunch" when you mean the break, not the eating)
+- No "the" after "at" with these time words → at lunchtime, at bedtime, at noon, at night ("at the lunchtime meeting" is fine: there "lunchtime" describes "meeting")
 
 ## Talking kindly about people's situation
 
