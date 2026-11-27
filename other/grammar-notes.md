@@ -110,3 +110,9 @@ The sound **before** -ed decides (same idea as 's).
 - **take** + road / route / way = use that way to get somewhere → take a different road, take the highway, take a shortcut, take the bus
 - **drive** needs a preposition → drive **on / along** a road
 - **choose** is correct but stresses the decision → less natural for a habit
+
+## think of vs think about
+
+- **think about** = spend time considering → "I'm thinking about the project." / "Would you ever think about moving to Da Nang?"
+- **think of** = (1) opinion → "What do you think of the traffic in Vietnam?" (2) an idea/memory comes to mind → "I can't think of his name." / "I thought of a good idea."
+- Plans: both work → "I'm thinking of / about changing jobs."
