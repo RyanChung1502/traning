@@ -8,6 +8,7 @@
 - Them: "How much do you earn?" → Me: "I'd rather keep that one to myself!" → Or: "I'd prefer to keep that one to myself."
 - "To keep it fun for you, you can pick any topic today, like daily life. What would you like to talk about?"
 - Them: "How was your weekend?" → Me: "It was nice and relaxing. I spent most of it with my kids, and we went out for some local food. How was yours?" → Or: "It was great. On Saturday, I played badminton with my friends. On Sunday, we visited my relatives and had a big meal together. How was yours?"
+- After they tell you about their weekend → Me: "That sounds fun! Where did you go?"
 - "How was your day?" → Me: "It was pretty busy, but good. I got a lot done today!"
 - Them: "You don't feel cold, so you don't need a jacket?" → Me: "Actually, I'm cold, but I have to look cool!"
 - "My wife told me to cut down on food, so I cut my hair instead!"
